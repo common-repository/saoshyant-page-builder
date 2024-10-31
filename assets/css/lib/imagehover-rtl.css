@@ -1,0 +1,102 @@
+ 
+.sao-hover-reduce-opacity img,
+.sao-hover-remove-opacity img  {
+	opacity:0.7;
+ }
+ .sao-hover-reduce-opacity figure:hover  img,
+.sao-hover-remove-opacity figure:hover  img{
+	opacity:1;
+} 
+ 
+.sao-hover-grow img:hover {
+  	transform:scale(1.1,1.1);
+}
+.sao-hover-remove-color figure:hover img,
+.sao-hover-add-color img {
+   filter: grayscale(100%);
+ 
+}
+.sao-hover-remove-color  img ,
+.sao-hover-add-color figure:hover  img {
+   filter: grayscale(00%);
+}
+.sao-hover-remove-blur  img:hover,
+.sao-hover-add-blur  img {
+   filter: blur(0px);
+ 
+}
+.sao-hover-remove-blur img,
+.sao-hover-add-blur figure:hover  img {
+   filter: blur(1px); 
+ }
+ 
+/*shrink*/
+
+.sao-hover-shrink img{
+ 
+ 	transform:scale(1.1);
+}
+.sao-hover-shrink figure:hover img {
+ 
+ 	transform:scale(1.0);
+ 
+}
+ 
+.sao-hover-rotate img{
+ 
+          transform: rotate(0);
+	}
+.sao-hover-rotate figure:hover img {
+ 
+          transform: rotate(-7deg) scale(1.2);
+}
+ .sao-hover-remove-brighten  figure:hover  img,
+.sao-hover-add-brighten  img {
+   filter: brightness(100%);
+}
+.sao-hover-remove-brighten  img,
+ .sao-hover-add-brighten  figure:hover  img {
+   filter: brightness(125%);
+}
+ 
+ 
+ 
+ 
+.sao-hover-sidepan img{
+     background-position-x: 100% !important;
+
+	 background-size: auto 100% !important;
+	background-repeat: no-repeat !important;
+	  
+    width: 100% !important;
+	 	transition: 1.5s linear !important;
+
+ }
+ 
+.sao-hover-sidepan figure:hover img{
+	    background-position-x:  00% !important;
+	 	transition: 1.5s linear !important;
+
+}  
+ .sao-hover-verticalpan img{
+	 	transition: 1.5s linear !important;
+
+     background-position-y: 00% !important;
+	 background-size: 100% !important
+}
+.sao-hover-verticalpan  figure:hover  img{
+	    background-position-y: 100% !important;
+}  
+ 
+
+ 
+ 
+ .sao-hover-remove-darkness  figure:hover  img,
+.sao-hover-add-darkness   img {
+   filter:  brightness(100%);
+}
+.sao-hover-remove-darkness  img ,
+ .sao-hover-add-darkness figure:hover   img {
+   filter:  brightness(60%);
+}
+ 

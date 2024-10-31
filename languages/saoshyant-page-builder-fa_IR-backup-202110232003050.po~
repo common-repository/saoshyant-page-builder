@@ -1,0 +1,3941 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Saoshyant Page Bulider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-04 19:30+0000\n"
+"PO-Revision-Date: 2021-10-23 16:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.3"
+
+#: element/pie_chart.php:225
+msgid "100px"
+msgstr ""
+
+#: element/notification_box.php:187
+msgid "10px"
+msgstr ""
+
+#: element/pie_chart.php:226
+msgid "125px"
+msgstr ""
+
+#: element/pie_chart.php:227
+msgid "150px"
+msgstr ""
+
+#: element/notification_box.php:188
+msgid "15px"
+msgstr ""
+
+#: options/builder-array.php:219 options/builder-array.php:224
+#: options/builder-array.php:232 options/builder-array.php:241
+#: options/builder-array.php:249 options/builder-array.php:257
+#: options/builder-array.php:262
+msgid "16:9"
+msgstr ""
+
+#: element/pie_chart.php:228
+msgid "175px"
+msgstr ""
+
+#: options/builder-array.php:234 options/builder-array.php:243
+#: options/builder-array.php:251 options/builder-array.php:264
+msgid "1:1"
+msgstr ""
+
+#: element/pie_chart.php:229
+msgid "200px"
+msgstr ""
+
+#: element/notification_box.php:189
+msgid "20px"
+msgstr ""
+
+#: element/pie_chart.php:230
+msgid "225px"
+msgstr ""
+
+#: element/pie_chart.php:231
+msgid "250px"
+msgstr ""
+
+#: element/notification_box.php:190
+msgid "25px"
+msgstr ""
+
+#: element/pie_chart.php:232
+msgid "275px"
+msgstr ""
+
+#: element/pie_chart.php:233
+msgid "300px"
+msgstr ""
+
+#: element/notification_box.php:191
+msgid "30px"
+msgstr ""
+
+#: options/builder-array.php:244 options/builder-array.php:252
+#: options/builder-array.php:265
+msgid "3:5"
+msgstr ""
+
+#: element/notification_box.php:192
+msgid "40px"
+msgstr ""
+
+#: options/builder-array.php:225 options/builder-array.php:233
+#: options/builder-array.php:242 options/builder-array.php:250
+#: options/builder-array.php:258 options/builder-array.php:263
+msgid "4:3"
+msgstr ""
+
+#: element/notification_box.php:193 element/pie_chart.php:223
+msgid "50px"
+msgstr ""
+
+#: options/builder-array.php:218
+msgid "5:2"
+msgstr ""
+
+#: element/notification_box.php:194
+msgid "60px"
+msgstr ""
+
+#: element/notification_box.php:195
+msgid "70px"
+msgstr ""
+
+#: element/pie_chart.php:224
+msgid "75px"
+msgstr ""
+
+#: element/notification_box.php:196
+msgid "80px"
+msgstr ""
+
+#: element/notification_box.php:197
+msgid "90px"
+msgstr ""
+
+#: element/text_block.php:35
+msgid ""
+"<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo "
+"ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis "
+"parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, "
+"pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim</p>"
+msgstr ""
+"<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از "
+"طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که "
+"لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود "
+"ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده "
+"شناخت فراوان جامعه و متخصصان را می طلبد .</p>"
+
+#: options/fonts/fa-icon.php:474
+msgid "Accessibility Icons"
+msgstr "نمادهای دسترسی"
+
+#: element/accordion.php:14 element/accordion.php:53
+msgid "Accordion"
+msgstr "آکاردئون"
+
+#: element/accordion.php:35
+msgid "Accordion 1"
+msgstr "آکاردئون 1"
+
+#: element/accordion.php:40
+msgid "Accordion 2"
+msgstr "آکاردئون 2"
+
+#: element/accordion.php:44
+msgid "Accordion 3"
+msgstr "آکاردئون 3"
+
+#: element/accordion.php:70
+msgid "Active"
+msgstr "فعال"
+
+#: element/accordion.php:310 element/image_gallery_slider.php:118
+msgid "Active Color"
+msgstr "رنگ حالت فعال"
+
+#: element/accordion.php:317 element/tabs.php:173
+msgid "Active Heading Color"
+msgstr "رنگ عنوان حالت فعال"
+
+#: element/accordion.php:340
+msgid "Active icon Color"
+msgstr "رنگ آیکون حالت فعال"
+
+#: framework/builder-column.php:257 framework/builder-element.php:337
+#: framework/builder-template.php:70 framework/builder-template.php:87
+msgid "Add"
+msgstr "افزودن"
+
+#: element/mini/image.php:90
+msgid "Add Blur"
+msgstr "افزودن بلور"
+
+#: element/multi_icon_text.php:58 element/multi_icon_text_2.php:57
+#: element/multi_icon_text_3.php:58 element/multi_image_text.php:70
+#: element/multi_image_text_2.php:70
+msgid "Add Box"
+msgstr "اضافه کردن جعبه"
+
+#: element/mini/image.php:92
+msgid "Add Brighten"
+msgstr "افزودن روشنی"
+
+#: element/button.php:76
+msgid "Add Button"
+msgstr "افزودن دکمه"
+
+#: element/mini/image.php:83
+msgid "Add Color"
+msgstr "افزودن رنگ"
+
+#: element/mini/image.php:94
+msgid "Add Darkness"
+msgstr "افزودن تاریکی"
+
+#: framework/builder-element.php:269
+msgid "Add Element"
+msgstr "افزودن المنت"
+
+#: framework/builder.php:53
+msgid "Add Full Template From Library"
+msgstr "افزودن قالب کامل را از کتابخانه  "
+
+#: framework/builder-options-functions.php:265
+msgid "Add Image"
+msgstr "تصویر اضافه کن"
+
+#: framework/builder-options-functions.php:55
+msgid "Add Item"
+msgstr "افزودن مورد"
+
+#: element/text_list.php:56
+msgid "Add List"
+msgstr "اضافه کردن فهرست"
+
+#: framework/builder-column.php:241 framework/builder-section.php:72
+msgid "Add New Column"
+msgstr "افزودن ستون جدید"
+
+#: framework/builder-column.php:71
+msgid "Add New Element"
+msgstr "افزودن المنت جدید"
+
+#: framework/builder.php:67
+msgid "Add New Section"
+msgstr "افزودن بخش جدید"
+
+#: element/progress_bar.php:70
+msgid "Add Progress Bar"
+msgstr "افزودن نوار پیشفرت"
+
+#: framework/builder-options-functions.php:50
+msgid "Add Tab"
+msgstr "افزودن تب"
+
+#: element/tabs.php:55
+msgid "Add tabs"
+msgstr "افزون تب"
+
+#: options/builder-options-column.php:307
+#: options/builder-options-section.php:369
+msgid "after The background Color"
+msgstr "روی رنگ زمینه"
+
+#: element/button.php:221 element/count_to.php:136 element/divider.php:94
+#: element/divider_vertical.php:74 element/icon.php:45
+#: element/icon_text_2.php:174 element/image.php:118
+#: element/image_gallery.php:103 element/image_text_2.php:151
+#: element/multi_icon_text_2.php:230 element/multi_image_text_2.php:224
+#: element/pie_chart.php:146 element/video.php:89
+msgid "Alignment"
+msgstr "تراز"
+
+#: options/builder-array.php:119
+msgid "All Categories"
+msgstr "همه دسته بندی ها"
+
+#: element/button.php:272
+msgid "All CSS Animation"
+msgstr "تمام انیمیشن های CSS"
+
+#: options/builder-array.php:160 options/builder-array.php:798
+msgid "All Round"
+msgstr "همه دور"
+
+#: element/button.php:240 options/builder-options-section.php:58
+msgid "Amount of space between Column,Default \"0\" "
+msgstr "مقدار فضای بین ستون، پیش فرض \"0\""
+
+#: element/image_gallery_carousel.php:197 element/image_gallery_slider.php:274
+msgid "Animation Pause Time"
+msgstr "انیمیشن - زمان مکث"
+
+#: element/image_gallery_slider.php:266
+msgid "Animation Speed ,Default \"2000\""
+msgstr "سرعت انیمیشن .پیشفرض \"2000\""
+
+#: element/image_gallery_carousel.php:186
+msgid "Animation Speed ,Default \"5000\""
+msgstr " انیمیشن - سرعت، پیش فرض \"5000\""
+
+#: element/video.php:35
+msgid "Aparat"
+msgstr "آپارات"
+
+#: element/image_gallery_carousel.php:150 element/image_gallery_slider.php:197
+#: options/fonts/flaticon.php:14
+msgid "Arrow"
+msgstr "فلش ها"
+
+#: element/image_gallery_carousel.php:134 element/image_gallery_slider.php:181
+msgid "Arrow Color"
+msgstr "رنگ فلش ها"
+
+#: element/image_gallery_carousel.php:96 element/image_gallery_slider.php:143
+msgid "Arrow Laction"
+msgstr "موقعیت فلش ها"
+
+#: element/image_gallery_carousel.php:87 element/image_gallery_slider.php:134
+msgid "Arrow Layout"
+msgstr "طرح بندی فلش ها"
+
+#: element/image_gallery_carousel.php:160 element/image_gallery_slider.php:207
+msgid "Arrow Radius"
+msgstr "گردی فلش ها"
+
+#: element/image_gallery_carousel.php:78 element/image_gallery_slider.php:125
+msgid "Arrows"
+msgstr "فلش ها"
+
+#: element/accordion.php:510 element/accordion.php:519 element/button.php:359
+#: element/button.php:368 element/count_to.php:367 element/count_to.php:376
+#: element/divider.php:131 element/divider.php:140
+#: element/divider_vertical.php:106 element/divider_vertical.php:115
+#: element/heading.php:149 element/heading.php:158 element/html.php:82
+#: element/html.php:91 element/icon.php:291 element/icon.php:300
+#: element/icon_text.php:318 element/icon_text.php:327
+#: element/icon_text_2.php:288 element/icon_text_2.php:297
+#: element/icon_text_3.php:303 element/icon_text_3.php:312
+#: element/image.php:334 element/image.php:343 element/image_gallery.php:234
+#: element/image_gallery.php:243 element/image_gallery_carousel.php:287
+#: element/image_gallery_carousel.php:296 element/image_gallery_slider.php:426
+#: element/image_gallery_slider.php:435 element/image_text.php:366
+#: element/image_text.php:375 element/image_text_2.php:379
+#: element/image_text_2.php:388 element/multi_icon_text.php:382
+#: element/multi_icon_text.php:391 element/multi_icon_text_2.php:354
+#: element/multi_icon_text_2.php:363 element/multi_icon_text_3.php:349
+#: element/multi_icon_text_3.php:358 element/multi_image_text.php:441
+#: element/multi_image_text.php:450 element/multi_image_text_2.php:466
+#: element/multi_image_text_2.php:475 element/notification_box.php:330
+#: element/notification_box.php:339 element/pie_chart.php:403
+#: element/pie_chart.php:412 element/progress_bar.php:433
+#: element/progress_bar.php:442 element/shortcodes.php:68
+#: element/shortcodes.php:77 element/tabs.php:374 element/tabs.php:383
+#: element/text.php:180 element/text.php:189 element/text_block.php:173
+#: element/text_block.php:182 element/text_list.php:332
+#: element/text_list.php:341 element/video.php:124 element/video.php:133
+#: element/widgets.php:86 element/widgets.php:95
+#: options/builder-options-column.php:350
+#: options/builder-options-column.php:359
+#: options/builder-options-section.php:458
+#: options/builder-options-section.php:467
+msgid "Attribute"
+msgstr "صفت"
+
+#: options/builder-array.php:214 options/builder-array.php:1128
+msgid "Author"
+msgstr "نویسنده"
+
+#: options/builder-array.php:248 options/builder-array.php:491
+msgid "Auto"
+msgstr "خودکار"
+
+#: element/image_gallery_carousel.php:171 element/image_gallery_slider.php:238
+msgid "Auto Play"
+msgstr "شروع خودکار"
+
+#: options/builder-array.php:909
+msgid "Backgroud Color"
+msgstr "رنگ زمینه"
+
+#: options/builder-array.php:914
+msgid "Backgroud Height"
+msgstr "ارتفاع پس زمینه"
+
+#: options/builder-array.php:881
+msgid "Backgroud Style"
+msgstr "استایل پس زمینه"
+
+#: element/accordion.php:237 element/accordion.php:266
+#: element/accordion.php:293 element/accordion.php:323
+#: element/accordion.php:346 element/image.php:97 element/image_gallery.php:72
+#: element/image_gallery_carousel.php:143 element/image_gallery_slider.php:190
+#: element/image_text.php:146 element/image_text_2.php:143
+#: element/multi_image_text.php:175 element/tabs.php:159 element/tabs.php:184
+#: element/tabs.php:210 options/builder-options-column.php:62
+#: options/builder-options-column.php:81 options/builder-options-column.php:115
+#: options/builder-options-column.php:162
+#: options/builder-options-column.php:170
+#: options/builder-options-column.php:194
+#: options/builder-options-column.php:275
+#: options/builder-options-column.php:290
+#: options/builder-options-column.php:302
+#: options/builder-options-section.php:124
+#: options/builder-options-section.php:143
+#: options/builder-options-section.php:177
+#: options/builder-options-section.php:224
+#: options/builder-options-section.php:232
+#: options/builder-options-section.php:256
+#: options/builder-options-section.php:337
+#: options/builder-options-section.php:352
+#: options/builder-options-section.php:364
+#: options/builder-options-section.php:385
+#: options/builder-options-section.php:393
+#: options/builder-options-section.php:407
+#: options/builder-options-section.php:415
+msgid "Background"
+msgstr "پس زمینه "
+
+#: element/button.php:137 options/builder-options-column.php:113
+#: options/builder-options-section.php:175
+msgid "Background Color"
+msgstr "رنگ پس زمینه"
+
+#: options/builder-options-column.php:79
+#: options/builder-options-section.php:141
+msgid "Background Color Style"
+msgstr "استایل رنگ زمینه"
+
+#: options/builder-options-column.php:160
+#: options/builder-options-section.php:222
+msgid "Background Image"
+msgstr "تصویر زمینه"
+
+#: options/builder-options-column.php:300
+#: options/builder-options-section.php:362
+msgid "Background Image Depth"
+msgstr "عمق تصویر زمینه"
+
+#: options/builder-options-column.php:168
+#: options/builder-options-section.php:230
+msgid "Background Image Position"
+msgstr "موقعیت تصویر زمینه"
+
+#: options/builder-options-column.php:273
+#: options/builder-options-section.php:335
+msgid "Background Image Repeat"
+msgstr "تکرار تصویر زمینه"
+
+#: options/builder-options-column.php:288
+#: options/builder-options-section.php:350
+msgid "Background Image Size"
+msgstr "انداره تصویر زمینه"
+
+#: options/builder-options-section.php:405
+msgid "Background in Bottom"
+msgstr "زمینه در پایین"
+
+#: options/builder-options-section.php:383
+msgid "Background in Top"
+msgstr "زمینه در بالا"
+
+#: options/builder-options-column.php:192
+#: options/builder-options-section.php:254
+msgid "Background Location"
+msgstr "موقعیت مکانی زمینه"
+
+#: element/image_gallery_slider.php:409
+msgid "Background over Thumb "
+msgstr "زمینه یا تصویر کوچک"
+
+#: options/builder-options-column.php:60
+#: options/builder-options-section.php:122
+msgid "Background Parallax"
+msgstr "زمینه پارالاکس"
+
+#: options/builder-options-section.php:413
+msgid "Background Style"
+msgstr "استایل زمینه"
+
+#: options/builder-options-section.php:391
+msgid "Background Style in Top  "
+msgstr "استایل زمینه در بالا"
+
+#: options/builder-options-column.php:96
+#: options/builder-options-section.php:158
+msgid "Bank Note"
+msgstr "یادداشت بانکی"
+
+#: element/pie_chart.php:250
+msgid "Bar Color"
+msgstr "رنگ نوار"
+
+#: element/pie_chart.php:239
+msgid "Bar Size"
+msgstr "اندازه نوار"
+
+#: options/builder-options-column.php:306
+#: options/builder-options-section.php:368
+msgid "Before the Background Color"
+msgstr "پشت رنگ زمینه"
+
+#: element/button.php:244 options/builder-options-section.php:62
+msgid "Between"
+msgstr "مابین"
+
+#: options/builder-options-section.php:55
+msgid "Between Column"
+msgstr "فاصله بین ستون ها"
+
+#: options/builder-array.php:575
+msgid "Black Circle"
+msgstr "دایره ای سیاه"
+
+#: options/builder-array.php:577
+msgid "Black Glass Circle"
+msgstr "دایره ای سیاه شیشه ای"
+
+#: options/builder-array.php:571
+msgid "Black Glass Square"
+msgstr "مربع ای سیاه شیشه ای"
+
+#: options/builder-array.php:576
+msgid "Black Gray Circle"
+msgstr "مربع ای سیاه خاکستری"
+
+#: options/builder-array.php:570
+msgid "Black Gray Square"
+msgstr "دایره ای سیاه خاکستری"
+
+#: options/builder-array.php:569
+msgid "Black Square"
+msgstr "مربع ای سیاه"
+
+#: options/builder-array.php:932 options/builder-array.php:959
+#: options/builder-array.php:979 options/builder-array.php:1007
+#: options/builder-array.php:1048 element/mini/image.php:28
+#: element/mini/image.php:117
+msgid "Blur"
+msgstr "تاری"
+
+#: element/accordion.php:402 element/accordion.php:466 element/button.php:334
+#: element/count_to.php:339 element/image.php:279 element/pie_chart.php:371
+#: element/progress_bar.php:340 element/progress_bar.php:407
+#: element/tabs.php:266 element/tabs.php:330 element/text_list.php:286
+#: options/builder-array.php:390 options/builder-array.php:1160
+#: element/mini/button_typography.php:49 element/mini/details_typography.php:49
+#: element/mini/percent_typography.php:46 element/mini/text_typography.php:47
+#: element/mini/title_typography.php:44
+msgid "Bold"
+msgstr "پررنگ"
+
+#: element/accordion.php:171 element/button.php:143 element/tabs.php:94
+#: options/builder-options-column.php:313
+#: options/builder-options-column.php:315
+#: options/builder-options-column.php:324
+#: options/builder-options-column.php:334
+#: options/builder-options-section.php:427
+#: options/builder-options-section.php:429
+#: options/builder-options-section.php:438
+#: options/builder-options-section.php:448
+msgid "Border"
+msgstr "کادر دور"
+
+#: element/mini/multi_boxed_item.php:114
+msgid "Border Between item"
+msgstr "کادر در بین آتیم ها"
+
+#: element/accordion.php:204 element/button.php:288 element/icon.php:174
+#: element/notification_box.php:126 element/tabs.php:125
+#: element/text_block.php:140 options/builder-options-column.php:332
+#: options/builder-options-section.php:446 element/mini/boxed.php:53
+#: element/mini/multi_boxed_item.php:54
+msgid "Border Radius"
+msgstr "گردی کادر دور"
+
+#: element/image_gallery_slider.php:96 options/builder-array.php:162
+#: options/builder-array.php:702 options/builder-array.php:726
+#: options/builder-array.php:801 options/builder-array.php:830
+#: options/builder-options-column.php:185
+#: options/builder-options-column.php:240
+#: options/builder-options-section.php:85
+#: options/builder-options-section.php:247
+#: options/builder-options-section.php:302
+#: options/builder-options-section.php:535
+#: options/builder-options-section.php:603
+msgid "Bottom"
+msgstr "پایین"
+
+#: options/builder-options-column.php:186
+#: options/builder-options-section.php:248
+msgid "Bottom Center"
+msgstr "پایین مرکز"
+
+#: options/builder-array.php:1081 options/builder-array.php:1086
+msgid "Bottom Left"
+msgstr "پایین سمت چپ"
+
+#: options/builder-array.php:1081 options/builder-array.php:1086
+msgid "Bottom Right"
+msgstr "سمت راست پایین"
+
+#: element/multi_icon_text.php:55 element/multi_icon_text_2.php:54
+#: element/multi_icon_text_3.php:55 element/multi_image_text.php:67
+#: element/multi_image_text_2.php:67
+msgid "Box"
+msgstr "جعبه"
+
+#: element/count_to.php:171 element/count_to.php:173 element/heading.php:97
+#: element/heading.php:99 element/icon_text.php:199 element/icon_text.php:201
+#: element/icon_text_2.php:208 element/icon_text_2.php:210
+#: element/icon_text_3.php:193 element/icon_text_3.php:195
+#: element/image_text.php:248 element/image_text.php:250
+#: element/image_text_2.php:254 element/image_text_2.php:256
+#: element/multi_icon_text.php:257 element/multi_icon_text.php:259
+#: element/multi_icon_text_2.php:265 element/multi_icon_text_2.php:267
+#: element/multi_icon_text_3.php:234 element/multi_icon_text_3.php:236
+#: element/multi_image_text.php:316 element/multi_image_text.php:318
+#: element/multi_image_text_2.php:332 element/multi_image_text_2.php:334
+#: element/notification_box.php:85 element/notification_box.php:99
+#: element/notification_box.php:110 element/notification_box.php:119
+#: element/notification_box.php:128 element/pie_chart.php:180
+#: element/pie_chart.php:182 element/text.php:133 element/text.php:135
+#: element/text_block.php:69 element/text_block.php:86
+#: element/text_block.php:100 element/text_block.php:109
+#: element/text_block.php:122 element/text_block.php:132
+#: element/text_block.php:142 element/text_block.php:153
+#: element/mini/boxed.php:7 element/mini/boxed.php:16 element/mini/boxed.php:25
+#: element/mini/boxed.php:37 element/mini/boxed.php:46
+#: element/mini/boxed.php:55 element/mini/boxed.php:65
+#: element/mini/boxed.php:73 element/mini/boxed.php:81
+#: element/mini/boxed.php:88 element/mini/boxed.php:97
+#: element/mini/boxed.php:104 element/mini/multi_boxed_item.php:7
+#: element/mini/multi_boxed_item.php:17 element/mini/multi_boxed_item.php:26
+#: element/mini/multi_boxed_item.php:38 element/mini/multi_boxed_item.php:47
+#: element/mini/multi_boxed_item.php:56 element/mini/multi_boxed_item.php:66
+#: element/mini/multi_boxed_item.php:76 element/mini/multi_boxed_item.php:84
+#: element/mini/multi_boxed_item.php:91 element/mini/multi_boxed_item.php:100
+#: element/mini/multi_boxed_item.php:107 element/mini/multi_boxed_item.php:116
+msgid "Box Layout"
+msgstr "طرح بندی جعبه"
+
+#: options/builder-options-column.php:322
+#: options/builder-options-section.php:436
+msgid "Box Shadow"
+msgstr "سایه جعبه"
+
+#: element/count_to.php:178 element/heading.php:104 element/icon_text.php:206
+#: element/icon_text_2.php:215 element/icon_text_3.php:200
+#: element/image_text.php:255 element/image_text_2.php:261
+#: element/pie_chart.php:187 element/text.php:140 element/text_block.php:74
+msgid "Boxed"
+msgstr "جعبه ای"
+
+#: element/count_to.php:179 element/icon_text.php:207
+#: element/icon_text_2.php:216 element/image_text.php:256
+#: element/image_text_2.php:262 element/pie_chart.php:188
+msgid "Boxed 2"
+msgstr "جعبه ای ۲"
+
+#: element/icon_text_2.php:217 element/image_text_2.php:263
+msgid "Boxed 3"
+msgstr "جعبه ای 3"
+
+#: element/icon_text_2.php:218 element/image_text_2.php:264
+msgid "Boxed 4"
+msgstr "جعبه ای 4"
+
+#: element/multi_icon_text.php:264 element/multi_icon_text_2.php:272
+#: element/multi_icon_text_3.php:241 element/multi_image_text.php:323
+#: element/multi_image_text_2.php:339
+msgid "Boxed All"
+msgstr "جعبه ای همه"
+
+#: element/notification_box.php:97 element/text_block.php:107
+#: element/mini/boxed.php:23 element/mini/multi_boxed_item.php:24
+msgid "Boxed Background Color"
+msgstr "رنگ پس زمینه جعبه ای"
+
+#: element/notification_box.php:104 element/text_block.php:115
+#: element/mini/boxed.php:30 element/mini/multi_boxed_item.php:31
+msgid "Boxed Border"
+msgstr "کادر دور جعبه ای"
+
+#: element/icon.php:86 element/notification_box.php:165
+#: element/mini/icon.php:16
+msgid "Boxed Diamond"
+msgstr "جعبه ای لوزی"
+
+#: element/icon.php:87 element/notification_box.php:166
+#: element/mini/icon.php:17
+msgid "Boxed Hexagon"
+msgstr "جعبه ای شش گوش"
+
+#: element/multi_icon_text_2.php:273 element/multi_image_text_2.php:340
+msgid "Boxed Item"
+msgstr "آیتم جعبه ای"
+
+#: element/multi_icon_text.php:265 element/multi_icon_text_3.php:242
+#: element/multi_image_text.php:324
+msgid "Boxed item"
+msgstr "آیتم جعبه ای"
+
+#: element/multi_icon_text_2.php:274 element/multi_image_text_2.php:341
+msgid "Boxed Item 2"
+msgstr "آیتم جعبه ای ۲"
+
+#: element/multi_icon_text.php:266 element/multi_image_text.php:325
+msgid "Boxed item 2"
+msgstr "آیتم جعبه ای ۲"
+
+#: element/multi_icon_text_2.php:275 element/multi_image_text_2.php:342
+msgid "Boxed Item 3"
+msgstr "آیتم جعبه ای ۳"
+
+#: element/multi_icon_text_2.php:276 element/multi_image_text_2.php:343
+msgid "Boxed Item 4"
+msgstr "آیتم جعبه ای ۴"
+
+#: options/builder-options-section.php:40
+msgid "Boxed Layout"
+msgstr "چیدمان جعبه ای"
+
+#: element/icon.php:84 element/notification_box.php:163
+#: element/mini/icon.php:14
+msgid "Boxed Rounded"
+msgstr "جعبه ای گرد"
+
+#: element/notification_box.php:117 element/text_block.php:130
+#: element/mini/boxed.php:44 element/mini/multi_boxed_item.php:45
+msgid "Boxed Shadow"
+msgstr "سایه جعبه"
+
+#: element/icon.php:85 element/notification_box.php:164
+#: element/mini/icon.php:15
+msgid "Boxed Square"
+msgstr "جعبه ای مربع ای"
+
+#: element/text_block.php:98 element/text_block.php:149
+#: element/mini/boxed.php:14 element/mini/boxed.php:62
+#: element/mini/multi_boxed_item.php:15 element/mini/multi_boxed_item.php:63
+msgid "Boxed Style"
+msgstr "استایل جعبه ای"
+
+#: options/fonts/fa-icon.php:769
+msgid "Brand Icons"
+msgstr "آیکون های برند"
+
+#: options/builder-array.php:1217
+msgid "Bubba"
+msgstr "بابا"
+
+#: options/builder-options-column.php:91
+#: options/builder-options-section.php:153
+msgid "Bubbles"
+msgstr "حباب ها"
+
+#: options/fonts/flaticon.php:177
+msgid "Business Seo Elements"
+msgstr ""
+
+#: options/fonts/flaticon_thin.php:551
+msgid "Business Strategy"
+msgstr ""
+
+#: element/button.php:14 element/button.php:74 element/button.php:283
+#: element/button.php:290 element/mini/button.php:17 element/mini/button.php:27
+#: element/mini/button.php:35 element/mini/button.php:43
+#: element/mini/button.php:53 element/mini/button.php:62
+#: element/mini/button.php:70 element/mini/button.php:83
+#: element/mini/button.php:90 element/mini/button.php:100
+#: element/mini/button.php:108 element/mini/button.php:117
+#: element/mini/button.php:123
+msgid "Button"
+msgstr "دکمه"
+
+#: element/button.php:35
+msgid "Button 1"
+msgstr "دکمه 1"
+
+#: element/button.php:52
+msgid "Button 2"
+msgstr "دکمه 2"
+
+#: element/mini/button.php:48
+msgid "Button Background Color"
+msgstr "رنگ پس زمینه دکمه"
+
+#: element/mini/button.php:58
+msgid "Button Border"
+msgstr "کادر دور  دکمه"
+
+#: element/mini/button.php:67
+msgid "Button Border Radius"
+msgstr "گردی کادر دور دکمه"
+
+#: element/mini/button_typography.php:16
+msgid "Button Font Size"
+msgstr "اندازه فونت دکمه"
+
+#: element/mini/button_typography.php:56
+msgid "Button Font Style"
+msgstr "استایل فونت دکمه"
+
+#: element/mini/button_typography.php:40
+msgid "Button Font Weight"
+msgstr "وزن فونت دکمه"
+
+#: element/icon_text.php:151 element/icon_text_2.php:151
+#: element/icon_text_3.php:146 element/image_text.php:200
+#: element/image_text_2.php:208 element/multi_icon_text.php:210
+#: element/multi_icon_text_2.php:207 element/multi_icon_text_3.php:187
+#: element/multi_image_text.php:270 element/multi_image_text_2.php:281
+msgid "Button Margin Top"
+msgstr "فاصله کادر دور بالای دکمه"
+
+#: element/button.php:281 element/mini/button.php:24
+msgid "Button Padding"
+msgstr "فاصله در دکمه"
+
+#: element/mini/button.php:33 element/mini/button.php:81
+msgid "Button Style"
+msgstr "استایل دکمه"
+
+#: element/icon_text.php:80 element/icon_text_2.php:79
+#: element/icon_text_3.php:75 element/image_text.php:113
+#: element/image_text_2.php:111 element/multi_icon_text.php:78
+#: element/multi_icon_text_2.php:77 element/multi_icon_text_3.php:78
+#: element/multi_image_text.php:101 element/multi_image_text_2.php:101
+msgid "Button Text"
+msgstr "متن دکمه"
+
+#: element/mini/button.php:39
+msgid "Button Text Color"
+msgstr "رنگ متن دکمه"
+
+#: element/mini/button_typography.php:7 element/mini/button_typography.php:70
+msgid "Button Typography"
+msgstr "تایپوگرافی دکمه"
+
+#: element/image_gallery.php:97 element/image_gallery_carousel.php:226
+#: element/image_gallery_slider.php:331
+msgid "by \"pexel\""
+msgstr "واحد اندازه \"پکسل\""
+
+#: element/image_gallery_carousel.php:167 element/image_gallery_slider.php:214
+msgid "by \"pexel\" example: \"15\""
+msgstr "مقدار \"پیکسل\" مثال\"15\""
+
+#: options/builder-array.php:317
+msgid "By Width and Height"
+msgstr "با عرض و ارتفاع"
+
+#: framework/builder-column.php:210 framework/builder-element.php:225
+#: framework/builder-section.php:197 framework/builder-template.php:22
+msgid "Cancel"
+msgstr "لغو"
+
+#: options/builder-array.php:1173 element/mini/percent_typography.php:65
+msgid "Capitalize"
+msgstr "بزرگ کردن"
+
+#: element/image.php:100 element/image.php:106
+msgid "Caption"
+msgstr "توضیح‌"
+
+#: element/image.php:239
+msgid "Caption Font Size"
+msgstr "اندازه فونت توضیحات"
+
+#: element/image.php:314
+msgid "Caption Font Style"
+msgstr "استایل فونت توضیحات"
+
+#: element/image.php:266
+msgid "Caption Font Weight"
+msgstr "وزن  فونت توضیحات"
+
+#: element/image.php:288
+msgid "Caption Line Height"
+msgstr "ارتفاع خط توضیحات"
+
+#: options/builder-array.php:1123
+msgid "Category"
+msgstr "دسته بندی"
+
+#: options/builder-array.php:377 options/builder-options-column.php:174
+#: options/builder-options-section.php:236
+msgid "Center"
+msgstr "وسط"
+
+#: saoshyant-page-builder.php:450
+msgid "Change the Column"
+msgstr "تغییر ستون"
+
+#: options/builder-options-column.php:88
+#: options/builder-options-section.php:150
+msgid "Charlie Brown"
+msgstr "چارلی براون"
+
+#: options/fonts/fa-icon.php:604
+msgid "Chart Icons"
+msgstr "آیکون های نمودار"
+
+#: options/builder-array.php:1218
+msgid "Chico"
+msgstr "چیکو"
+
+#: framework/builder-options-functions.php:214
+#: framework/builder-options-functions.php:473
+#: framework/builder-options-functions.php:681
+#: framework/builder-options-functions.php:792
+msgid "Choose Icon"
+msgstr "ایکون را انتخاب کنید"
+
+#: saoshyant-page-builder.php:446
+msgid "Choose Image"
+msgstr "انتخاب تصویر"
+
+#: element/widgets.php:33
+msgid "Choose Widget area"
+msgstr "منطقه ابزارک ها را انتخاب کنید"
+
+#: framework/builder.php:51
+msgid "Close Full Screen"
+msgstr "بستن تمام صفحه"
+
+#: element/html.php:35
+msgid "Code"
+msgstr "کد"
+
+#: element/image_gallery_slider.php:112
+msgid "Color"
+msgstr "رنگ"
+
+#: element/image_gallery.php:80 element/multi_icon_text.php:123
+#: element/multi_icon_text_2.php:123 element/multi_icon_text_3.php:106
+#: element/multi_image_text.php:184 element/multi_image_text_2.php:183
+#: framework/builder-column.php:110 framework/builder-section.php:73
+msgid "Column"
+msgstr "ستون"
+
+#: options/builder-options-column.php:357
+msgid "Column Custom Class"
+msgstr "کلاس سفارشی برای این ستون"
+
+#: options/builder-options-column.php:348
+msgid "Column ID"
+msgstr "ای دی ستون"
+
+#: element/mini/column_responsive.php:85
+#, fuzzy
+#| msgid "Column in Fablet"
+msgid "Column in Mobile"
+msgstr "ستون در فبلت"
+
+#: options/builder-options-column.php:451
+msgid "Column in Phone"
+msgstr "ستون در تلفن"
+
+#: options/builder-options-column.php:404 element/mini/column_responsive.php:32
+msgid "Column in Tablet"
+msgstr "ستون در تبلت"
+
+#: options/builder-array.php:211 options/builder-array.php:1138
+msgid "Comments"
+msgstr "دیدگاه"
+
+#: options/builder-array.php:493
+msgid "Contain"
+msgstr ""
+
+#: element/accordion.php:65 element/accordion.php:425
+#: element/notification_box.php:27 element/notification_box.php:275
+#: element/notification_box.php:285 element/notification_box.php:292
+#: element/shortcodes.php:35 element/tabs.php:65 element/tabs.php:289
+#: element/text_block.php:33
+msgid "Content"
+msgstr "محتوا"
+
+#: element/notification_box.php:272
+msgid "Content Alignment"
+msgstr "تراز محتوا"
+
+#: element/accordion.php:287 element/notification_box.php:290
+#: element/tabs.php:199
+msgid "Content Color"
+msgstr "رنگ متن محتوا"
+
+#: element/accordion.php:431 element/tabs.php:295
+msgid "Content Font Size"
+msgstr "اندازه فونت محتوا "
+
+#: element/accordion.php:494 element/tabs.php:358
+msgid "Content Font Style"
+msgstr "استایل فونت محتوا "
+
+#: element/accordion.php:457 element/tabs.php:321
+msgid "Content Font Weight"
+msgstr "وزن فونت محتوا "
+
+#: element/accordion.php:472 element/tabs.php:336
+msgid "Content Line Height"
+msgstr "ارتفاع خط محتوا "
+
+#: element/notification_box.php:283
+msgid "Content Vertical align in middle"
+msgstr "محتوا عمودی در وسط قرار بگیرد"
+
+#: element/count_to.php:14
+msgid "Count To"
+msgstr "شمارنده"
+
+#: options/builder-array.php:492
+msgid "Cover"
+msgstr "کاور"
+
+#: element/image_gallery_slider.php:372
+msgid "Crop"
+msgstr "بریدن تصویر"
+
+#: element/image.php:182 element/image_text_2.php:309
+#: element/multi_image_text_2.php:397
+msgid "Crop with height"
+msgstr "برش با ارتفاع"
+
+#: element/image.php:183 element/image_text_2.php:310
+#: element/multi_image_text_2.php:398
+msgid "Crop with Ratio"
+msgstr "برش با نسبت"
+
+#: element/accordion.php:162 element/button.php:198 element/count_to.php:158
+#: element/divider.php:119 element/divider_vertical.php:94
+#: element/heading.php:85 element/html.php:56 element/icon.php:67
+#: element/icon_text.php:186 element/icon_text_2.php:195
+#: element/icon_text_3.php:180 element/image.php:140
+#: element/image_gallery.php:130 element/image_gallery_carousel.php:244
+#: element/image_gallery_slider.php:349 element/image_text.php:236
+#: element/image_text_2.php:242 element/multi_icon_text.php:244
+#: element/multi_icon_text_2.php:252 element/multi_icon_text_3.php:221
+#: element/multi_image_text.php:304 element/multi_image_text_2.php:317
+#: element/notification_box.php:70 element/pie_chart.php:167
+#: element/progress_bar.php:174 element/shortcodes.php:57 element/tabs.php:84
+#: element/text.php:118 element/text_block.php:55 element/text_list.php:174
+#: element/video.php:112 element/widgets.php:57
+#: options/builder-options-column.php:47
+msgid "CSS Animation"
+msgstr "انیمیشن CSS"
+
+#: options/fonts/fa-icon.php:611
+msgid "Currency Icons"
+msgstr "آیکون های ارز"
+
+#: options/builder-array.php:494
+msgid "Custom"
+msgstr "سفارشی"
+
+#: element/multi_icon_text.php:67 element/multi_icon_text_2.php:66
+#: element/multi_icon_text_3.php:67 element/text_list.php:65
+msgid "Custom Icon"
+msgstr "آیکون سفارشی"
+
+#: element/image_text.php:67 element/image_text_2.php:66
+#: element/multi_image_text.php:144 element/multi_image_text_2.php:145
+msgid "Custom link"
+msgstr "لینک سفارسی"
+
+#: options/builder-array.php:105
+msgid "Custom Slides"
+msgstr "اسلایدهای سفارشی"
+
+#: options/builder-options-column.php:105
+#: options/builder-options-section.php:167
+msgid "Dalmatian Spots"
+msgstr "لکه دالماسی"
+
+#: options/builder-array.php:278 element/mini/image.php:151
+msgid "Dark"
+msgstr "تاریک"
+
+#: options/builder-array.php:407
+msgid "Dashed"
+msgstr "خط چین"
+
+#: options/builder-array.php:213 options/builder-array.php:1133
+msgid "Date"
+msgstr "تاریخ"
+
+#: element/accordion.php:85 element/accordion.php:398 element/accordion.php:462
+#: element/button.php:330 element/icon.php:107 element/icon_text.php:54
+#: element/icon_text_2.php:55 element/icon_text_3.php:52 element/image.php:275
+#: element/image_gallery_carousel.php:100
+#: element/image_gallery_carousel.php:111
+#: element/image_gallery_carousel.php:121 element/image_gallery_slider.php:147
+#: element/image_gallery_slider.php:158 element/image_gallery_slider.php:168
+#: element/image_text.php:89 element/image_text.php:277
+#: element/image_text_2.php:88 element/multi_icon_text.php:100
+#: element/multi_icon_text_2.php:101 element/multi_image_text.php:124
+#: element/multi_image_text.php:351 element/multi_image_text_2.php:124
+#: element/notification_box.php:186 element/pie_chart.php:64
+#: element/pie_chart.php:222 element/pie_chart.php:367
+#: element/progress_bar.php:336 element/progress_bar.php:403
+#: element/tabs.php:262 element/tabs.php:326 element/text.php:43
+#: element/text_list.php:282 options/builder-array.php:240
+#: options/builder-array.php:289 options/builder-array.php:305
+#: options/builder-array.php:342 options/builder-array.php:358
+#: options/builder-array.php:369 options/builder-array.php:388
+#: options/builder-array.php:394 options/builder-array.php:422
+#: options/builder-array.php:440 options/builder-array.php:451
+#: options/builder-array.php:473 options/builder-array.php:482
+#: options/builder-array.php:490 options/builder-array.php:629
+#: options/builder-array.php:918 options/builder-array.php:1157
+#: options/builder-options-column.php:173
+#: options/builder-options-column.php:278
+#: options/builder-options-column.php:305
+#: options/builder-options-section.php:235
+#: options/builder-options-section.php:340
+#: options/builder-options-section.php:367
+#: element/mini/button_typography.php:45 element/mini/details_typography.php:45
+#: element/mini/icon.php:13 element/mini/icon.php:37
+#: element/mini/text_typography.php:43 element/mini/title_typography.php:40
+msgid "Default"
+msgstr "پیش فرض"
+
+#: element/count_to.php:140 element/divider.php:98
+#: element/divider_vertical.php:78 element/heading.php:123 element/icon.php:49
+#: element/icon_text_2.php:178 element/image.php:122
+#: element/image_gallery.php:110 element/image_text_2.php:155
+#: element/multi_icon_text_2.php:234 element/multi_image_text_2.php:228
+#: element/pie_chart.php:150 element/text.php:160 element/video.php:93
+msgid "Default \"Center\""
+msgstr "پیش فرض (وسط)"
+
+#: element/accordion.php:175 element/accordion.php:206
+#: element/accordion.php:232 element/accordion.php:255
+#: element/accordion.php:289 element/accordion.php:312
+#: element/accordion.php:319 element/accordion.php:342 element/html.php:66
+#: element/html.php:74 element/tabs.php:96 element/tabs.php:127
+#: element/tabs.php:150 element/tabs.php:175 element/tabs.php:201
+#: element/text_block.php:160 element/widgets.php:68 element/widgets.php:78
+msgid "Design"
+msgstr "طراحی"
+
+#: element/count_to.php:204 element/count_to.php:211 element/count_to.php:219
+#: element/heading.php:121 element/heading.php:132 element/heading.php:139
+#: element/icon_text.php:250 element/icon_text.php:260
+#: element/icon_text_3.php:239 element/icon_text_3.php:250
+#: element/image_text.php:340 element/image_text.php:350
+#: element/multi_icon_text.php:314 element/multi_icon_text.php:324
+#: element/multi_icon_text_3.php:285 element/multi_icon_text_3.php:296
+#: element/multi_image_text.php:415 element/multi_image_text.php:425
+#: element/progress_bar.php:285 element/progress_bar.php:291
+#: element/text.php:158 element/mini/details.php:5 element/mini/details.php:13
+#: element/mini/details.php:21 element/mini/details.php:29
+#: element/mini/details.php:83 element/mini/details.php:90
+#: element/mini/details.php:98
+msgid "Details"
+msgstr "جزئیات"
+
+#: element/heading.php:119 element/icon_text.php:248
+#: element/icon_text_3.php:237 element/image_text.php:338
+#: element/multi_icon_text.php:312 element/multi_icon_text_3.php:283
+#: element/multi_image_text.php:413 element/text.php:156
+msgid "Details Alignment"
+msgstr "تراز جزئیات"
+
+#: element/mini/details.php:19
+msgid "Details Color"
+msgstr "رنگ جزئیات"
+
+#: element/mini/details_typography.php:16
+msgid "Details Font Size"
+msgstr "اندازه فونت جزئیات "
+
+#: element/mini/details_typography.php:80
+msgid "Details Font Style"
+msgstr "استایل فونت جزئیات"
+
+#: element/mini/details_typography.php:40
+msgid "Details Font Weight"
+msgstr "وزن فونت جزئیات "
+
+#: element/mini/details_typography.php:59
+msgid "Details Line Height"
+msgstr "ارتفاع خط جزئیات  "
+
+#: element/mini/details.php:3
+msgid "Details Style"
+msgstr "استایل جزئیات"
+
+#: element/mini/details_typography.php:7
+msgid "Details Typography"
+msgstr "تایپوگرافی جزئیات"
+
+#: element/icon_text.php:258 element/image_text.php:348
+#: element/multi_icon_text.php:322 element/multi_image_text.php:423
+msgid "Details Vertical align in middle"
+msgstr "جزئیات عمودی در وسط قرار بگیرد"
+
+#: options/builder-array.php:872 options/builder-options-column.php:150
+#: options/builder-options-section.php:212
+msgid "diagonal  ↗"
+msgstr "مورب ↗"
+
+#: options/builder-array.php:871 options/builder-options-column.php:149
+#: options/builder-options-section.php:211
+msgid "diagonal  ↘"
+msgstr "مورب ↘"
+
+#: options/builder-options-column.php:97
+#: options/builder-options-section.php:159
+msgid "Diagonal Lines"
+msgstr "خطوط مورب"
+
+#: options/builder-options-column.php:93
+#: options/builder-options-section.php:155
+msgid "Diagonal Stripes"
+msgstr "راه راه های مورب"
+
+#: options/fonts/fa-icon.php:691
+msgid "Directional Icons"
+msgstr "آیکون های جهت دار"
+
+#: element/divider.php:35 element/divider_vertical.php:35
+msgid "Divider"
+msgstr "جدا کننده"
+
+#: element/divider.php:14
+msgid "Divider / Line"
+msgstr "تقسیم کننده / خط"
+
+#: saoshyant-page-builder.php:452
+msgid "Do you agree?"
+msgstr "آیا شما موافق هستید؟"
+
+#: options/builder-array.php:406
+msgid "Dotted"
+msgstr "نقطه نقطه"
+
+#: options/builder-array.php:408
+msgid "Double"
+msgstr "دو برابر"
+
+#. Description of the plugin
+msgid "Drag and drop page builder for WordPress"
+msgstr " سازنده صفحه با استفاده از کشیدن و رها کردن  برای ورد پرس"
+
+#: element/pie_chart.php:86 element/progress_bar.php:132
+msgid "Duration"
+msgstr "مدت زمان"
+
+#: element/count_to.php:78
+msgid "Duration Number"
+msgstr "زمان طول نمایش به عدد"
+
+#: element/pie_chart.php:44
+msgid "eample \"%\""
+msgstr "مثال \"%\""
+
+#: element/count_to.php:53
+msgid "eample \"K\""
+msgstr "مثال \"K\""
+
+#: framework/builder-column.php:72
+msgid "Element"
+msgstr "المنت"
+
+#: element/accordion.php:517 element/button.php:366 element/count_to.php:374
+#: element/divider.php:138 element/divider_vertical.php:113
+#: element/heading.php:156 element/html.php:89 element/icon.php:298
+#: element/icon_text.php:325 element/icon_text_2.php:295
+#: element/icon_text_3.php:310 element/image.php:341
+#: element/image_gallery.php:241 element/image_gallery_carousel.php:294
+#: element/image_gallery_slider.php:433 element/image_text.php:373
+#: element/image_text_2.php:386 element/multi_icon_text.php:389
+#: element/multi_icon_text_2.php:361 element/multi_icon_text_3.php:356
+#: element/multi_image_text.php:448 element/multi_image_text_2.php:473
+#: element/notification_box.php:337 element/pie_chart.php:410
+#: element/progress_bar.php:440 element/shortcodes.php:75 element/tabs.php:381
+#: element/text.php:187 element/text_block.php:180 element/text_list.php:339
+#: element/video.php:131 element/widgets.php:93
+msgid "Element Custom Class"
+msgstr "کلاس سفارشی المنت"
+
+#: element/accordion.php:508 element/button.php:357 element/count_to.php:365
+#: element/divider.php:129 element/divider_vertical.php:104
+#: element/heading.php:147 element/html.php:80 element/icon.php:289
+#: element/icon_text.php:316 element/icon_text_2.php:286
+#: element/icon_text_3.php:301 element/image.php:332
+#: element/image_gallery.php:232 element/image_gallery_carousel.php:285
+#: element/image_gallery_slider.php:424 element/image_text.php:364
+#: element/image_text_2.php:377 element/multi_icon_text.php:380
+#: element/multi_icon_text_2.php:352 element/multi_icon_text_3.php:347
+#: element/multi_image_text.php:439 element/multi_image_text_2.php:464
+#: element/notification_box.php:328 element/pie_chart.php:401
+#: element/progress_bar.php:431 element/shortcodes.php:66 element/tabs.php:372
+#: element/text.php:178 element/text_block.php:171 element/text_list.php:330
+#: element/video.php:122 element/widgets.php:84
+msgid "Element ID"
+msgstr "ای دی المنت"
+
+#: element/accordion.php:80 element/heading.php:42 element/icon_text.php:49
+#: element/icon_text_2.php:50 element/icon_text_3.php:47
+#: element/image_text.php:84 element/image_text_2.php:83
+#: element/multi_icon_text.php:95 element/multi_icon_text_2.php:96
+#: element/multi_image_text.php:119 element/multi_image_text_2.php:119
+#: element/pie_chart.php:59 element/text.php:38
+msgid "Element tag"
+msgstr "برچسب المنت"
+
+#: element/space.php:14
+msgid "Empty Space"
+msgstr "فضای خالی"
+
+#: element/count_to.php:52
+msgid "End Number"
+msgstr "حروف برای پایان عدد"
+
+#: element/pie_chart.php:43
+msgid "End Percentage"
+msgstr "پایان درصد"
+
+#: options/builder-options-column.php:101
+#: options/builder-options-section.php:163
+msgid "Endless Constellation"
+msgstr "Endless Constellation"
+
+#: element/accordion.php:520 element/button.php:369 element/count_to.php:377
+#: element/divider.php:141 element/divider_vertical.php:116
+#: element/heading.php:159 element/html.php:92 element/icon.php:301
+#: element/icon_text.php:328 element/icon_text_2.php:298
+#: element/icon_text_3.php:313 element/image.php:344
+#: element/image_gallery.php:244 element/image_gallery_carousel.php:297
+#: element/image_gallery_slider.php:436 element/image_text.php:376
+#: element/image_text_2.php:389 element/multi_icon_text.php:392
+#: element/multi_icon_text_2.php:364 element/multi_icon_text_3.php:359
+#: element/multi_image_text.php:451 element/multi_image_text_2.php:476
+#: element/notification_box.php:340 element/pie_chart.php:413
+#: element/progress_bar.php:443 element/shortcodes.php:78 element/tabs.php:384
+#: element/text.php:190 element/text_block.php:183 element/text_list.php:342
+#: element/video.php:134 element/widgets.php:96
+#: options/builder-options-column.php:360
+#: options/builder-options-section.php:468
+msgid "Enter Class ,"
+msgstr "کلاس را وارد کنید"
+
+#: element/accordion.php:511 element/button.php:360 element/count_to.php:368
+#: element/divider.php:132 element/divider_vertical.php:107
+#: element/heading.php:150 element/html.php:83 element/icon.php:292
+#: element/icon_text.php:319 element/icon_text_2.php:289
+#: element/icon_text_3.php:304 element/image.php:335
+#: element/image_gallery.php:235 element/image_gallery_carousel.php:288
+#: element/image_gallery_slider.php:427 element/image_text.php:367
+#: element/image_text_2.php:380 element/multi_icon_text.php:383
+#: element/multi_icon_text_2.php:355 element/multi_icon_text_3.php:350
+#: element/multi_image_text.php:442 element/multi_image_text_2.php:467
+#: element/notification_box.php:331 element/pie_chart.php:404
+#: element/progress_bar.php:434 element/shortcodes.php:69 element/tabs.php:375
+#: element/text.php:181 element/text_block.php:174 element/text_list.php:333
+#: element/video.php:125 element/widgets.php:87
+#: options/builder-options-column.php:351
+msgid "Enter Column ID ,"
+msgstr "ای دی را ستون انتخاب کنید"
+
+#: options/builder-options-section.php:459
+msgid "Enter section ID ,"
+msgstr "ای دی برای این بخش را وارد کنید"
+
+#: element/progress_bar.php:237 element/progress_bar.php:271
+msgid "Enter the percentage ( example: 15 )"
+msgstr "درصد را وارد کنید (به عنوان مثال: 15)"
+
+#: element/pie_chart.php:245 element/progress_bar.php:190
+msgid "Enter the percentage ( example: 30 )"
+msgstr "درصد را وارد کنید (مثال: 30)"
+
+#: element/pie_chart.php:39 element/progress_bar.php:82
+msgid "Enter the percentage ( example: 80 )"
+msgstr "درصد را وارد کنید (به عنوان مثال: 80)"
+
+#: saoshyant-page-builder.php:453
+msgid "Error"
+msgstr "خطا"
+
+#: options/fonts/flaticon_thin.php:13
+msgid "Essential Set"
+msgstr ""
+
+#: element/image.php:39 element/image_text.php:41 element/image_text_2.php:39
+#: element/multi_image_text.php:60 element/multi_image_text_2.php:60
+msgid "External link"
+msgstr "لینک خارجی"
+
+#: element/image.php:51 element/image_text.php:53 element/image_text_2.php:52
+#: element/multi_image_text.php:88 element/multi_image_text_2.php:88
+msgid "External link Image"
+msgstr "لینک خارجی تصویر"
+
+#: element/accordion.php:403 element/accordion.php:467 element/button.php:335
+#: element/count_to.php:340 element/image.php:280 element/pie_chart.php:372
+#: element/progress_bar.php:341 element/progress_bar.php:408
+#: element/tabs.php:267 element/tabs.php:331 element/text_list.php:287
+#: options/builder-array.php:1161 element/mini/button_typography.php:50
+#: element/mini/details_typography.php:50
+#: element/mini/percent_typography.php:47 element/mini/text_typography.php:48
+#: element/mini/title_typography.php:45
+msgid "Extra-Bold"
+msgstr "بسیار پررنگ"
+
+#: element/image_gallery_slider.php:261 options/builder-array.php:273
+#: options/builder-array.php:537 options/builder-array.php:1204
+#: options/builder-array.php:1235 options/builder-array.php:1253
+msgid "Fade"
+msgstr "محو شدن"
+
+#: options/builder-array.php:539
+msgid "Fade down"
+msgstr "محو شدن به پایین"
+
+#: options/builder-array.php:544 options/builder-array.php:545
+msgid "Fade Down Left"
+msgstr "محو شدن به پایین سمت چپ"
+
+#: options/builder-array.php:544 options/builder-array.php:545
+msgid "Fade Down Right"
+msgstr "محو شدن به پایین سمت راست"
+
+#: options/builder-array.php:540 options/builder-array.php:541
+msgid "Fade Left"
+msgstr "محو شدن به چپ"
+
+#: options/builder-array.php:540 options/builder-array.php:541
+msgid "Fade Right"
+msgstr "محو شدن به راست"
+
+#: options/builder-array.php:538
+msgid "Fade Up"
+msgstr "محو شدن به بالا"
+
+#: options/builder-array.php:542 options/builder-array.php:543
+msgid "Fade Up Left"
+msgstr "محو شدن به بالا سمت چپ"
+
+#: options/builder-array.php:542 options/builder-array.php:543
+msgid "Fade Up Right"
+msgstr "محو شدن به بالا سمت راست"
+
+#: options/fonts/flaticon_thin.php:668
+msgid "Fashion"
+msgstr ""
+
+#: options/fonts/fa-icon.php:550
+msgid "File Type Icons"
+msgstr "آیکون نوع پرونده"
+
+#: options/builder-options-column.php:119
+#: options/builder-options-section.php:181
+msgid "First"
+msgstr "اولین"
+
+#: element/pie_chart.php:256 element/progress_bar.php:105
+#: element/progress_bar.php:223 options/builder-array.php:855
+msgid "First Color"
+msgstr "رنگ اول"
+
+#: element/image_gallery_carousel.php:113 element/image_gallery_slider.php:160
+msgid "Fixed"
+msgstr "ثابت"
+
+#: options/builder-array.php:1211 options/builder-array.php:1242
+#: options/builder-array.php:1260
+msgid "Flip Diag 1"
+msgstr "تلنگر دیاگ 1"
+
+#: options/builder-array.php:1212 options/builder-array.php:1243
+#: options/builder-array.php:1261
+msgid "Flip Diag 2"
+msgstr "تلنگر دیاگ 2"
+
+#: options/builder-array.php:547
+msgid "Flip Down"
+msgstr "تلنگر به پایین"
+
+#: options/builder-array.php:1210 options/builder-array.php:1241
+#: options/builder-array.php:1259
+msgid "Flip Horiz"
+msgstr "تلنگر افقی"
+
+#: options/builder-array.php:548 options/builder-array.php:549
+msgid "Flip Left"
+msgstr "تلنگر به چپ"
+
+#: options/builder-array.php:548 options/builder-array.php:549
+msgid "Flip Right"
+msgstr "تلنگر به راست"
+
+#: options/builder-array.php:546
+msgid "Flip Up"
+msgstr "تلنگر به بالا"
+
+#: options/builder-array.php:1209 options/builder-array.php:1240
+#: options/builder-array.php:1258
+msgid "Flip Vert"
+msgstr "تلنگر عمودی"
+
+#: element/button.php:303 options/builder-array.php:1148
+msgid "Font Size"
+msgstr "اندازه فونت"
+
+#: element/button.php:343
+msgid "Font Style"
+msgstr "استایل فونت"
+
+#: element/button.php:325 options/builder-array.php:1153
+msgid "Font Weight"
+msgstr "وزن فونت"
+
+#: options/fonts/fa-icon.php:577
+msgid "Form Control Icons"
+msgstr "آیکن های کنترل فرم"
+
+#: options/builder-options-column.php:85
+#: options/builder-options-section.php:147
+msgid "Formal Invitation"
+msgstr "دعوت رسمی"
+
+#: framework/builder.php:52 framework/builder.php:53
+msgid "FulL"
+msgstr "کامل"
+
+#: options/builder-array.php:30
+msgid "Full"
+msgstr "کامل"
+
+#: framework/builder.php:50
+msgid "Full Screen"
+msgstr "تمام صفحه"
+
+#: options/builder-array.php:300
+msgid "Full Width"
+msgstr "تمام عرض"
+
+#: options/fonts/fa-icon.php:534
+msgid "Gender Icons"
+msgstr "آیکون جنسیتی"
+
+#: framework/builder-column.php:129 framework/builder-column.php:189
+#: framework/builder-element.php:128 framework/builder-element.php:199
+#: framework/builder-element.php:251 framework/builder-element.php:303
+#: framework/builder-section.php:112 framework/builder-section.php:175
+msgid "General"
+msgstr "عمومی"
+
+#: options/builder-options-column.php:84
+#: options/builder-options-section.php:146
+msgid "Gradient"
+msgstr "شیب رنگ"
+
+#: options/builder-array.php:409
+msgid "Groove"
+msgstr "شیار"
+
+#: element/mini/image.php:85
+msgid "Grow"
+msgstr "بزرگ شدن"
+
+#: element/button.php:232
+msgid "Gutter"
+msgstr "فاصله ما بین دکمه ها"
+
+#: element/heading.php:14
+msgid "Heading"
+msgstr "عنوان"
+
+#: element/accordion.php:230 element/tabs.php:148
+msgid "Heading Color"
+msgstr "رنگ عنوان"
+
+#: element/divider_vertical.php:65 element/image.php:192
+#: element/image_gallery.php:190 element/image_gallery_slider.php:361
+#: element/image_text_2.php:319 element/multi_image_text_2.php:407
+#: element/progress_bar.php:186 element/space.php:35
+msgid "Height"
+msgstr "ارتفاع"
+
+#: options/builder-options-column.php:87
+#: options/builder-options-section.php:149
+msgid "Hexagons"
+msgstr "شش ضلعی"
+
+#: options/builder-array.php:414
+msgid "hidden"
+msgstr "مخفی"
+
+#: element/count_to.php:227 options/builder-array.php:435
+#: options/builder-array.php:447 options/builder-array.php:454
+#: element/mini/details.php:37
+msgid "Hide"
+msgstr "مخفی"
+
+#: element/space.php:61 options/builder-options-column.php:378
+#: options/builder-options-section.php:486 element/mini/column_responsive.php:7
+#: element/mini/responsive.php:7
+msgid "Hide in Desktop"
+msgstr ""
+
+#: element/space.php:78 element/mini/column_responsive.php:78
+#: element/mini/responsive.php:68
+msgid "Hide in Mobile"
+msgstr ""
+
+#: options/builder-options-section.php:583
+msgid "Hide in Phone"
+msgstr ""
+
+#: element/space.php:69 options/builder-options-section.php:513
+#: element/mini/column_responsive.php:24 element/mini/responsive.php:24
+msgid "Hide in Tablet"
+msgstr ""
+
+#: options/fonts/flaticon_thin.php:616
+msgid "Hipster"
+msgstr ""
+
+#: options/builder-array.php:997 options/builder-array.php:1038
+msgid "Horizontal"
+msgstr "افقی"
+
+#: options/builder-array.php:869 options/builder-options-column.php:147
+#: options/builder-options-section.php:209
+msgid "horizontal  →"
+msgstr "افقی  →"
+
+#: element/button.php:178
+msgid "Hover Background Color"
+msgstr "رنگ پس زمینه در شناور"
+
+#: element/button.php:185
+msgid "Hover Border"
+msgstr "کاور شناور"
+
+#: element/mini/boxed.php:79 element/mini/multi_boxed_item.php:82
+msgid "Hover Boxed Background Color"
+msgstr "رنگ پس زمینه جعبه در شناور"
+
+#: element/mini/boxed.php:86 element/mini/multi_boxed_item.php:89
+msgid "Hover Boxed Border"
+msgstr "کادر دور جعبه در شناور"
+
+#: element/mini/boxed.php:95 element/mini/multi_boxed_item.php:98
+msgid "Hover Boxed Shadow"
+msgstr "سایه جعبه در شناور"
+
+#: element/mini/button.php:104
+msgid "Hover Button Background Color"
+msgstr "رنگ پس زمینه دکمه در شناور"
+
+#: element/mini/button.php:113
+msgid "Hover Button Border"
+msgstr "کادر دور دکمه در شناور"
+
+#: element/mini/button.php:97
+msgid "Hover Button Text Color"
+msgstr "رنگ متن دکمه در شناور"
+
+#: element/mini/details.php:96
+msgid "Hover Details Color"
+msgstr "رنگ جزئیات در شناور"
+
+#: element/mini/details.php:81
+msgid "Hover Details Style"
+msgstr "استایل جزئیات در شناور"
+
+#: element/icon.php:225 element/mini/icon.php:146
+msgid "Hover Icon Background "
+msgstr "پس زمینه آیکون در شناور"
+
+#: element/icon.php:240 element/mini/icon.php:161
+msgid "Hover Icon Border"
+msgstr "کادر دور آیکون در شناور"
+
+#: element/icon.php:216 element/mini/icon.php:138
+msgid "Hover Icon Color"
+msgstr "رنگ آیکون در شناور"
+
+#: element/mini/icon.php:124
+msgid "Hover Icon Effects"
+msgstr "افکت آیکون در شناور"
+
+#: element/mini/image.php:101
+msgid "Hover Image Border"
+msgstr "کادر دور تصویر در شناور"
+
+#: element/mini/image.php:110
+msgid "Hover Image Box Shadow"
+msgstr "سایه تصویر در شناور"
+
+#: element/mini/image.php:68
+msgid "Hover Image effect"
+msgstr "افکت تصویر در شناور"
+
+#: element/button.php:160 element/text_list.php:223
+msgid "Hover Text Color"
+msgstr "رنگ متن در شناور"
+
+#: element/heading.php:137 element/mini/details.php:88
+msgid "Hover Title Color"
+msgstr "رنگ عنوان در شناور"
+
+#: element/html.php:14
+msgid "Html"
+msgstr ""
+
+#: element/accordion.php:271 element/accordion.php:352 element/button.php:92
+#: element/count_to.php:34 element/count_to.php:271 element/icon.php:14
+#: element/icon.php:35 element/icon.php:79 element/icon.php:95
+#: element/icon.php:129 element/icon.php:138 element/icon.php:155
+#: element/icon.php:169 element/icon.php:180 element/icon.php:189
+#: element/icon.php:195 element/icon.php:209 element/icon.php:219
+#: element/icon.php:235 element/icon.php:249 element/icon.php:256
+#: element/icon_text.php:33 element/icon_text.php:226 element/icon_text.php:235
+#: element/icon_text.php:282 element/icon_text_2.php:34
+#: element/icon_text_2.php:253 element/icon_text_3.php:33
+#: element/icon_text_3.php:216 element/icon_text_3.php:225
+#: element/icon_text_3.php:268 element/multi_icon_text.php:290
+#: element/multi_icon_text.php:299 element/multi_icon_text.php:346
+#: element/multi_icon_text_2.php:319 element/multi_icon_text_3.php:262
+#: element/multi_icon_text_3.php:271 element/multi_icon_text_3.php:314
+#: element/notification_box.php:21 element/notification_box.php:140
+#: element/notification_box.php:149 element/notification_box.php:158
+#: element/notification_box.php:174 element/notification_box.php:205
+#: element/notification_box.php:212 element/notification_box.php:228
+#: element/notification_box.php:242 element/notification_box.php:253
+#: element/notification_box.php:262 element/notification_box.php:297
+#: element/text_list.php:186 element/mini/icon.php:9 element/mini/icon.php:25
+#: element/mini/icon.php:56 element/mini/icon.php:63 element/mini/icon.php:79
+#: element/mini/icon.php:93 element/mini/icon.php:104 element/mini/icon.php:113
+#: element/mini/icon.php:119 element/mini/icon.php:133
+#: element/mini/icon.php:140 element/mini/icon.php:156
+#: element/mini/icon.php:170 element/mini/icon.php:177
+msgid "Icon"
+msgstr "آیکون"
+
+#: element/icon_text.php:14
+msgid "Icon & Text"
+msgstr "آیکون و متن "
+
+#: element/icon_text_2.php:14
+msgid "Icon & Text 2"
+msgstr "آیکون و متن 2"
+
+#: element/icon_text_3.php:14
+msgid "Icon & Text 3"
+msgstr "آیکون و متن 3"
+
+#: element/accordion.php:119 element/button.php:210 element/icon_text.php:224
+#: element/icon_text_3.php:214 element/multi_icon_text.php:288
+#: element/multi_icon_text_3.php:260 element/notification_box.php:138
+msgid "Icon Alignment"
+msgstr "آیکون - تراز"
+
+#: element/icon.php:145 element/notification_box.php:218
+#: element/mini/icon.php:69
+msgid "Icon Background"
+msgstr "پیش زمینه آیکون"
+
+#: element/text_list.php:90
+msgid "Icon Background Color"
+msgstr "رنگ پس زمینه آیکون"
+
+#: element/icon.php:160 element/notification_box.php:233
+#: element/text_list.php:97 element/mini/icon.php:84
+msgid "Icon Border"
+msgstr "کادر دور آیکون"
+
+#: element/notification_box.php:247 element/mini/icon.php:98
+msgid "Icon Border Radius"
+msgstr "گردی کادر دور آیکون"
+
+#: element/icon.php:93 element/notification_box.php:172
+#: element/mini/icon.php:23
+msgid "Icon Boxed Size"
+msgstr "اندازه جعبه آیکون"
+
+#: element/accordion.php:253 element/button.php:128 element/button.php:169
+#: element/icon.php:136 element/notification_box.php:210
+#: element/text_list.php:84 element/mini/icon.php:61
+msgid "Icon Color"
+msgstr "رنگ آیکون"
+
+#: element/text_list.php:108
+msgid "Icon For all"
+msgstr "آیکون برای همه"
+
+#: element/icon.php:193
+msgid "Icon Hover Style"
+msgstr "استایل آیکون در شناور"
+
+#: element/icon.php:77 element/notification_box.php:156 element/mini/icon.php:7
+msgid "Icon Layout"
+msgstr "طرح بندی آیکون"
+
+#: element/count_to.php:278 element/icon.php:262 element/icon_text.php:289
+#: element/icon_text_2.php:260 element/icon_text_3.php:275
+#: element/multi_icon_text.php:353 element/multi_icon_text_2.php:326
+#: element/multi_icon_text_3.php:321 element/notification_box.php:304
+#: element/text_list.php:230
+msgid "Icon Size"
+msgstr "اندازه آیکون"
+
+#: element/icon.php:127 element/icon.php:187 element/icon.php:254
+#: element/notification_box.php:203 element/notification_box.php:260
+#: element/mini/icon.php:54 element/mini/icon.php:111
+msgid "Icon Style"
+msgstr "استایل آیکون"
+
+#: element/icon_text.php:233 element/icon_text_3.php:223
+#: element/multi_icon_text.php:297 element/multi_icon_text_3.php:269
+#: element/notification_box.php:147 element/text_list.php:184
+msgid "Icon Vertical align in middle"
+msgstr "آیکون عمودی در وسط قرار بگیرد"
+
+#: element/image.php:14 element/image.php:155 element/image.php:179
+#: element/image.php:194 element/image.php:220 element/image.php:224
+#: element/image_gallery.php:141 element/image_gallery.php:167
+#: element/image_gallery.php:192 element/image_gallery.php:222
+#: element/image_gallery_carousel.php:262
+#: element/image_gallery_carousel.php:277 element/image_gallery_slider.php:364
+#: element/image_gallery_slider.php:376 element/image_gallery_slider.php:385
+#: element/image_text.php:273 element/image_text.php:301
+#: element/image_text.php:314 element/image_text.php:323
+#: element/image_text_2.php:282 element/image_text_2.php:306
+#: element/image_text_2.php:321 element/image_text_2.php:347
+#: element/image_text_2.php:351 element/multi_image_text.php:347
+#: element/multi_image_text.php:375 element/multi_image_text.php:389
+#: element/multi_image_text.php:398 element/multi_image_text_2.php:370
+#: element/multi_image_text_2.php:394 element/multi_image_text_2.php:409
+#: element/multi_image_text_2.php:434 element/multi_image_text_2.php:438
+#: element/mini/image.php:8 element/mini/image.php:14 element/mini/image.php:23
+#: element/mini/image.php:49 element/mini/image.php:57
+#: element/mini/image.php:63 element/mini/image.php:77
+#: element/mini/image.php:103 element/mini/image.php:112
+#: element/mini/image.php:137 element/mini/image.php:144
+#: element/mini/image.php:161 element/mini/image.php:171
+#: element/mini/image.php:177
+msgid "Image"
+msgstr "تصویر"
+
+#: element/image_text.php:14
+msgid "Image & Text"
+msgstr "تصویر و متن"
+
+#: element/image_text_2.php:14
+msgid "Image & Text 2"
+msgstr "تصویر و متن 2"
+
+#: element/image_text.php:310 element/multi_image_text.php:385
+msgid "Image Alignment"
+msgstr "تراز تصویر"
+
+#: element/mini/image.php:12
+msgid "Image Border"
+msgstr "کادر دور تصویر"
+
+#: element/mini/image.php:47
+msgid "Image Border Radius"
+msgstr "گردی کادر دور تصویر"
+
+#: element/mini/image.php:21
+msgid "Image Box Shadow"
+msgstr "سایه تصویر"
+
+#: element/image.php:177 element/image_text_2.php:304
+#: element/multi_image_text_2.php:392
+msgid "Image Crop"
+msgstr "برش تصویر"
+
+#: element/image_gallery.php:14
+msgid "Image Gallery"
+msgstr "گالری تصاویر"
+
+#: element/image_gallery_carousel.php:14
+msgid "Image Gallery Carousel"
+msgstr "گالری تصاویر چرخ فلکی"
+
+#: element/image_gallery_slider.php:13
+msgid "Image Gallery Slider"
+msgstr "گالری تصاویر اسلایدر"
+
+#: element/mini/image.php:169
+msgid "Image Hover Background Color"
+msgstr "رنگ پس زمینه تصویر در شناور"
+
+#: element/mini/image.php:159
+msgid "Image Hover Background Effect"
+msgstr "افکت پس زمینه تصویر در شناور"
+
+#: element/mini/image.php:175
+msgid "Image Hover Caption Color"
+msgstr "رنگ توضیحات تصویر در شناور"
+
+#: element/image_text.php:62 element/image_text_2.php:61
+#: element/multi_image_text.php:139 element/multi_image_text_2.php:140
+msgid "Image On click Action"
+msgstr "عمل کلیک روی تصویر"
+
+#: element/image.php:218 element/image_gallery.php:139
+#: element/image_gallery_carousel.php:259 element/image_text.php:299
+#: element/image_text_2.php:345 element/multi_image_text.php:373
+#: element/multi_image_text_2.php:432
+msgid "Image Ratio"
+msgstr "نسبت تصویر"
+
+#: element/image.php:33 element/image_text.php:35 element/image_text_2.php:33
+#: element/multi_image_text.php:54 element/multi_image_text_2.php:54
+msgid "Image source"
+msgstr "منبع تصویر"
+
+#: element/mini/image.php:6 element/mini/image.php:55
+msgid "Image Style"
+msgstr "استایل تصویر"
+
+#: element/image_gallery.php:220 element/image_gallery_carousel.php:274
+#: element/image_gallery_slider.php:381
+msgid "Image Thumb"
+msgstr "اندازه‌های تصویر موجود در کتابخانه"
+
+#: element/image_text.php:321 element/multi_image_text.php:396
+msgid "Image Vertical align in middle"
+msgstr "تصویر عمودی در وسط قرار بگیرید"
+
+#: element/image_text.php:271 element/multi_image_text.php:345
+msgid "Image Width"
+msgstr "عرض تصویر"
+
+#: element/html.php:37
+msgid "input html Code"
+msgstr "ورودی کد HTML"
+
+#: element/shortcodes.php:37
+msgid "input ShortCode"
+msgstr "ورودی کد کوتاه"
+
+#: element/icon_text.php:82 element/icon_text_2.php:81
+#: element/icon_text_3.php:77 element/image_text.php:115
+#: element/image_text_2.php:113 element/multi_icon_text.php:80
+#: element/multi_icon_text_2.php:79 element/multi_icon_text_3.php:80
+#: element/multi_image_text.php:103 element/multi_image_text_2.php:103
+msgid "input text to show button"
+msgstr "برای نمایش دکمه باید متن را وارد کنید"
+
+#: options/builder-array.php:411 options/builder-array.php:951
+#: options/builder-array.php:1031
+msgid "Inset"
+msgstr "از داخل"
+
+#: options/fonts/flaticon.php:306
+msgid "Interface"
+msgstr "رابط"
+
+#: options/builder-array.php:396
+msgid "Italic"
+msgstr "حروف کج"
+
+#: element/accordion.php:417 element/accordion.php:502 element/button.php:351
+#: element/count_to.php:355 element/image.php:325 element/pie_chart.php:387
+#: element/progress_bar.php:357 element/progress_bar.php:423
+#: element/tabs.php:281 element/tabs.php:366 element/text_list.php:323
+#: element/mini/button_typography.php:64 element/mini/details_typography.php:88
+#: element/mini/title_typography.php:83
+msgid "italic"
+msgstr "ایتالیک(حروف کج)"
+
+#: element/image_gallery_carousel.php:207
+msgid "Item"
+msgstr "مورد"
+
+#: element/progress_bar.php:37
+msgid "Item 1"
+msgstr "آیتم 1"
+
+#: element/progress_bar.php:42
+msgid "Item 2"
+msgstr "آیتم 2"
+
+#: element/progress_bar.php:46
+msgid "Item 3"
+msgstr "آیتم 3"
+
+#: element/image_gallery_carousel.php:124 element/image_gallery_slider.php:171
+#: options/builder-array.php:153 options/builder-array.php:171
+#: options/builder-array.php:587
+msgid "Large"
+msgstr "بزرگ"
+
+#: options/builder-array.php:1215
+msgid "Layla"
+msgstr "لیلا"
+
+#: element/accordion.php:102 element/accordion.php:121
+#: element/accordion.php:131 element/accordion.php:156
+#: element/accordion.php:165 element/button.php:212 element/button.php:223
+#: element/button.php:234 element/button.php:262 element/button.php:275
+#: element/count_to.php:88 element/count_to.php:113 element/count_to.php:138
+#: element/count_to.php:148 element/count_to.php:161 element/divider.php:96
+#: element/divider.php:107 element/divider.php:122
+#: element/divider_vertical.php:76 element/divider_vertical.php:87
+#: element/divider_vertical.php:97 element/heading.php:77
+#: element/heading.php:88 element/html.php:44 element/html.php:59
+#: element/icon.php:48 element/icon.php:59 element/icon.php:70
+#: element/icon_text.php:106 element/icon_text.php:131
+#: element/icon_text.php:153 element/icon_text.php:176
+#: element/icon_text.php:189 element/icon_text_2.php:104
+#: element/icon_text_2.php:129 element/icon_text_2.php:153
+#: element/icon_text_2.php:176 element/icon_text_2.php:186
+#: element/icon_text_2.php:198 element/icon_text_3.php:101
+#: element/icon_text_3.php:126 element/icon_text_3.php:148
+#: element/icon_text_3.php:171 element/icon_text_3.php:183
+#: element/image.php:120 element/image.php:132 element/image.php:143
+#: element/image_gallery.php:82 element/image_gallery.php:96
+#: element/image_gallery.php:108 element/image_gallery.php:119
+#: element/image_gallery.php:133 element/image_gallery_carousel.php:107
+#: element/image_gallery_carousel.php:210
+#: element/image_gallery_carousel.php:225
+#: element/image_gallery_carousel.php:235
+#: element/image_gallery_carousel.php:247 element/image_gallery_slider.php:154
+#: element/image_gallery_slider.php:287 element/image_gallery_slider.php:289
+#: element/image_gallery_slider.php:307 element/image_gallery_slider.php:330
+#: element/image_gallery_slider.php:340 element/image_gallery_slider.php:352
+#: element/image_text.php:156 element/image_text.php:179
+#: element/image_text.php:202 element/image_text.php:226
+#: element/image_text.php:239 element/image_text_2.php:153
+#: element/image_text_2.php:164 element/image_text_2.php:187
+#: element/image_text_2.php:210 element/image_text_2.php:234
+#: element/image_text_2.php:245 element/multi_icon_text.php:126
+#: element/multi_icon_text.php:140 element/multi_icon_text.php:165
+#: element/multi_icon_text.php:190 element/multi_icon_text.php:212
+#: element/multi_icon_text.php:235 element/multi_icon_text.php:247
+#: element/multi_icon_text_2.php:126 element/multi_icon_text_2.php:135
+#: element/multi_icon_text_2.php:160 element/multi_icon_text_2.php:185
+#: element/multi_icon_text_2.php:209 element/multi_icon_text_2.php:232
+#: element/multi_icon_text_2.php:242 element/multi_icon_text_2.php:255
+#: element/multi_icon_text_3.php:109 element/multi_icon_text_3.php:118
+#: element/multi_icon_text_3.php:142 element/multi_icon_text_3.php:167
+#: element/multi_icon_text_3.php:189 element/multi_icon_text_3.php:212
+#: element/multi_icon_text_3.php:224 element/multi_image_text.php:187
+#: element/multi_image_text.php:201 element/multi_image_text.php:226
+#: element/multi_image_text.php:249 element/multi_image_text.php:272
+#: element/multi_image_text.php:296 element/multi_image_text.php:307
+#: element/multi_image_text_2.php:186 element/multi_image_text_2.php:200
+#: element/multi_image_text_2.php:226 element/multi_image_text_2.php:237
+#: element/multi_image_text_2.php:260 element/multi_image_text_2.php:283
+#: element/multi_image_text_2.php:307 element/multi_image_text_2.php:320
+#: element/notification_box.php:37 element/notification_box.php:61
+#: element/notification_box.php:73 element/pie_chart.php:97
+#: element/pie_chart.php:122 element/pie_chart.php:148
+#: element/pie_chart.php:158 element/pie_chart.php:170
+#: element/progress_bar.php:142 element/progress_bar.php:164
+#: element/progress_bar.php:177 element/shortcodes.php:47
+#: element/shortcodes.php:60 element/tabs.php:76 element/tabs.php:87
+#: element/text.php:83 element/text.php:107 element/text.php:121
+#: element/text_block.php:44 element/text_block.php:58
+#: element/text_list.php:120 element/text_list.php:143
+#: element/text_list.php:167 element/text_list.php:177 element/video.php:58
+#: element/video.php:80 element/video.php:91 element/video.php:103
+#: element/video.php:115 element/widgets.php:43 element/widgets.php:60
+#: options/builder-options-column.php:41 options/builder-options-column.php:50
+#: options/builder-options-section.php:34
+#: options/builder-options-section.php:42
+#: options/builder-options-section.php:49
+#: options/builder-options-section.php:57
+#: options/builder-options-section.php:74
+#: options/builder-options-section.php:102
+msgid "Layout"
+msgstr "طرح بندی"
+
+#: element/accordion.php:511 element/button.php:360 element/count_to.php:368
+#: element/divider.php:132 element/divider_vertical.php:107
+#: element/heading.php:150 element/html.php:83 element/icon.php:292
+#: element/icon_text.php:319 element/icon_text_2.php:289
+#: element/icon_text_3.php:304 element/image.php:335
+#: element/image_gallery.php:235 element/image_gallery_carousel.php:288
+#: element/image_gallery_slider.php:427 element/image_text.php:367
+#: element/image_text_2.php:380 element/multi_icon_text.php:383
+#: element/multi_icon_text_2.php:355 element/multi_icon_text_3.php:350
+#: element/multi_image_text.php:442 element/multi_image_text_2.php:467
+#: element/notification_box.php:331 element/pie_chart.php:404
+#: element/progress_bar.php:434 element/shortcodes.php:69 element/tabs.php:375
+#: element/text.php:181 element/text_block.php:174 element/text_list.php:333
+#: element/video.php:125 element/widgets.php:87
+#: options/builder-options-column.php:351
+#: options/builder-options-section.php:459
+msgid "Learn more"
+msgstr "بیشتر بدانید"
+
+#: options/builder-array.php:376 options/builder-array.php:378
+#: options/builder-array.php:382 options/builder-array.php:383
+#: options/builder-array.php:721 options/builder-array.php:731
+#: options/builder-array.php:825 options/builder-array.php:835
+#: options/builder-options-column.php:175
+#: options/builder-options-column.php:179
+#: options/builder-options-column.php:228
+#: options/builder-options-column.php:252
+#: options/builder-options-section.php:237
+#: options/builder-options-section.php:241
+#: options/builder-options-section.php:290
+#: options/builder-options-section.php:314
+msgid "Left"
+msgstr "چپ"
+
+#: options/builder-array.php:751
+msgid "Left and Right"
+msgstr ""
+
+#: options/builder-options-column.php:177
+#: options/builder-options-column.php:181
+#: options/builder-options-section.php:239
+#: options/builder-options-section.php:243
+msgid "Left Bottom"
+msgstr "جپ پایین"
+
+#: options/builder-options-column.php:178
+#: options/builder-options-column.php:182
+#: options/builder-options-section.php:240
+#: options/builder-options-section.php:244
+msgid "Left Center"
+msgstr "چپ مرکز"
+
+#: options/builder-options-column.php:176
+#: options/builder-options-column.php:180
+#: options/builder-options-section.php:238
+#: options/builder-options-section.php:242
+msgid "Left Top"
+msgstr "چپ بالا"
+
+#: element/accordion.php:399 element/accordion.php:463 element/button.php:331
+#: element/count_to.php:337 element/image.php:276 element/pie_chart.php:368
+#: element/progress_bar.php:337 element/progress_bar.php:404
+#: element/tabs.php:263 element/tabs.php:327 element/text_list.php:283
+#: options/builder-array.php:277 options/builder-array.php:1158
+#: element/mini/button_typography.php:46 element/mini/details_typography.php:46
+#: element/mini/image.php:152 element/mini/percent_typography.php:43
+#: element/mini/text_typography.php:44 element/mini/title_typography.php:41
+msgid "Light"
+msgstr "روشن"
+
+#: options/builder-array.php:578
+msgid "Light Circle"
+msgstr "دایره ای سفید"
+
+#: options/builder-array.php:580
+msgid "Light Glass Circle"
+msgstr "دایره ای سفید و شیشه ای"
+
+#: options/builder-array.php:574
+msgid "Light Glass Square"
+msgstr "مربع ای سفید و شیشه ای"
+
+#: options/builder-array.php:579
+msgid "Light Gray Circle"
+msgstr "دایره ای سفید و خاکستری"
+
+#: options/builder-array.php:573
+msgid "Light Gray Square"
+msgstr "مربع ای سفید و خاکستری"
+
+#: options/builder-array.php:572
+msgid "Light Square"
+msgstr "مربع ای سفید"
+
+#: element/button.php:86 element/heading.php:61 element/icon_text.php:87
+#: element/icon_text_2.php:86 element/icon_text_3.php:82 element/image.php:74
+#: element/image_text.php:121 element/image_text_2.php:119
+#: element/multi_icon_text.php:85 element/multi_icon_text_2.php:84
+#: element/multi_icon_text_3.php:85 element/multi_image_text.php:108
+#: element/multi_image_text_2.php:108 element/text.php:66
+#: element/text_list.php:72
+msgid "Link"
+msgstr "لینک"
+
+#: element/html.php:64 element/widgets.php:66
+msgid "link Color"
+msgstr "لینک - رنگ"
+
+#: element/image.php:64 element/image_gallery.php:47
+#: element/image_gallery_carousel.php:48 element/image_gallery_slider.php:46
+#: element/image_text.php:68 element/image_text_2.php:67
+#: element/multi_image_text.php:145 element/multi_image_text_2.php:146
+msgid "Link To Full Image"
+msgstr "لینک به تصویر کامل"
+
+#: element/text_list.php:14 element/text_list.php:53
+msgid "List"
+msgstr "فهرست"
+
+#: element/image_gallery_carousel.php:101 element/image_gallery_slider.php:148
+msgid "Location 1"
+msgstr "موقعیت 1"
+
+#: element/image_gallery_carousel.php:102 element/image_gallery_slider.php:149
+msgid "Location 2"
+msgstr "موقعیت 2"
+
+#: element/image_gallery_carousel.php:103 element/image_gallery_slider.php:150
+msgid "Location 3"
+msgstr "موقعیت 3"
+
+#: element/image_gallery_carousel.php:178 element/image_gallery_slider.php:246
+msgid "Loop"
+msgstr "حلقه"
+
+#: element/count_to.php:63 element/heading.php:36 element/icon_text.php:40
+#: element/icon_text_2.php:41 element/icon_text_3.php:40
+#: element/image_text.php:78 element/image_text_2.php:77
+#: element/multi_icon_text.php:35 element/multi_icon_text.php:41
+#: element/multi_icon_text.php:46 element/multi_icon_text_2.php:34
+#: element/multi_icon_text_2.php:40 element/multi_icon_text_2.php:45
+#: element/multi_icon_text_3.php:35 element/multi_icon_text_3.php:41
+#: element/multi_icon_text_3.php:46 element/multi_image_text.php:37
+#: element/multi_image_text.php:42 element/multi_image_text.php:46
+#: element/multi_image_text_2.php:37 element/multi_image_text_2.php:42
+#: element/multi_image_text_2.php:46 element/pie_chart.php:52
+#: element/text.php:32
+msgid "Lorem ipsum dolor sit amet"
+msgstr "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم"
+
+#: element/accordion.php:36 element/accordion.php:41 element/accordion.php:45
+#: element/multi_icon_text.php:36 element/multi_icon_text.php:42
+#: element/multi_icon_text.php:47 element/multi_icon_text_2.php:35
+#: element/multi_icon_text_2.php:41 element/multi_icon_text_2.php:46
+#: element/multi_icon_text_3.php:36 element/multi_icon_text_3.php:42
+#: element/multi_icon_text_3.php:47 element/multi_image_text.php:38
+#: element/multi_image_text.php:43 element/multi_image_text.php:47
+#: element/multi_image_text_2.php:38 element/multi_image_text_2.php:43
+#: element/multi_image_text_2.php:47 element/tabs.php:37 element/tabs.php:42
+#: element/tabs.php:46 element/text_list.php:38 element/text_list.php:42
+#: element/text_list.php:45
+msgid ""
+"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo "
+"ligula eget dolor. Aenean massa"
+msgstr ""
+"لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از "
+"طراحان گرافیک است"
+
+#: options/builder-array.php:1172 element/mini/percent_typography.php:64
+msgid "Lowercase"
+msgstr "حروف کوچک"
+
+#: element/button.php:124 element/button.php:165
+msgid "Main Text Color"
+msgstr "رنگ متن اصلی"
+
+#: options/builder-options-section.php:72
+#: options/builder-options-section.php:522
+#: options/builder-options-section.php:590
+msgid "Margin"
+msgstr "فاصله حاشیه"
+
+#: element/image.php:38 element/image_text.php:40 element/image_text_2.php:38
+#: element/multi_image_text.php:59 element/multi_image_text_2.php:59
+msgid "Media Library"
+msgstr "کتابخانه ی رسانه"
+
+#: options/fonts/fa-icon.php:960
+msgid "Medical Icons"
+msgstr "آیکون های  پزشکی"
+
+#: element/accordion.php:401 element/accordion.php:465 element/button.php:333
+#: element/image.php:278 element/image_gallery_carousel.php:123
+#: element/image_gallery_slider.php:170 element/pie_chart.php:370
+#: element/progress_bar.php:339 element/progress_bar.php:406
+#: element/tabs.php:265 element/tabs.php:329 element/text_list.php:285
+#: options/builder-array.php:152 options/builder-array.php:170
+#: options/builder-array.php:586 element/mini/button_typography.php:48
+#: element/mini/details_typography.php:48
+#: element/mini/percent_typography.php:45 element/mini/text_typography.php:46
+#: element/mini/title_typography.php:43
+msgid "Medium"
+msgstr "متوسط"
+
+#: options/fonts/metrizeicon.php:14
+msgid "Metrize"
+msgstr "متریزه"
+
+#: options/builder-array.php:1220
+msgid "Ming"
+msgstr "مینگ"
+
+#: options/builder-array.php:203
+msgid "Most Comments "
+msgstr "بیشترین دیدگاه ها"
+
+#: options/builder-array.php:204
+msgid "Most Comments 1 day ago"
+msgstr "بیشترین دیدگاه ها 1 روز قبل"
+
+#: options/builder-array.php:206
+msgid "Most Comments 1 month ago"
+msgstr "بیشترین دیدگاه ها 1 ماه قبل"
+
+#: options/builder-array.php:205
+msgid "Most Comments 1 week ago"
+msgstr "بیشترین دیدگاه ها 1 هفته  قبل"
+
+#: options/builder-array.php:207
+msgid "Most Comments 1 year ago"
+msgstr "بیشترین دیدگاه ها 1 سال قبل"
+
+#: element/video.php:32
+msgid "Mp4"
+msgstr ""
+
+#: element/multi_icon_text.php:14
+msgid "Multi Icon & Text"
+msgstr "چند آیکون و متن"
+
+#: element/multi_icon_text_2.php:14
+msgid "Multi Icon & Text 2"
+msgstr "چند آیکون و متن ۲"
+
+#: element/multi_icon_text_3.php:14
+msgid "Multi Icon & Text 3"
+msgstr "چند آیکون و متن ۳"
+
+#: element/multi_image_text.php:14
+msgid "Multi Image & Text"
+msgstr "چند تصویر و متن"
+
+#: element/multi_image_text_2.php:14
+msgid "Multi Image & Text 2"
+msgstr "چند تصویر و متن ۲"
+
+#: options/fonts/flaticon.php:122
+msgid "Multi Media"
+msgstr "چند رسانه ای"
+
+#: saoshyant-page-builder.php:451
+msgid "Name already exist!"
+msgstr "نام در حال حاضر وجود دارد!"
+
+#: saoshyant-page-builder.php:449
+msgid "Name is empty!"
+msgstr "نام خالی است!"
+
+#: options/fonts/flaticon_thin.php:810
+msgid "Network"
+msgstr "شبکه"
+
+#: options/builder-options-column.php:279
+#: options/builder-options-section.php:341
+msgid "No Repeat"
+msgstr "بدون تکرار"
+
+#: element/accordion.php:415 element/accordion.php:500 element/button.php:349
+#: element/count_to.php:177 element/count_to.php:353 element/heading.php:103
+#: element/icon.php:83 element/icon_text.php:205 element/icon_text_2.php:214
+#: element/icon_text_3.php:199 element/image.php:67 element/image.php:96
+#: element/image.php:323 element/image_gallery.php:50
+#: element/image_gallery.php:71 element/image_gallery_carousel.php:51
+#: element/image_gallery_carousel.php:71 element/image_gallery_slider.php:49
+#: element/image_gallery_slider.php:69 element/image_text.php:71
+#: element/image_text.php:145 element/image_text.php:254
+#: element/image_text_2.php:70 element/image_text_2.php:142
+#: element/image_text_2.php:260 element/multi_icon_text.php:263
+#: element/multi_icon_text_2.php:271 element/multi_icon_text_3.php:240
+#: element/multi_image_text.php:149 element/multi_image_text.php:174
+#: element/multi_image_text.php:322 element/multi_image_text_2.php:149
+#: element/multi_image_text_2.php:174 element/multi_image_text_2.php:338
+#: element/notification_box.php:162 element/pie_chart.php:186
+#: element/pie_chart.php:385 element/progress_bar.php:355
+#: element/progress_bar.php:421 element/tabs.php:279 element/tabs.php:364
+#: element/text.php:139 element/text_block.php:73 element/text_list.php:321
+#: options/builder-array.php:276 options/builder-array.php:413
+#: options/builder-array.php:536 options/builder-array.php:1170
+#: options/builder-options-column.php:66
+#: options/builder-options-section.php:128
+#: element/mini/button_typography.php:62 element/mini/details_typography.php:86
+#: element/mini/image.php:80 element/mini/percent_typography.php:62
+#: element/mini/title_typography.php:81
+msgid "None"
+msgstr "هیچ یک"
+
+#: element/accordion.php:400 element/accordion.php:416
+#: element/accordion.php:464 element/accordion.php:501 element/button.php:332
+#: element/button.php:350 element/count_to.php:338 element/count_to.php:354
+#: element/image.php:277 element/image.php:324 element/pie_chart.php:369
+#: element/pie_chart.php:386 element/progress_bar.php:338
+#: element/progress_bar.php:356 element/progress_bar.php:405
+#: element/progress_bar.php:422 element/tabs.php:264 element/tabs.php:280
+#: element/tabs.php:328 element/tabs.php:365 element/text_list.php:284
+#: element/text_list.php:322 options/builder-array.php:389
+#: options/builder-array.php:395 options/builder-array.php:1159
+#: element/mini/button_typography.php:47 element/mini/button_typography.php:63
+#: element/mini/details_typography.php:47
+#: element/mini/details_typography.php:87
+#: element/mini/percent_typography.php:44 element/mini/text_typography.php:45
+#: element/mini/title_typography.php:42 element/mini/title_typography.php:82
+msgid "Normal"
+msgstr "معمولی"
+
+#: element/notification_box.php:6
+msgid "Notfifcation Box"
+msgstr "جعبه اطلاع رسانی"
+
+#: element/count_to.php:43
+msgid "Number"
+msgstr "عدد"
+
+#: element/count_to.php:202
+msgid "Number Color"
+msgstr "رنگ عدد"
+
+#: element/count_to.php:307
+msgid "Number Font Size"
+msgstr "اندازه فونت عدد"
+
+#: element/count_to.php:347
+msgid "Number Font Style"
+msgstr "وزن فونت عدد"
+
+#: element/count_to.php:331
+msgid "Number Font Weight"
+msgstr "وزن فونت عدد"
+
+#: element/count_to.php:217
+msgid "Number Line Bottom"
+msgstr "خط پایین عدد"
+
+#: element/count_to.php:300
+msgid "Number Typography"
+msgstr "تایپوگرافی عدد"
+
+#: options/builder-array.php:397
+msgid "Oblique"
+msgstr "چسبنده"
+
+#: element/accordion.php:418 element/accordion.php:503 element/button.php:352
+#: element/count_to.php:356 element/image.php:326 element/pie_chart.php:388
+#: element/progress_bar.php:358 element/progress_bar.php:424
+#: element/tabs.php:282 element/tabs.php:367 element/text_list.php:324
+#: element/mini/button_typography.php:65 element/mini/details_typography.php:89
+#: element/mini/title_typography.php:84
+msgid "oblique"
+msgstr "اریب "
+
+#: options/fonts/flaticon.php:254
+msgid "Office"
+msgstr "دفتر"
+
+#: element/image.php:58 element/image_gallery.php:42
+#: element/image_gallery_carousel.php:43 element/image_gallery_slider.php:41
+msgid "On click Action"
+msgstr "عمل کلیک بر روی آن"
+
+#: element/image_gallery_carousel.php:112 element/image_gallery_slider.php:159
+msgid "On Hover"
+msgstr "موقعیت 4"
+
+#: element/mini/icon.php:117 element/mini/icon.php:175
+msgid "on Hover"
+msgstr "در شناور"
+
+#: element/mini/boxed.php:71 element/mini/boxed.php:102
+#: element/mini/multi_boxed_item.php:74 element/mini/multi_boxed_item.php:105
+msgid "on Hover Boxed Style"
+msgstr "استایل جعبه در شناور"
+
+#: element/icon.php:200
+msgid "on Hover Effects"
+msgstr "افکت ها در شناور"
+
+#: element/image.php:92 element/image_gallery.php:67
+#: element/image_gallery_carousel.php:67 element/image_gallery_slider.php:65
+#: element/image_text.php:141 element/image_text_2.php:138
+#: element/multi_image_text.php:170 element/multi_image_text_2.php:170
+msgid "on Hover Image"
+msgstr "تصویر در شناور"
+
+#: element/mini/image.php:61 element/mini/image.php:135
+msgid "On Hover Image Style"
+msgstr "استایل تصویر در شناور"
+
+#: element/mini/button.php:88 element/mini/button.php:121
+msgid "On Hover Style"
+msgstr "استایل در شناور"
+
+#: element/mini/image.php:142
+msgid "on Hover Style Icon"
+msgstr "استایل آیکون در شناور"
+
+#: element/image.php:63
+msgid "Open custom link"
+msgstr "لینک سفارشی را باز کنید"
+
+#: element/button.php:99 element/heading.php:67 element/icon_text.php:94
+#: element/icon_text_2.php:93 element/icon_text_3.php:89 element/image.php:81
+#: element/image_gallery.php:56 element/image_gallery_carousel.php:57
+#: element/image_gallery_slider.php:55 element/image_text.php:129
+#: element/image_text_2.php:127 element/multi_icon_text.php:115
+#: element/multi_icon_text_2.php:114 element/multi_icon_text_3.php:96
+#: element/multi_image_text.php:158 element/multi_image_text_2.php:157
+#: element/text.php:73 element/text_list.php:78
+msgid "Open in new window"
+msgstr "باز کردن در پنجره جدید"
+
+#: element/image.php:65 element/image_gallery.php:48
+#: element/image_gallery_carousel.php:49 element/image_gallery_slider.php:47
+#: element/image_text.php:69 element/image_text_2.php:68
+#: element/multi_image_text.php:146 element/multi_image_text_2.php:147
+msgid "Open PrettyPhoto"
+msgstr "باز کردن لایت باکس تصاویر"
+
+#: framework/builder-column.php:151 framework/builder-element.php:153
+msgid "Options"
+msgstr "گزینه ها"
+
+#: options/builder-array.php:865 options/builder-options-column.php:140
+#: options/builder-options-section.php:202
+msgid "Orientation"
+msgstr "جهت"
+
+#: options/builder-array.php:1216
+msgid "Oscar"
+msgstr "اسکار"
+
+#: options/builder-array.php:950 options/builder-array.php:1030
+msgid "Outline"
+msgstr "از بیرون"
+
+#: options/builder-array.php:412
+msgid "Outset"
+msgstr "از بیرون"
+
+#: options/builder-options-column.php:99
+#: options/builder-options-section.php:161
+msgid "Overlapping Diamonds"
+msgstr "همپوشانی شش ضلعی"
+
+#: options/builder-options-column.php:89
+#: options/builder-options-section.php:151
+msgid "Overlapping Hexagons"
+msgstr "شش ضلعی با هم تداخل دارند"
+
+#: element/accordion.php:154 element/button.php:260 element/count_to.php:146
+#: element/divider.php:104 element/divider_vertical.php:84
+#: element/heading.php:75 element/html.php:42 element/icon.php:57
+#: element/icon_text.php:174 element/icon_text_2.php:184
+#: element/icon_text_3.php:169 element/image.php:130
+#: element/image_gallery.php:117 element/image_gallery_carousel.php:233
+#: element/image_gallery_slider.php:338 element/image_text.php:224
+#: element/image_text_2.php:232 element/multi_icon_text.php:233
+#: element/multi_icon_text_2.php:240 element/multi_icon_text_3.php:210
+#: element/multi_image_text.php:294 element/multi_image_text_2.php:305
+#: element/notification_box.php:59 element/pie_chart.php:156
+#: element/progress_bar.php:162 element/shortcodes.php:44 element/tabs.php:74
+#: element/text.php:105 element/text_block.php:41 element/text_list.php:165
+#: element/video.php:101 element/widgets.php:41
+#: options/builder-options-column.php:38 options/builder-options-column.php:417
+#: options/builder-options-column.php:461
+#: options/builder-options-section.php:100
+#: options/builder-options-section.php:550
+#: options/builder-options-section.php:618
+#: element/mini/column_responsive.php:45 element/mini/column_responsive.php:97
+#: element/mini/responsive.php:35 element/mini/responsive.php:76
+msgid "Padding"
+msgstr "فاصله"
+
+#: element/shortcodes.php:46 element/text_block.php:43
+msgid "Padding around the entire ,Default \"0\""
+msgstr "فاصله در اطراف کل، پیش فرض \"0\""
+
+#: element/divider.php:106 element/divider_vertical.php:86
+#: options/builder-options-column.php:40 options/builder-options-column.php:420
+#: options/builder-options-column.php:464
+#: options/builder-options-section.php:103
+#: options/builder-options-section.php:553
+#: options/builder-options-section.php:621
+#: element/mini/column_responsive.php:48 element/mini/column_responsive.php:100
+#: element/mini/responsive.php:38 element/mini/responsive.php:79
+msgid "Padding around the entire row,Default \"0\""
+msgstr "چسباندن اطراف کل ردیف، پیش فرض \"0\""
+
+#: element/notification_box.php:83 element/text_block.php:84
+#: element/mini/boxed.php:5 element/mini/multi_boxed_item.php:5
+msgid "Padding in Boxed"
+msgstr "فاصل در جعبه"
+
+#: framework/builder.php:13
+msgid "Page Builder"
+msgstr "صفحه ساز"
+
+#: element/image_gallery_slider.php:77
+msgid "Pager"
+msgstr "دکمه های صفحه بندی"
+
+#: element/image_gallery_slider.php:102
+msgid "Pager Color"
+msgstr "رنگ صفحه بندی"
+
+#: options/builder-options-column.php:67
+#: options/builder-options-section.php:129
+msgid "Parallax"
+msgstr "پارالاکس"
+
+#: options/builder-options-column.php:69
+#: options/builder-options-section.php:131
+msgid "Parallax in Bottom"
+msgstr "پارالاک در پایین"
+
+#: options/builder-options-column.php:70 options/builder-options-column.php:71
+#: options/builder-options-section.php:132
+#: options/builder-options-section.php:133
+msgid "Parallax in Left"
+msgstr "پارالاک در چپ"
+
+#: options/builder-options-column.php:70 options/builder-options-column.php:71
+#: options/builder-options-section.php:132
+#: options/builder-options-section.php:133
+msgid "Parallax in Right"
+msgstr "پارالاک در راست"
+
+#: options/builder-options-column.php:68
+#: options/builder-options-section.php:130
+msgid "Parallax in Top"
+msgstr "پارالاک در بالا"
+
+#: options/fonts/fa-icon.php:590
+msgid "Payment Icons"
+msgstr "آیکن های پرداخت"
+
+#: element/pie_chart.php:209 element/progress_bar.php:93
+#: element/progress_bar.php:289
+msgid "Percent Color"
+msgstr "رنگ درصد"
+
+#: element/pie_chart.php:338 element/progress_bar.php:374
+#: element/mini/percent_typography.php:13
+msgid "Percent Font Size"
+msgstr "اندازه فونت درصد"
+
+#: element/pie_chart.php:379 element/progress_bar.php:415
+msgid "Percent Font Style"
+msgstr "استایل فونت درصد"
+
+#: element/mini/percent_typography.php:70
+msgid "percent Font Style"
+msgstr "استایل فونت درصد"
+
+#: element/pie_chart.php:362 element/progress_bar.php:398
+#: element/mini/percent_typography.php:37
+msgid "Percent Font Weight"
+msgstr "وزن فونت درصد"
+
+#: element/mini/percent_typography.php:56
+msgid "Percent Text Transform"
+msgstr "تبدیل متن درصد به حروف بزرگ و کوچک"
+
+#: element/pie_chart.php:331 element/progress_bar.php:367
+msgid "Percent Typography"
+msgstr "تایپوگرافی درصد"
+
+#: element/pie_chart.php:35 element/progress_bar.php:80
+msgid "Percentage"
+msgstr "درصد"
+
+#: options/builder-array.php:1185
+msgid "Pexel"
+msgstr "پیکسل"
+
+#: element/pie_chart.php:14 element/pie_chart.php:89 element/pie_chart.php:211
+#: element/pie_chart.php:218 element/pie_chart.php:243
+#: element/pie_chart.php:253 element/pie_chart.php:271
+#: element/pie_chart.php:285 element/pie_chart.php:294
+#: element/pie_chart.php:305 element/pie_chart.php:314
+msgid "Pie Chart"
+msgstr "نمودار دایره ای"
+
+#: element/pie_chart.php:281
+msgid "Pie Chart Background"
+msgstr "پس زمینه نمودار"
+
+#: element/pie_chart.php:290
+msgid "Pie Chart Border"
+msgstr "کادر دور نمودار"
+
+#: element/pie_chart.php:311
+msgid "Pie Chart Shadow inset"
+msgstr "سایه از داخل نمودار"
+
+#: element/pie_chart.php:300
+msgid "Pie Chart Shadow OutLine"
+msgstr "سایه از بیرون نمودار"
+
+#: element/pie_chart.php:216
+msgid "Pie Chart Size"
+msgstr "اندازه نمودار"
+
+#: element/image.php:98 element/image_gallery.php:74
+#: element/image_gallery_carousel.php:72 element/image_gallery_slider.php:70
+#: element/image_text.php:147 element/image_text_2.php:144
+#: element/multi_image_text.php:176 element/multi_image_text_2.php:175
+msgid "Play Icon"
+msgstr "آیکون شروع"
+
+#: options/builder-options-column.php:98
+#: options/builder-options-section.php:160
+msgid "Polka Dots"
+msgstr "طرح نقطه نقطه"
+
+#: element/image_gallery_slider.php:89
+msgid "Position Pager"
+msgstr "موقعیت صفحه بندی"
+
+#: options/builder-array.php:104
+msgid "Posts"
+msgstr "نوشته ها"
+
+#: element/progress_bar.php:14 element/progress_bar.php:68
+#: element/progress_bar.php:188 element/progress_bar.php:195
+#: element/progress_bar.php:197 element/progress_bar.php:203
+#: element/progress_bar.php:209 element/progress_bar.php:220
+#: element/progress_bar.php:236 element/progress_bar.php:247
+#: element/progress_bar.php:255 element/progress_bar.php:263
+#: element/progress_bar.php:270
+msgid "Progress Bar"
+msgstr "نوار پیشرفت"
+
+#: element/progress_bar.php:100 element/progress_bar.php:217
+msgid "Progress bar Color"
+msgstr "رنگ نوار پیشرفت"
+
+#: element/progress_bar.php:245
+msgid "Progress Bar Container"
+msgstr "ظرف نوار پیشرفت"
+
+#: element/progress_bar.php:124 element/progress_bar.php:260
+msgid "Progress bar Container Border"
+msgstr "رنگ کادر دور نوار پیشرفت"
+
+#: element/progress_bar.php:119 element/progress_bar.php:253
+msgid "Progress bar Container color"
+msgstr "رنگ ظرف نوار پیشرفت"
+
+#: element/progress_bar.php:268
+msgid "Progress bar Container Radius"
+msgstr "گردی ظرف نوار پیشرفت"
+
+#: element/progress_bar.php:234
+msgid "Progress bar Radius"
+msgstr "گردی کادر دور نوار پیشرفت"
+
+#: element/progress_bar.php:201
+msgid "Progress bar Stripes"
+msgstr " راه راه ای برای نوار پیشفرت"
+
+#: element/progress_bar.php:207
+msgid "Progress bar Stripes Animete"
+msgstr "انیمیشن راه راه ای برای نوار پیشرفت"
+
+#: element/progress_bar.php:75
+msgid "Progress bar title"
+msgstr "عنوان نوار پیشرفت"
+
+#: options/builder-array.php:873 options/builder-options-column.php:151
+#: options/builder-options-section.php:213
+msgid "radial  ○"
+msgstr "دایره ای ○"
+
+#: options/builder-options-column.php:94
+#: options/builder-options-section.php:156
+msgid "Rain"
+msgstr "باران"
+
+#: options/builder-array.php:198
+msgid "Randam"
+msgstr "تصادفی"
+
+#: options/builder-array.php:199
+msgid "Randam - 1 day ago"
+msgstr "تصادفی - 1 روز قبل"
+
+#: options/builder-array.php:201
+msgid "Randam - 1 month ago"
+msgstr "تصادفی - 1 ماه قبل"
+
+#: options/builder-array.php:200
+msgid "Randam - 1 week ago"
+msgstr "تصادفی - 1 هفته قبل"
+
+#: options/builder-array.php:202
+msgid "Randam - 1 year ago"
+msgstr "تصادفی - 1 سال قبل"
+
+#: options/builder-array.php:197
+msgid "Recent Posts"
+msgstr "نوشته های اخیر"
+
+#: element/mini/image.php:81
+msgid "Reduce Opacity"
+msgstr "کاهش تاری"
+
+#: saoshyant-page-builder.php:447 framework/builder-template.php:78
+msgid "Remove"
+msgstr "برداشتن"
+
+#: element/mini/image.php:91
+msgid "Remove Blur"
+msgstr "برداشتن بلور"
+
+#: element/mini/image.php:93
+msgid "Remove Brighten"
+msgstr "برداشتن روشنی"
+
+#: element/mini/image.php:84
+msgid "Remove Color"
+msgstr "برداشتن رنگ"
+
+#: element/mini/image.php:95
+msgid "Remove Darkness"
+msgstr "برداشتن تاریکی"
+
+#: element/mini/image.php:82
+msgid "Remove Opacity"
+msgstr "برداشتن تاری"
+
+#: options/builder-options-column.php:280
+#: options/builder-options-section.php:342
+msgid "Repeat"
+msgstr "تکرار"
+
+#: options/builder-options-column.php:281
+#: options/builder-options-section.php:343
+msgid "Repeat X"
+msgstr "تکرار در افقی"
+
+#: options/builder-options-column.php:282
+#: options/builder-options-section.php:344
+msgid "Repeat Y"
+msgstr "تکرار در عمودی"
+
+#: options/builder-options-column.php:103
+#: options/builder-options-section.php:165
+msgid "Repeating Chevrons"
+msgstr "تکرار شیرون"
+
+#: element/space.php:63 element/space.php:71 element/space.php:80
+#: options/builder-options-column.php:372
+#: options/builder-options-column.php:380
+#: options/builder-options-column.php:387
+#: options/builder-options-column.php:398
+#: options/builder-options-column.php:407
+#: options/builder-options-column.php:419
+#: options/builder-options-column.php:434
+#: options/builder-options-column.php:446
+#: options/builder-options-column.php:454
+#: options/builder-options-column.php:463
+#: options/builder-options-column.php:472
+#: options/builder-options-section.php:480
+#: options/builder-options-section.php:488
+#: options/builder-options-section.php:495
+#: options/builder-options-section.php:506
+#: options/builder-options-section.php:515
+#: options/builder-options-section.php:524
+#: options/builder-options-section.php:552
+#: options/builder-options-section.php:567
+#: options/builder-options-section.php:579
+#: options/builder-options-section.php:585
+#: options/builder-options-section.php:592
+#: options/builder-options-section.php:620
+#: options/builder-options-section.php:629 element/mini/column_responsive.php:9
+#: element/mini/column_responsive.php:17 element/mini/column_responsive.php:26
+#: element/mini/column_responsive.php:35 element/mini/column_responsive.php:47
+#: element/mini/column_responsive.php:62 element/mini/column_responsive.php:74
+#: element/mini/column_responsive.php:80 element/mini/column_responsive.php:88
+#: element/mini/column_responsive.php:99 element/mini/column_responsive.php:108
+#: element/mini/responsive.php:9 element/mini/responsive.php:17
+#: element/mini/responsive.php:26 element/mini/responsive.php:37
+#: element/mini/responsive.php:52 element/mini/responsive.php:64
+#: element/mini/responsive.php:70 element/mini/responsive.php:78
+#: element/mini/responsive.php:87
+msgid "Responsive"
+msgstr "واکنش‌گرا"
+
+#: options/builder-options-column.php:370
+#: options/builder-options-column.php:385
+#: options/builder-options-section.php:478
+#: options/builder-options-section.php:493
+msgid "Responsive in Desktop"
+msgstr "واکنشگرا در دسکتاپ"
+
+#: element/mini/column_responsive.php:72 element/mini/column_responsive.php:106
+#: element/mini/responsive.php:62 element/mini/responsive.php:85
+msgid "Responsive in Mobile"
+msgstr "واکنشگرا در موبایل"
+
+#: options/builder-options-column.php:444
+#: options/builder-options-column.php:470
+#: options/builder-options-section.php:577
+#: options/builder-options-section.php:627
+msgid "Responsive in Phone"
+msgstr "واکنشگرا در موبایل"
+
+#: options/builder-options-column.php:396
+#: options/builder-options-column.php:432
+#: options/builder-options-section.php:504
+#: options/builder-options-section.php:565
+#: element/mini/column_responsive.php:15 element/mini/column_responsive.php:60
+#: element/mini/responsive.php:15 element/mini/responsive.php:50
+msgid "Responsive in Tablet"
+msgstr "واکنشگرا در تبلت"
+
+#: options/builder-array.php:410
+msgid "Ridge"
+msgstr "لبه"
+
+#: options/builder-array.php:376 options/builder-array.php:378
+#: options/builder-array.php:382 options/builder-array.php:383
+#: options/builder-array.php:721 options/builder-array.php:731
+#: options/builder-array.php:800 options/builder-array.php:800
+#: options/builder-array.php:802 options/builder-array.php:802
+#: options/builder-array.php:825 options/builder-array.php:835
+#: options/builder-options-column.php:175
+#: options/builder-options-column.php:179
+#: options/builder-options-column.php:228
+#: options/builder-options-column.php:252
+#: options/builder-options-section.php:237
+#: options/builder-options-section.php:241
+#: options/builder-options-section.php:290
+#: options/builder-options-section.php:314
+msgid "Right"
+msgstr "راست"
+
+#: options/builder-options-column.php:177
+#: options/builder-options-column.php:181
+#: options/builder-options-section.php:239
+#: options/builder-options-section.php:243
+msgid "Right Bottom"
+msgstr "راست پایین"
+
+#: options/builder-options-column.php:178
+#: options/builder-options-column.php:182
+#: options/builder-options-section.php:240
+#: options/builder-options-section.php:244
+msgid "Right Center"
+msgstr "راست مرکز"
+
+#: options/builder-options-column.php:176
+#: options/builder-options-column.php:180
+#: options/builder-options-section.php:238
+#: options/builder-options-section.php:242
+msgid "Right Top"
+msgstr "راست بالا"
+
+#: element/mini/image.php:89
+msgid "Rotate"
+msgstr "چرخش"
+
+#. Name of the plugin
+msgid "Saoshyant Page Builder"
+msgstr "صفحه ساز سوشیانت"
+
+#. Author of the plugin
+msgid "Saoshyant.1994"
+msgstr ""
+
+#: framework/builder-template.php:12 framework/builder-template.php:23
+msgid "Save"
+msgstr "ذخیره"
+
+#: framework/builder.php:52
+msgid "Save Full Template to the library"
+msgstr "قالب کامل را به کتابخانه ذخیره کنید"
+
+#: framework/builder-options-functions.php:792
+msgid "Search icons"
+msgstr "جستجوی آیکون..."
+
+#: options/builder-options-column.php:124
+#: options/builder-options-section.php:186
+msgid "Second"
+msgstr "دومین"
+
+#: element/pie_chart.php:260 element/progress_bar.php:109
+#: element/progress_bar.php:227 options/builder-array.php:860
+msgid "Second Color"
+msgstr "رنگ دوم"
+
+#: framework/builder-section.php:88 framework/builder-section.php:93
+msgid "Section"
+msgstr "بخش"
+
+#: options/builder-options-section.php:465
+msgid "Section Custom Class"
+msgstr "کلاس سفارشی برای این بخش"
+
+#: options/builder-options-section.php:456
+msgid "Section ID"
+msgstr "ای دی بخش"
+
+#: framework/builder-section.php:134
+msgid "Section Options"
+msgstr "گزینه های بخش"
+
+#: element/count_to.php:71 element/icon_text.php:73 element/icon_text_2.php:71
+#: element/icon_text_3.php:68 element/image_text.php:106
+#: element/image_text_2.php:104 element/pie_chart.php:80 element/text.php:60
+msgid ""
+"sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim "
+"ad minim veniam, quis nostrud"
+msgstr ""
+"لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از "
+"طراحان گرافیک است، چاپگرها و متون بلکه روزنامه "
+
+#: framework/builder-options-functions.php:174
+msgid "Select"
+msgstr "انتخاب کنید"
+
+#: element/count_to.php:44
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport"
+msgstr ""
+"اگر می خواهید این المنت هنگام نمایش به نمای مرورگرها متحرک شود ، نوع انیمیشن "
+"را انتخاب کنید"
+
+#: element/accordion.php:164 element/button.php:200 element/button.php:274
+#: element/count_to.php:160 element/divider.php:121
+#: element/divider_vertical.php:96 element/heading.php:87 element/html.php:58
+#: element/icon.php:69 element/icon_text.php:188 element/icon_text_2.php:197
+#: element/icon_text_3.php:182 element/image.php:142
+#: element/image_gallery.php:132 element/image_gallery_carousel.php:246
+#: element/image_gallery_slider.php:351 element/image_text.php:238
+#: element/image_text_2.php:244 element/multi_icon_text.php:246
+#: element/multi_icon_text_2.php:254 element/multi_icon_text_3.php:223
+#: element/multi_image_text.php:306 element/multi_image_text_2.php:319
+#: element/notification_box.php:72 element/pie_chart.php:169
+#: element/progress_bar.php:176 element/shortcodes.php:59 element/tabs.php:86
+#: element/text.php:120 element/text_block.php:57 element/text_list.php:176
+#: element/video.php:114 element/widgets.php:59
+#: options/builder-options-column.php:49
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+"اگر می خواهید این المنت هنگام نمایش به نمای مرورگرها متحرک شود ، نوع انیمیشن "
+"را انتخاب کنید. توجه: فقط در مرورگرهای مدرن کار می کند."
+
+#: options/builder-array.php:1219
+msgid "Selena"
+msgstr "سلنا"
+
+#: framework/builder-options-functions.php:845
+msgid "Set Icon"
+msgstr "تنظیم آیکون"
+
+#: element/shortcodes.php:14
+msgid "Shortcodes"
+msgstr "کد کوتاه"
+
+#: element/mini/image.php:86
+msgid "Shrink"
+msgstr "کوچک شدن"
+
+#: element/mini/image.php:87
+msgid "Side Pan"
+msgstr "حرکت به سمت افقی"
+
+#: element/accordion.php:136 element/accordion.php:179
+#: element/accordion.php:210 element/accordion.php:377
+#: element/accordion.php:438 element/accordion.php:478 element/button.php:309
+#: element/count_to.php:93 element/count_to.php:118 element/count_to.php:251
+#: element/count_to.php:285 element/count_to.php:314 element/divider.php:44
+#: element/divider_vertical.php:43 element/icon.php:273
+#: element/icon_text.php:111 element/icon_text.php:136
+#: element/icon_text.php:158 element/icon_text.php:296
+#: element/icon_text_2.php:109 element/icon_text_2.php:134
+#: element/icon_text_2.php:158 element/icon_text_2.php:267
+#: element/icon_text_3.php:106 element/icon_text_3.php:131
+#: element/icon_text_3.php:153 element/icon_text_3.php:282
+#: element/image.php:159 element/image.php:202 element/image.php:249
+#: element/image.php:297 element/image_gallery.php:171
+#: element/image_gallery.php:203 element/image_gallery_carousel.php:117
+#: element/image_gallery_slider.php:164 element/image_text.php:161
+#: element/image_text.php:184 element/image_text.php:207
+#: element/image_text_2.php:169 element/image_text_2.php:192
+#: element/image_text_2.php:215 element/image_text_2.php:286
+#: element/image_text_2.php:329 element/multi_icon_text.php:147
+#: element/multi_icon_text.php:170 element/multi_icon_text.php:195
+#: element/multi_icon_text.php:217 element/multi_icon_text.php:360
+#: element/multi_icon_text_2.php:142 element/multi_icon_text_2.php:165
+#: element/multi_icon_text_2.php:190 element/multi_icon_text_2.php:214
+#: element/multi_icon_text_2.php:333 element/multi_icon_text_3.php:125
+#: element/multi_icon_text_3.php:147 element/multi_icon_text_3.php:172
+#: element/multi_icon_text_3.php:194 element/multi_icon_text_3.php:328
+#: element/multi_image_text.php:208 element/multi_image_text.php:231
+#: element/multi_image_text.php:254 element/multi_image_text.php:277
+#: element/multi_image_text_2.php:207 element/multi_image_text_2.php:242
+#: element/multi_image_text_2.php:265 element/multi_image_text_2.php:288
+#: element/multi_image_text_2.php:374 element/multi_image_text_2.php:417
+#: element/notification_box.php:42 element/notification_box.php:311
+#: element/pie_chart.php:102 element/pie_chart.php:127
+#: element/pie_chart.php:345 element/progress_bar.php:147
+#: element/progress_bar.php:314 element/progress_bar.php:381
+#: element/space.php:43 element/tabs.php:100 element/tabs.php:131
+#: element/tabs.php:241 element/tabs.php:302 element/tabs.php:342
+#: element/text.php:88 element/text_list.php:125 element/text_list.php:148
+#: element/text_list.php:236 element/text_list.php:261
+#: element/text_list.php:298 options/builder-array.php:768
+#: options/builder-array.php:790 options/builder-array.php:1102
+#: options/builder-array.php:1182 element/mini/button_typography.php:24
+#: element/mini/details.php:61 element/mini/details_typography.php:23
+#: element/mini/details_typography.php:65 element/mini/multi_boxed_item.php:124
+#: element/mini/percent_typography.php:20 element/mini/text_typography.php:20
+#: element/mini/text_typography.php:62 element/mini/title_typography.php:18
+#: element/mini/title_typography.php:59
+msgid "Size"
+msgstr "اندازه"
+
+#: element/image_gallery_slider.php:260 options/builder-array.php:272
+msgid "Slide"
+msgstr "اسلاید"
+
+#: options/builder-array.php:551 options/builder-array.php:1206
+#: options/builder-array.php:1237 options/builder-array.php:1255
+msgid "Slide Down"
+msgstr "اسلاید به پایین"
+
+#: options/builder-array.php:552 options/builder-array.php:553
+#: options/builder-array.php:1207 options/builder-array.php:1208
+#: options/builder-array.php:1238 options/builder-array.php:1239
+#: options/builder-array.php:1256 options/builder-array.php:1257
+msgid "Slide Left"
+msgstr "اسلاید به چپ"
+
+#: options/builder-array.php:552 options/builder-array.php:553
+#: options/builder-array.php:1207 options/builder-array.php:1208
+#: options/builder-array.php:1238 options/builder-array.php:1239
+#: options/builder-array.php:1256 options/builder-array.php:1257
+msgid "Slide Right"
+msgstr "اسلاید به راست"
+
+#: options/builder-array.php:550 options/builder-array.php:1205
+#: options/builder-array.php:1236 options/builder-array.php:1254
+msgid "Slide Up"
+msgstr "اسلاید به بالا"
+
+#: element/image_gallery_carousel.php:80 element/image_gallery_carousel.php:92
+#: element/image_gallery_carousel.php:139
+#: element/image_gallery_carousel.php:165
+#: element/image_gallery_carousel.php:173
+#: element/image_gallery_carousel.php:180
+#: element/image_gallery_carousel.php:188
+#: element/image_gallery_carousel.php:200 element/image_gallery_slider.php:80
+#: element/image_gallery_slider.php:91 element/image_gallery_slider.php:107
+#: element/image_gallery_slider.php:127 element/image_gallery_slider.php:139
+#: element/image_gallery_slider.php:186 element/image_gallery_slider.php:212
+#: element/image_gallery_slider.php:221 element/image_gallery_slider.php:231
+#: element/image_gallery_slider.php:240 element/image_gallery_slider.php:248
+#: element/image_gallery_slider.php:256 element/image_gallery_slider.php:269
+#: element/image_gallery_slider.php:276
+msgid "Slider"
+msgstr "اسلایدر"
+
+#: element/image_gallery_slider.php:254
+msgid "Slider Effect"
+msgstr "افکت اسلایدر"
+
+#: element/image_gallery_carousel.php:122 element/image_gallery_slider.php:169
+#: options/builder-array.php:169 options/builder-array.php:585
+msgid "Small"
+msgstr "کوچک"
+
+#: options/builder-array.php:405
+msgid "Solid"
+msgstr "جامد"
+
+#: element/accordion.php:129
+msgid "Space Between Accordion"
+msgstr "فضای بین آکاردئون"
+
+#: element/pie_chart.php:95
+msgid "Space Between Chart And Details"
+msgstr "فضای بین نمودار و جزئیات"
+
+#: element/notification_box.php:35
+msgid "Space Between Icon And Content"
+msgstr "فضای بین آیکون و محتوا"
+
+#: element/count_to.php:86 element/icon_text.php:103
+#: element/icon_text_2.php:102 element/multi_icon_text.php:163
+#: element/multi_icon_text_2.php:158
+msgid "Space Between Icon And Details"
+msgstr "فاصله بین آیکون و جزئیات"
+
+#: element/text_list.php:141
+msgid "Space Between Icon and Text"
+msgstr "فاصله بین آیکون و متن"
+
+#: element/icon_text_3.php:99 element/multi_icon_text_3.php:140
+msgid "Space Between Icon And Title"
+msgstr "فاصله بین آیکون و عنوان"
+
+#: element/image_gallery.php:91 element/image_gallery_carousel.php:220
+#: element/image_gallery_slider.php:321
+msgid "Space Between Image"
+msgstr "فاصله بین تصاویر"
+
+#: element/image_text.php:154 element/image_text_2.php:162
+#: element/multi_image_text.php:224 element/multi_image_text_2.php:235
+msgid "Space Between Image And Details"
+msgstr "فاصله بین تصویر و جزئیات"
+
+#: element/multi_icon_text.php:138 element/multi_icon_text_2.php:133
+#: element/multi_icon_text_3.php:116 element/multi_image_text.php:199
+#: element/multi_image_text_2.php:198 element/progress_bar.php:140
+msgid "Space Between Item"
+msgstr "فاصله بین آیتم"
+
+#: element/text_list.php:118
+msgid "Space Between List"
+msgstr "فضای بین لیست"
+
+#: element/count_to.php:111
+msgid "Space Between Number And Title"
+msgstr "فاصله بین شماره و عنوان"
+
+#: element/icon_text.php:129 element/icon_text_2.php:127
+#: element/icon_text_3.php:124 element/image_text.php:177
+#: element/image_text_2.php:185 element/multi_icon_text.php:188
+#: element/multi_icon_text_2.php:183 element/multi_icon_text_3.php:165
+#: element/multi_image_text.php:247 element/multi_image_text_2.php:258
+#: element/pie_chart.php:120 element/text.php:81
+msgid "Space Between Title And Details"
+msgstr "فاصله بین عنوان و جزئیات"
+
+#: options/builder-options-section.php:75
+#: options/builder-options-section.php:525
+#: options/builder-options-section.php:593
+msgid "Space the row,Default \"0\""
+msgstr "فضای ردیف، پیش فرض \"0\""
+
+#: options/fonts/fa-icon.php:570
+msgid "Spinner Icons"
+msgstr "نمادهای چرخنده"
+
+#: options/builder-array.php:938 options/builder-array.php:965
+#: options/builder-array.php:985 options/builder-array.php:1012
+#: element/mini/image.php:34 element/mini/image.php:123
+msgid "Spread"
+msgstr "شیوع"
+
+#: options/builder-options-section.php:47
+msgid "Sticky Columns"
+msgstr " سنجاق کردن ستون ها"
+
+#: options/builder-options-section.php:50
+msgid ""
+"Sticky Columns is a floating box that stuck to the browsers top when you "
+"scroll "
+msgstr "وقتی در مرورگر حرکت میکنید و پایین می آید ستون ها سنجاق میشود"
+
+#: options/builder-options-column.php:95
+#: options/builder-options-section.php:157
+msgid "Stripes"
+msgstr ""
+
+#: element/accordion.php:190 element/count_to.php:256 element/divider.php:49
+#: element/divider_vertical.php:48 element/progress_bar.php:54
+#: element/tabs.php:111 options/builder-array.php:774
+#: options/builder-array.php:807 options/builder-array.php:841
+#: element/mini/details.php:66 element/mini/multi_boxed_item.php:129
+msgid "Style"
+msgstr "استایل"
+
+#: element/accordion.php:106 element/progress_bar.php:58
+#: options/builder-array.php:655 options/builder-array.php:665
+#: options/builder-array.php:885
+msgid "Style 1"
+msgstr "استایل 1"
+
+#: options/builder-array.php:894
+msgid "Style 10"
+msgstr "استایل 10"
+
+#: options/builder-array.php:895
+msgid "Style 11"
+msgstr "استایل 11"
+
+#: options/builder-array.php:896
+msgid "Style 12"
+msgstr "استایل 12"
+
+#: options/builder-array.php:897
+msgid "Style 13"
+msgstr "استایل 13"
+
+#: options/builder-array.php:898
+msgid "Style 14"
+msgstr "استایل 14"
+
+#: options/builder-array.php:899
+msgid "Style 15"
+msgstr "استایل 15"
+
+#: options/builder-array.php:900
+msgid "Style 16"
+msgstr "استایل 16"
+
+#: options/builder-array.php:901
+msgid "Style 17"
+msgstr "استایل 17"
+
+#: options/builder-array.php:902
+msgid "Style 18"
+msgstr "استایل 18"
+
+#: options/builder-array.php:903
+msgid "Style 19"
+msgstr "استایل 19"
+
+#: element/accordion.php:107 element/progress_bar.php:59
+#: options/builder-array.php:886
+msgid "Style 2"
+msgstr "استایل 2"
+
+#: options/builder-array.php:904
+msgid "Style 20"
+msgstr "استایل 20"
+
+#: options/builder-array.php:656 options/builder-array.php:666
+msgid "Style 2:Top Border inset"
+msgstr "استایل 2: کادر بالا داخل"
+
+#: element/accordion.php:108 element/progress_bar.php:60
+#: options/builder-array.php:887
+msgid "Style 3"
+msgstr "استایل 3"
+
+#: options/builder-array.php:657 options/builder-array.php:667
+msgid "Style 3:Bottom Border inset"
+msgstr "استایل 3: کادر پایین داخل"
+
+#: element/accordion.php:109 element/progress_bar.php:61
+#: options/builder-array.php:888
+msgid "Style 4"
+msgstr "استایل 4"
+
+#: options/builder-array.php:658 options/builder-array.php:659
+#: options/builder-array.php:668 options/builder-array.php:669
+msgid "Style 4:Left Border inset"
+msgstr "استایل 4: کادر چپ داخل"
+
+#: element/accordion.php:110 options/builder-array.php:889
+msgid "Style 5"
+msgstr "استایل 5"
+
+#: options/builder-array.php:658 options/builder-array.php:659
+#: options/builder-array.php:668 options/builder-array.php:669
+msgid "Style 5:Right Border inset"
+msgstr "استایل 5: کادر راست داخل"
+
+#: element/accordion.php:111 options/builder-array.php:890
+msgid "Style 6"
+msgstr "استایل 6"
+
+#: options/builder-array.php:660
+msgid "Style 6:Icon Background color"
+msgstr "استایل  6: رنگ پس زمینه برای آیکون"
+
+#: element/accordion.php:112 options/builder-array.php:891
+msgid "Style 7"
+msgstr "استایل 7"
+
+#: options/builder-array.php:661 options/builder-array.php:670
+msgid "Style 7:none boxed"
+msgstr "استایل 7 : جعبه ای نباشد"
+
+#: element/accordion.php:113 options/builder-array.php:892
+msgid "Style 8"
+msgstr "استایل 8"
+
+#: options/builder-array.php:893
+msgid "Style 9"
+msgstr "استایل 9"
+
+#: element/button.php:106 element/button.php:112 element/button.php:149
+#: element/mini/button.php:14
+msgid "Style Button"
+msgstr "استایل دکمه "
+
+#: element/button.php:155 element/button.php:191
+msgid "Style Button in Hover"
+msgstr "استایل دکمه در شناور"
+
+#: element/accordion.php:100 element/text_block.php:67
+msgid "Style Layout"
+msgstr "استایل طرح بندی"
+
+#: options/builder-options-column.php:104
+#: options/builder-options-section.php:166
+msgid "Sun Tornado"
+msgstr "خورشید گردباد"
+
+#: framework/builder.php:44
+msgid "Switch to Default Editor"
+msgstr "تغییر به ویرایشگر  پیش فرض "
+
+#: framework/builder.php:43
+msgid "Switch to Sao Page Builder"
+msgstr "تغییر به صفحه ساز سوشیانت"
+
+#: element/tabs.php:15
+msgid "Tabs"
+msgstr "تب ها"
+
+#: element/tabs.php:53
+msgid "tabs"
+msgstr "تب ها"
+
+#: element/tabs.php:36
+msgid "Tabs 1"
+msgstr "تب 1"
+
+#: element/tabs.php:41
+msgid "Tabs 2"
+msgstr "تب 2"
+
+#: element/tabs.php:45
+msgid "Tabs 3"
+msgstr "تب 3"
+
+#: options/fonts/flaticon_thin.php:395
+msgid "Tech Support"
+msgstr ""
+
+#: options/fonts/flaticon_thin.php:497
+msgid "Technology"
+msgstr ""
+
+#: framework/builder-template.php:12 framework/builder-template.php:70
+msgid "Template"
+msgstr "قالب"
+
+#: framework/builder-template.php:17
+msgid "Template Name"
+msgstr "نام قالب"
+
+#: element/accordion.php:242 element/accordion.php:299
+#: element/accordion.php:329 element/button.php:81 element/heading.php:34
+#: element/tabs.php:164 element/tabs.php:189 element/tabs.php:215
+#: element/text.php:14 element/text_list.php:60 element/text_list.php:198
+#: element/text_list.php:208 element/text_list.php:216
+#: element/text_list.php:225
+msgid "Text"
+msgstr "متن"
+
+#: element/text_list.php:196
+msgid "Text Alignment"
+msgstr "تراز متن"
+
+#: element/button.php:119 element/html.php:72 element/text_block.php:158
+#: element/text_list.php:214 element/widgets.php:76
+msgid "Text Color"
+msgstr "رنگ متن "
+
+#: element/text_block.php:14
+msgid "Text Editor"
+msgstr "ویرایشگر متن"
+
+#: options/fonts/fa-icon.php:640
+msgid "Text Editor Icons"
+msgstr "آیکون های ویرایشگر متن"
+
+#: element/text_list.php:254 element/mini/text_typography.php:13
+msgid "Text Font Size"
+msgstr "متن - اندازه فونت"
+
+#: element/text_list.php:315 element/mini/text_typography.php:79
+msgid "Text Font Style"
+msgstr "استایل فونت متن"
+
+#: element/text_list.php:277 element/mini/text_typography.php:37
+msgid "Text Font Weight"
+msgstr "متن - وزن فونت"
+
+#: element/text_list.php:292 element/mini/text_typography.php:56
+msgid "Text Line Height"
+msgstr "متن - ارتفاع خط"
+
+#: element/mini/text_typography.php:4
+msgid "Text Typography"
+msgstr "تایپوگرافی متن"
+
+#: element/text_list.php:206
+msgid "Text Vertical align in middle"
+msgstr "متن عمودی در وسط قرار بگیرید"
+
+#: options/builder-options-column.php:86
+#: options/builder-options-section.php:148
+msgid "Texture"
+msgstr "بافت"
+
+#: element/count_to.php:69 element/icon_text.php:71 element/icon_text_2.php:69
+#: element/icon_text_3.php:66 element/image_text.php:104
+#: element/image_text_2.php:102 element/multi_icon_text.php:73
+#: element/multi_icon_text_2.php:72 element/multi_icon_text_3.php:73
+#: element/multi_image_text.php:96 element/multi_image_text_2.php:96
+#: element/pie_chart.php:78 element/text.php:58
+msgid "The Details"
+msgstr "جزئیات"
+
+#: options/builder-options-column.php:129
+#: options/builder-options-section.php:191
+msgid "Third"
+msgstr "سوم"
+
+#: element/image_gallery_slider.php:398 element/image_gallery_slider.php:416
+msgid "Thumb"
+msgstr "تصاویر کوچک"
+
+#: element/image_gallery_slider.php:300
+msgid "Thumb Item"
+msgstr "آیتم های تصاویر کوچک"
+
+#: element/image_gallery_slider.php:396
+msgid "Thumb Ratio"
+msgstr "نسبت تصاویر کوچک"
+
+#: element/image_gallery_slider.php:218
+msgid "Timer"
+msgstr "زمان سنج"
+
+#: element/image_gallery_slider.php:226
+msgid "Timer Color"
+msgstr "رنگ تایمر"
+
+#: options/builder-options-column.php:90
+#: options/builder-options-section.php:152
+msgid "Tiny Checkers"
+msgstr "چکرزهای کوچک"
+
+#: element/accordion.php:60 element/accordion.php:363 element/count_to.php:62
+#: element/icon_text.php:39 element/icon_text_2.php:40
+#: element/icon_text_3.php:39 element/image_text.php:77
+#: element/image_text_2.php:76 element/multi_icon_text.php:62
+#: element/multi_icon_text_2.php:61 element/multi_icon_text_3.php:62
+#: element/multi_image_text.php:74 element/multi_image_text_2.php:74
+#: element/pie_chart.php:51 element/tabs.php:60 element/tabs.php:227
+#: element/text.php:31
+msgid "Title"
+msgstr "عنوان"
+
+#: element/count_to.php:209 element/heading.php:130 element/progress_bar.php:87
+#: element/progress_bar.php:283 element/mini/details.php:11
+msgid "Title Color"
+msgstr "رنگ عنوان"
+
+#: element/accordion.php:370 element/progress_bar.php:307 element/tabs.php:234
+#: element/mini/title_typography.php:11
+msgid "Title Font Size"
+msgstr "اندازه فونت عنوان "
+
+#: element/accordion.php:409 element/progress_bar.php:349 element/tabs.php:273
+#: element/mini/title_typography.php:75
+msgid "Title Font Style"
+msgstr "استایل فونت عنوان"
+
+#: element/accordion.php:393 element/progress_bar.php:331 element/tabs.php:257
+#: element/mini/title_typography.php:35
+msgid "Title Font Weight"
+msgstr "وزن فونت عنوان "
+
+#: element/mini/details.php:27
+msgid "Title Line Bottom"
+msgstr "خط پایین عنوان"
+
+#: element/mini/title_typography.php:53
+msgid "Title Line Height"
+msgstr "ارتفاع خط عنوان"
+
+#: element/progress_bar.php:299 element/mini/title_typography.php:4
+msgid "Title Typography"
+msgstr "تایپوگرافی عنوان "
+
+#: element/icon_text_3.php:248 element/multi_icon_text_3.php:294
+msgid "Title Vertical align in middle"
+msgstr "عنوان عمودی را وسط قرار بگیرد"
+
+#: element/image_gallery_slider.php:95 options/builder-array.php:161
+#: options/builder-array.php:697 options/builder-array.php:716
+#: options/builder-array.php:799 options/builder-array.php:820
+#: options/builder-options-column.php:183
+#: options/builder-options-column.php:214
+#: options/builder-options-section.php:79
+#: options/builder-options-section.php:245
+#: options/builder-options-section.php:276
+#: options/builder-options-section.php:529
+#: options/builder-options-section.php:597
+msgid "Top"
+msgstr "بالا"
+
+#: options/builder-array.php:803
+msgid "Top And Bottom"
+msgstr "بالا و پایین"
+
+#: options/builder-array.php:746
+msgid "Top and Bottom"
+msgstr ""
+
+#: options/builder-options-column.php:184
+#: options/builder-options-section.php:246
+msgid "Top Center"
+msgstr "بالا مرکز"
+
+#: options/builder-array.php:1071 options/builder-array.php:1076
+msgid "Top Left"
+msgstr "بالا چپ"
+
+#: options/builder-array.php:163 options/builder-array.php:164
+msgid "Top Left & Bottom Right"
+msgstr "بالا چپ و پایین راست"
+
+#: options/builder-array.php:1071 options/builder-array.php:1076
+msgid "Top Right"
+msgstr "بالا راست"
+
+#: options/builder-array.php:163 options/builder-array.php:164
+msgid "Top Right & Bottom Left"
+msgstr "بالا راست و پایین چپ"
+
+#: element/pie_chart.php:268
+msgid "Track Color"
+msgstr "رنگ مسیر"
+
+#: options/builder-array.php:1166
+msgid "Transform"
+msgstr "تبدیل "
+
+#: options/fonts/fa-icon.php:513
+msgid "Transportation Icons"
+msgstr "آیکون حمل و نقل"
+
+#: options/fonts/flaticon_thin.php:772
+msgid "Travel"
+msgstr "مصافرت"
+
+#: element/accordion.php:365 element/accordion.php:372
+#: element/accordion.php:395 element/accordion.php:411
+#: element/accordion.php:427 element/accordion.php:433
+#: element/accordion.php:459 element/accordion.php:474
+#: element/accordion.php:496 element/button.php:305 element/button.php:327
+#: element/button.php:345 element/count_to.php:273 element/count_to.php:281
+#: element/count_to.php:302 element/count_to.php:309 element/count_to.php:333
+#: element/count_to.php:349 element/icon.php:264 element/icon_text.php:284
+#: element/icon_text.php:292 element/icon_text_2.php:255
+#: element/icon_text_2.php:263 element/icon_text_3.php:270
+#: element/icon_text_3.php:278 element/image.php:244 element/image.php:271
+#: element/image.php:293 element/image.php:319 element/multi_icon_text.php:348
+#: element/multi_icon_text.php:356 element/multi_icon_text_2.php:321
+#: element/multi_icon_text_2.php:329 element/multi_icon_text_3.php:316
+#: element/multi_icon_text_3.php:324 element/notification_box.php:299
+#: element/notification_box.php:307 element/pie_chart.php:333
+#: element/pie_chart.php:340 element/pie_chart.php:364
+#: element/pie_chart.php:381 element/progress_bar.php:301
+#: element/progress_bar.php:309 element/progress_bar.php:333
+#: element/progress_bar.php:351 element/progress_bar.php:369
+#: element/progress_bar.php:376 element/progress_bar.php:400
+#: element/progress_bar.php:417 element/tabs.php:229 element/tabs.php:236
+#: element/tabs.php:259 element/tabs.php:275 element/tabs.php:291
+#: element/tabs.php:297 element/tabs.php:323 element/tabs.php:338
+#: element/tabs.php:360 element/text_list.php:232 element/text_list.php:256
+#: element/text_list.php:279 element/text_list.php:294
+#: element/text_list.php:317 element/mini/button_typography.php:9
+#: element/mini/button_typography.php:18 element/mini/button_typography.php:42
+#: element/mini/button_typography.php:58 element/mini/button_typography.php:72
+#: element/mini/details_typography.php:9 element/mini/details_typography.php:18
+#: element/mini/details_typography.php:42
+#: element/mini/details_typography.php:61
+#: element/mini/details_typography.php:82
+#: element/mini/details_typography.php:97 element/mini/percent_typography.php:6
+#: element/mini/percent_typography.php:15
+#: element/mini/percent_typography.php:39
+#: element/mini/percent_typography.php:58
+#: element/mini/percent_typography.php:72
+#: element/mini/percent_typography.php:86 element/mini/text_typography.php:6
+#: element/mini/text_typography.php:15 element/mini/text_typography.php:39
+#: element/mini/text_typography.php:58 element/mini/text_typography.php:81
+#: element/mini/text_typography.php:95 element/mini/title_typography.php:6
+#: element/mini/title_typography.php:13 element/mini/title_typography.php:37
+#: element/mini/title_typography.php:55 element/mini/title_typography.php:77
+#: element/mini/title_typography.php:91
+msgid "Typography"
+msgstr "تایپوگرافی"
+
+#: element/accordion.php:142 element/accordion.php:184
+#: element/accordion.php:216 element/accordion.php:383
+#: element/accordion.php:444 element/accordion.php:484 element/button.php:250
+#: element/button.php:315 element/count_to.php:99 element/count_to.php:124
+#: element/count_to.php:291 element/count_to.php:320 element/icon.php:279
+#: element/icon_text.php:117 element/icon_text.php:142
+#: element/icon_text.php:164 element/icon_text.php:302
+#: element/icon_text_2.php:115 element/icon_text_2.php:140
+#: element/icon_text_2.php:164 element/icon_text_2.php:273
+#: element/icon_text_3.php:112 element/icon_text_3.php:137
+#: element/icon_text_3.php:159 element/icon_text_3.php:288
+#: element/image.php:165 element/image.php:208 element/image.php:255
+#: element/image.php:303 element/image_gallery.php:177
+#: element/image_gallery.php:209 element/image_text.php:167
+#: element/image_text.php:190 element/image_text.php:213
+#: element/image_text_2.php:175 element/image_text_2.php:198
+#: element/image_text_2.php:221 element/image_text_2.php:292
+#: element/image_text_2.php:335 element/multi_icon_text.php:153
+#: element/multi_icon_text.php:176 element/multi_icon_text.php:201
+#: element/multi_icon_text.php:223 element/multi_icon_text.php:366
+#: element/multi_icon_text_2.php:148 element/multi_icon_text_2.php:171
+#: element/multi_icon_text_2.php:196 element/multi_icon_text_2.php:220
+#: element/multi_icon_text_2.php:339 element/multi_icon_text_3.php:131
+#: element/multi_icon_text_3.php:153 element/multi_icon_text_3.php:178
+#: element/multi_icon_text_3.php:200 element/multi_icon_text_3.php:334
+#: element/multi_image_text.php:214 element/multi_image_text.php:237
+#: element/multi_image_text.php:260 element/multi_image_text.php:283
+#: element/multi_image_text_2.php:213 element/multi_image_text_2.php:248
+#: element/multi_image_text_2.php:271 element/multi_image_text_2.php:294
+#: element/multi_image_text_2.php:380 element/multi_image_text_2.php:423
+#: element/notification_box.php:48 element/notification_box.php:317
+#: element/pie_chart.php:108 element/pie_chart.php:133
+#: element/pie_chart.php:351 element/progress_bar.php:153
+#: element/progress_bar.php:320 element/progress_bar.php:387
+#: element/space.php:48 element/tabs.php:105 element/tabs.php:137
+#: element/tabs.php:247 element/tabs.php:308 element/tabs.php:348
+#: element/text.php:94 element/text_list.php:131 element/text_list.php:154
+#: element/text_list.php:242 element/text_list.php:267
+#: element/text_list.php:304 options/builder-array.php:707
+#: options/builder-array.php:736 options/builder-array.php:756
+#: options/builder-array.php:1017 options/builder-array.php:1054
+#: options/builder-array.php:1091 options/builder-array.php:1107
+#: options/builder-options-column.php:263
+#: options/builder-options-section.php:90
+#: options/builder-options-section.php:325
+#: options/builder-options-section.php:540
+#: options/builder-options-section.php:608
+#: element/mini/button_typography.php:30 element/mini/details_typography.php:29
+#: element/mini/details_typography.php:71
+#: element/mini/percent_typography.php:26 element/mini/text_typography.php:26
+#: element/mini/text_typography.php:68 element/mini/title_typography.php:24
+#: element/mini/title_typography.php:65
+msgid "Unit"
+msgstr "واحد"
+
+#: framework/builder-column.php:211 framework/builder-element.php:226
+#: framework/builder-section.php:198
+msgid "Update"
+msgstr "به روز رسانی"
+
+#: framework/builder-options-functions.php:224
+#: framework/builder-options-functions.php:711
+msgid "Upload"
+msgstr "آپلود"
+
+#: element/image.php:45 element/image_gallery.php:35
+#: element/image_gallery_carousel.php:34 element/image_gallery_slider.php:33
+#: element/image_text.php:47 element/image_text_2.php:45
+#: element/multi_image_text.php:80 element/multi_image_text_2.php:80
+msgid "Upload Image"
+msgstr "آپلود تصویر"
+
+#: options/builder-array.php:1171 element/mini/percent_typography.php:63
+msgid "Uppercase"
+msgstr "حروف بزرگ"
+
+#: saoshyant-page-builder.php:448
+msgid "Use This Image"
+msgstr "از این تصویر استفاده کنید"
+
+#: options/builder-array.php:1002 options/builder-array.php:1043
+msgid "Vertical"
+msgstr "عمودی"
+
+#: options/builder-array.php:870 options/builder-options-column.php:148
+#: options/builder-options-section.php:210
+msgid "vertical  ↓"
+msgstr "عمودی  ↓"
+
+#: element/divider_vertical.php:14
+msgid "Vertical Divider / Line"
+msgstr "تقسیم کننده عمودی / خط"
+
+#: element/mini/image.php:88
+msgid "Vertical Pan"
+msgstr "حرکت به سمت عمودی"
+
+#: element/video.php:14
+msgid "Video"
+msgstr "ویدیو"
+
+#: options/fonts/fa-icon.php:746
+msgid "Video Player Icons"
+msgstr "آیکون های پخش کننده ویدیو"
+
+#: element/video.php:78
+msgid "Video Ratio"
+msgstr "نسبت ویدیو"
+
+#: element/video.php:39
+msgid "Video Type"
+msgstr "نوع ویدیو"
+
+#: element/video.php:48
+msgid "Video Url"
+msgstr "آدرس اینترنتی ویدیو"
+
+#: element/video.php:56
+msgid "Video Width"
+msgstr "عرض ویدیو"
+
+#: options/builder-array.php:212
+msgid "Views"
+msgstr "بازدید"
+
+#: options/builder-options-column.php:100
+#: options/builder-options-section.php:162
+msgid "Wavey Fingerprint"
+msgstr "اثر انگشت موج دار"
+
+#: options/fonts/fa-icon.php:21
+msgid "Web Application Icons"
+msgstr "آیکون های برنامه وب"
+
+#: options/fonts/flaticon_thin.php:720
+msgid "Web Design"
+msgstr "طراحی وب سایت"
+
+#: element/widgets.php:14
+msgid "Widgets"
+msgstr "ابزارک ها"
+
+#: element/count_to.php:223 element/divider.php:64 element/image.php:153
+#: element/image_gallery.php:160 element/image_text_2.php:280
+#: element/multi_image_text_2.php:368 element/mini/details.php:33
+msgid "Width"
+msgstr "عرض"
+
+#: options/builder-options-section.php:32
+msgid "Width Row"
+msgstr "عرض این بخش"
+
+#: options/builder-options-column.php:92
+#: options/builder-options-section.php:154
+msgid "Wiggle"
+msgstr "تکان دادن"
+
+#: element/image_gallery.php:38 element/image_gallery_carousel.php:36
+#: element/image_gallery_slider.php:36
+msgid "You can hold the control button \"Ctrl\" for Multi select image"
+msgstr ""
+"شما می توانید دکمه کنترلی \"Ctrl\" را نگه دارید و   چند تصویر انتخاب کنید"
+
+#: element/icon.php:148 element/icon.php:228 element/notification_box.php:221
+#: element/pie_chart.php:284 element/mini/icon.php:72 element/mini/icon.php:149
+msgid "You can see the background by changing the opacity color"
+msgstr "می توانید پس زمینه را با تغییر رنگ کدورت مشاهده کنید"
+
+#: options/builder-options-column.php:453 element/mini/column_responsive.php:87
+#, fuzzy
+#| msgid "You can select Column in Phone Devices,Resolution max 500px"
+msgid "You can select Column in Phone Devices,Resolution max 767px"
+msgstr ""
+"شما می توانید ستون در دستگاه های تلفن، رزولوشن حداکثر 991px و حداقل 768px را "
+"انتخاب کنید"
+
+#: options/builder-options-column.php:406 element/mini/column_responsive.php:34
+msgid ""
+"You can select Column in Tabel Devices,Resolution max 991px and min 768px"
+msgstr ""
+"شما می توانید ستون در دستگاه های تبلیت، رزولوشن حداکثر 991px و حداقل 768px "
+"را انتخاب کنید"
+
+#: element/video.php:33
+msgid "YouTube"
+msgstr ""
+
+#: options/builder-options-column.php:102
+#: options/builder-options-section.php:164
+msgid "Zig Zag"
+msgstr ""
+
+#: element/image.php:66 element/image_gallery.php:49
+#: element/image_gallery_carousel.php:50 element/image_gallery_slider.php:48
+#: element/image_text.php:70 element/image_text_2.php:69
+#: element/multi_image_text.php:147 element/multi_image_text_2.php:148
+msgid "Zoom"
+msgstr "بزرگن مایی"
+
+#: element/image.php:99 element/image_gallery.php:75
+#: element/image_gallery_carousel.php:73 element/image_gallery_slider.php:71
+#: element/image_text.php:148 element/image_text_2.php:145
+#: element/multi_image_text.php:177 element/multi_image_text_2.php:176
+msgid "Zoom Icon"
+msgstr "آیکون بزرگ نمایی"
+
+#: options/builder-array.php:554
+msgid "Zoom In"
+msgstr "بزرگ نمایی"
+
+#: options/builder-array.php:1213 options/builder-array.php:1244
+#: options/builder-array.php:1262
+msgid "Zoom in"
+msgstr "بزرگ نمایی"
+
+#: options/builder-array.php:556
+msgid "Zoom In Down"
+msgstr "بزرگ نمایی به پایین"
+
+#: options/builder-array.php:557 options/builder-array.php:558
+msgid "Zoom In Left"
+msgstr "بزرگ نمایی به چپ"
+
+#: options/builder-array.php:557 options/builder-array.php:558
+msgid "Zoom In Right"
+msgstr "بزرگ نمایی به راست"
+
+#: options/builder-array.php:555
+msgid "Zoom In Up"
+msgstr "بزرگ نمایی به بالا"
+
+#: options/builder-array.php:559
+msgid "Zoom Out"
+msgstr "کوچک نمایی"
+
+#: options/builder-array.php:1214 options/builder-array.php:1245
+#: options/builder-array.php:1263
+msgid "Zoom out"
+msgstr "کوچک نمایی"
+
+#: options/builder-array.php:561
+msgid "Zoom Out Down"
+msgstr "کوچک نمایی به پایین"
+
+#: options/builder-array.php:562 options/builder-array.php:563
+msgid "Zoom Out Left"
+msgstr "کوچک نمایی به جپ"
+
+#: options/builder-array.php:562 options/builder-array.php:563
+msgid "Zoom Out Right"
+msgstr "کوچک نمایی به راست"
+
+#: options/builder-array.php:560
+msgid "Zoom Out Up"
+msgstr "کوچک نمایی به بالا"

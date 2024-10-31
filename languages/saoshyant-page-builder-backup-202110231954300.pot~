@@ -1,0 +1,3813 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Saoshyant Page Builder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-04 19:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: saoshyant-page-builder.php:269
+msgid "Choose Image"
+msgstr ""
+
+#: saoshyant-page-builder.php:270 framework/builder-template.php:74
+msgid "Remove"
+msgstr ""
+
+#: saoshyant-page-builder.php:271
+msgid "Use This Image"
+msgstr ""
+
+#: saoshyant-page-builder.php:272
+msgid "Name is empty!"
+msgstr ""
+
+#: saoshyant-page-builder.php:273
+msgid "Change the Column"
+msgstr ""
+
+#: saoshyant-page-builder.php:274
+msgid "Name already exist!"
+msgstr ""
+
+#: saoshyant-page-builder.php:275
+msgid "Do you agree?"
+msgstr ""
+
+#: saoshyant-page-builder.php:276
+msgid "Error"
+msgstr ""
+
+#: saoshyant-page-builder.php:326
+msgid "1"
+msgstr ""
+
+#: saoshyant-page-builder.php:327
+msgid "Comments Off"
+msgstr ""
+
+#: saoshyant-page-builder.php:328
+msgid "By"
+msgstr ""
+
+#: saoshyant-page-builder.php:329
+msgid "Load more"
+msgstr ""
+
+#: saoshyant-page-builder.php:330 saoshyant-page-builder.php:334
+msgid "No Comments Yet"
+msgstr ""
+
+#: saoshyant-page-builder.php:331
+msgid "Comment"
+msgstr ""
+
+#: saoshyant-page-builder.php:332 options/builder-array.php:182
+#: options/builder-array.php:1032
+msgid "Comments"
+msgstr ""
+
+#: saoshyant-page-builder.php:333
+msgid "Comments are Closed."
+msgstr ""
+
+#: element/accordion.php:6 element/accordion.php:37
+msgid "Accordion"
+msgstr ""
+
+#: element/accordion.php:19
+msgid "Accordion 1"
+msgstr ""
+
+#: element/accordion.php:20 element/accordion.php:25 element/accordion.php:29
+#: element/multi_icon_text.php:22 element/multi_icon_text.php:28
+#: element/multi_icon_text.php:33 element/multi_icon_text_2.php:20
+#: element/multi_icon_text_2.php:26 element/multi_icon_text_2.php:31
+#: element/multi_icon_text_3.php:20 element/multi_icon_text_3.php:26
+#: element/multi_icon_text_3.php:31 element/multi_image_text.php:23
+#: element/multi_image_text.php:28 element/multi_image_text.php:32
+#: element/multi_image_text_2.php:21 element/multi_image_text_2.php:26
+#: element/multi_image_text_2.php:30 element/tabs.php:21 element/tabs.php:26
+#: element/tabs.php:30 element/text_list.php:23 element/text_list.php:27
+#: element/text_list.php:30
+msgid ""
+"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo "
+"ligula eget dolor. Aenean massa"
+msgstr ""
+
+#: element/accordion.php:24
+msgid "Accordion 2"
+msgstr ""
+
+#: element/accordion.php:28
+msgid "Accordion 3"
+msgstr ""
+
+#: element/accordion.php:44 element/accordion.php:328 element/count_to.php:47
+#: element/icon_text.php:25 element/icon_text_2.php:25
+#: element/icon_text_3.php:23 element/image_text.php:60
+#: element/image_text_2.php:59 element/multi_icon_text.php:48
+#: element/multi_icon_text_2.php:46 element/multi_icon_text_3.php:46
+#: element/multi_image_text.php:59 element/multi_image_text_2.php:57
+#: element/pie_chart.php:36 element/tabs.php:44 element/text.php:17
+msgid "Title"
+msgstr ""
+
+#: element/accordion.php:49 element/accordion.php:402
+#: element/notification_box.php:27 element/notification_box.php:275
+#: element/notification_box.php:285 element/notification_box.php:292
+#: element/shortcodes.php:20 element/tabs.php:49 element/text_block.php:18
+msgid "Content"
+msgstr ""
+
+#: element/accordion.php:54
+msgid "Active"
+msgstr ""
+
+#: element/accordion.php:65 element/text_block.php:52
+msgid "Style Layout"
+msgstr ""
+
+#: element/accordion.php:67 element/accordion.php:86 element/accordion.php:96
+#: element/accordion.php:121 element/accordion.php:130 element/button.php:197
+#: element/button.php:208 element/button.php:219 element/button.php:247
+#: element/button.php:260 element/count_to.php:64 element/count_to.php:89
+#: element/count_to.php:114 element/count_to.php:124 element/count_to.php:137
+#: element/divider.php:81 element/divider.php:92 element/divider.php:107
+#: element/divider_vertical.php:76 element/divider_vertical.php:87
+#: element/divider_vertical.php:97 element/heading.php:66
+#: element/heading.php:77 element/icon.php:34 element/icon.php:45
+#: element/icon.php:56 element/icon_text.php:69 element/icon_text.php:94
+#: element/icon_text.php:116 element/icon_text.php:139
+#: element/icon_text.php:152 element/icon_text_2.php:66
+#: element/icon_text_2.php:91 element/icon_text_2.php:115
+#: element/icon_text_2.php:138 element/icon_text_2.php:148
+#: element/icon_text_2.php:160 element/icon_text_3.php:65
+#: element/icon_text_3.php:90 element/icon_text_3.php:112
+#: element/icon_text_3.php:135 element/icon_text_3.php:147
+#: element/image.php:102 element/image.php:114 element/image.php:125
+#: element/image_gallery.php:64 element/image_gallery.php:78
+#: element/image_gallery.php:90 element/image_gallery.php:101
+#: element/image_gallery.php:115 element/image_gallery_carousel.php:91
+#: element/image_gallery_carousel.php:188
+#: element/image_gallery_carousel.php:203
+#: element/image_gallery_carousel.php:213
+#: element/image_gallery_carousel.php:225 element/image_gallery_slider.php:139
+#: element/image_gallery_slider.php:264 element/image_gallery_slider.php:266
+#: element/image_gallery_slider.php:284 element/image_gallery_slider.php:307
+#: element/image_gallery_slider.php:317 element/image_gallery_slider.php:329
+#: element/image_text.php:118 element/image_text.php:141
+#: element/image_text.php:164 element/image_text.php:188
+#: element/image_text.php:201 element/image_text_2.php:116
+#: element/image_text_2.php:127 element/image_text_2.php:150
+#: element/image_text_2.php:173 element/image_text_2.php:197
+#: element/image_text_2.php:208 element/multi_icon_text.php:94
+#: element/multi_icon_text.php:108 element/multi_icon_text.php:136
+#: element/multi_icon_text.php:161 element/multi_icon_text.php:183
+#: element/multi_icon_text.php:206 element/multi_icon_text.php:218
+#: element/multi_icon_text_2.php:92 element/multi_icon_text_2.php:101
+#: element/multi_icon_text_2.php:126 element/multi_icon_text_2.php:151
+#: element/multi_icon_text_2.php:175 element/multi_icon_text_2.php:198
+#: element/multi_icon_text_2.php:208 element/multi_icon_text_2.php:221
+#: element/multi_icon_text_3.php:93 element/multi_icon_text_3.php:102
+#: element/multi_icon_text_3.php:126 element/multi_icon_text_3.php:151
+#: element/multi_icon_text_3.php:173 element/multi_icon_text_3.php:196
+#: element/multi_icon_text_3.php:208 element/multi_image_text.php:151
+#: element/multi_image_text.php:165 element/multi_image_text.php:190
+#: element/multi_image_text.php:213 element/multi_image_text.php:236
+#: element/multi_image_text.php:260 element/multi_image_text.php:271
+#: element/multi_image_text_2.php:151 element/multi_image_text_2.php:165
+#: element/multi_image_text_2.php:191 element/multi_image_text_2.php:202
+#: element/multi_image_text_2.php:225 element/multi_image_text_2.php:248
+#: element/multi_image_text_2.php:272 element/multi_image_text_2.php:285
+#: element/notification_box.php:37 element/notification_box.php:61
+#: element/notification_box.php:73 element/pie_chart.php:62
+#: element/pie_chart.php:87 element/pie_chart.php:113 element/pie_chart.php:123
+#: element/pie_chart.php:135 element/progress_bar.php:127
+#: element/progress_bar.php:149 element/progress_bar.php:162
+#: element/shortcodes.php:32 element/tabs.php:60 element/tabs.php:71
+#: element/text.php:52 element/text.php:66 element/text_block.php:29
+#: element/text_block.php:43 element/text_list.php:108
+#: element/text_list.php:131 element/text_list.php:155
+#: element/text_list.php:165 element/video.php:42 element/video.php:64
+#: element/video.php:75 element/video.php:87 element/video.php:99
+#: element/widgets.php:27 options/builder-options-column.php:28
+#: options/builder-options-column.php:37 options/builder-options-section.php:23
+#: options/builder-options-section.php:31
+#: options/builder-options-section.php:38
+#: options/builder-options-section.php:46
+#: options/builder-options-section.php:63
+#: options/builder-options-section.php:90
+msgid "Layout"
+msgstr ""
+
+#: element/accordion.php:71 element/progress_bar.php:43
+#: options/builder-array.php:585 options/builder-array.php:779
+msgid "Style 1"
+msgstr ""
+
+#: element/accordion.php:72 element/progress_bar.php:44
+#: options/builder-array.php:780
+msgid "Style 2"
+msgstr ""
+
+#: element/accordion.php:73 element/progress_bar.php:45
+#: options/builder-array.php:781
+msgid "Style 3"
+msgstr ""
+
+#: element/accordion.php:74 element/progress_bar.php:46
+#: options/builder-array.php:782
+msgid "Style 4"
+msgstr ""
+
+#: element/accordion.php:75 options/builder-array.php:783
+msgid "Style 5"
+msgstr ""
+
+#: element/accordion.php:76 options/builder-array.php:784
+msgid "Style 6"
+msgstr ""
+
+#: element/accordion.php:77 options/builder-array.php:785
+msgid "Style 7"
+msgstr ""
+
+#: element/accordion.php:78 options/builder-array.php:786
+msgid "Style 8"
+msgstr ""
+
+#: element/accordion.php:84 element/button.php:195 element/icon_text.php:187
+#: element/icon_text_3.php:178 element/multi_icon_text.php:259
+#: element/multi_icon_text_3.php:244 element/notification_box.php:138
+msgid "Icon Alignment"
+msgstr ""
+
+#: element/accordion.php:94
+msgid "Space Between Accordion"
+msgstr ""
+
+#: element/accordion.php:101 element/accordion.php:144
+#: element/accordion.php:175 element/accordion.php:342
+#: element/accordion.php:415 element/accordion.php:455 element/button.php:315
+#: element/count_to.php:69 element/count_to.php:94 element/count_to.php:227
+#: element/count_to.php:261 element/count_to.php:290 element/divider.php:29
+#: element/divider_vertical.php:29 element/icon.php:253
+#: element/icon_text.php:74 element/icon_text.php:99 element/icon_text.php:121
+#: element/icon_text.php:259 element/icon_text_2.php:71
+#: element/icon_text_2.php:96 element/icon_text_2.php:120
+#: element/icon_text_2.php:229 element/icon_text_3.php:70
+#: element/icon_text_3.php:95 element/icon_text_3.php:117
+#: element/icon_text_3.php:246 element/image.php:136 element/image.php:158
+#: element/image.php:209 element/image.php:255 element/image_gallery.php:153
+#: element/image_gallery.php:185 element/image_gallery_carousel.php:101
+#: element/image_gallery_slider.php:149 element/image_text.php:123
+#: element/image_text.php:146 element/image_text.php:169
+#: element/image_text_2.php:132 element/image_text_2.php:155
+#: element/image_text_2.php:178 element/image_text_2.php:244
+#: element/image_text_2.php:266 element/multi_icon_text.php:115
+#: element/multi_icon_text.php:141 element/multi_icon_text.php:166
+#: element/multi_icon_text.php:188 element/multi_icon_text.php:331
+#: element/multi_icon_text_2.php:108 element/multi_icon_text_2.php:131
+#: element/multi_icon_text_2.php:156 element/multi_icon_text_2.php:180
+#: element/multi_icon_text_2.php:299 element/multi_icon_text_3.php:109
+#: element/multi_icon_text_3.php:131 element/multi_icon_text_3.php:156
+#: element/multi_icon_text_3.php:178 element/multi_icon_text_3.php:312
+#: element/multi_image_text.php:172 element/multi_image_text.php:195
+#: element/multi_image_text.php:218 element/multi_image_text.php:241
+#: element/multi_image_text_2.php:172 element/multi_image_text_2.php:207
+#: element/multi_image_text_2.php:230 element/multi_image_text_2.php:253
+#: element/multi_image_text_2.php:327 element/multi_image_text_2.php:349
+#: element/notification_box.php:42 element/notification_box.php:311
+#: element/pie_chart.php:67 element/pie_chart.php:92 element/pie_chart.php:310
+#: element/progress_bar.php:132 element/progress_bar.php:306
+#: element/progress_bar.php:386 element/space.php:31 element/tabs.php:84
+#: element/tabs.php:115 element/tabs.php:217 element/tabs.php:256
+#: element/tabs.php:299 element/text.php:120 element/text_list.php:113
+#: element/text_list.php:136 element/text_list.php:224
+#: element/text_list.php:252 element/text_list.php:290
+#: options/builder-array.php:662 options/builder-array.php:684
+#: options/builder-array.php:996 options/builder-array.php:1076
+#: options/builder-array.php:1086 element/mini/button_typography.php:24
+#: element/mini/details.php:61 element/mini/details_typography.php:23
+#: element/mini/details_typography.php:66 element/mini/multi_boxed_item.php:129
+#: element/mini/percent_typography.php:20 element/mini/text_typography.php:28
+#: element/mini/text_typography.php:70 element/mini/title_typography.php:28
+#: element/mini/title_typography.php:70
+msgid "Size"
+msgstr ""
+
+#: element/accordion.php:107 element/accordion.php:149
+#: element/accordion.php:181 element/accordion.php:348
+#: element/accordion.php:421 element/accordion.php:461 element/button.php:235
+#: element/button.php:321 element/count_to.php:75 element/count_to.php:100
+#: element/count_to.php:267 element/count_to.php:296 element/icon.php:259
+#: element/icon_text.php:80 element/icon_text.php:105 element/icon_text.php:127
+#: element/icon_text.php:265 element/icon_text_2.php:77
+#: element/icon_text_2.php:102 element/icon_text_2.php:126
+#: element/icon_text_2.php:235 element/icon_text_3.php:76
+#: element/icon_text_3.php:101 element/icon_text_3.php:123
+#: element/icon_text_3.php:252 element/image.php:142 element/image.php:164
+#: element/image.php:215 element/image.php:261 element/image_gallery.php:159
+#: element/image_gallery.php:191 element/image_text.php:129
+#: element/image_text.php:152 element/image_text.php:175
+#: element/image_text_2.php:138 element/image_text_2.php:161
+#: element/image_text_2.php:184 element/image_text_2.php:250
+#: element/image_text_2.php:272 element/multi_icon_text.php:121
+#: element/multi_icon_text.php:147 element/multi_icon_text.php:172
+#: element/multi_icon_text.php:194 element/multi_icon_text.php:337
+#: element/multi_icon_text_2.php:114 element/multi_icon_text_2.php:137
+#: element/multi_icon_text_2.php:162 element/multi_icon_text_2.php:186
+#: element/multi_icon_text_2.php:305 element/multi_icon_text_3.php:115
+#: element/multi_icon_text_3.php:137 element/multi_icon_text_3.php:162
+#: element/multi_icon_text_3.php:184 element/multi_icon_text_3.php:318
+#: element/multi_image_text.php:178 element/multi_image_text.php:201
+#: element/multi_image_text.php:224 element/multi_image_text.php:247
+#: element/multi_image_text_2.php:178 element/multi_image_text_2.php:213
+#: element/multi_image_text_2.php:236 element/multi_image_text_2.php:259
+#: element/multi_image_text_2.php:333 element/multi_image_text_2.php:355
+#: element/notification_box.php:48 element/notification_box.php:317
+#: element/pie_chart.php:73 element/pie_chart.php:98 element/pie_chart.php:316
+#: element/progress_bar.php:138 element/progress_bar.php:312
+#: element/progress_bar.php:392 element/space.php:36 element/tabs.php:89
+#: element/tabs.php:121 element/tabs.php:223 element/tabs.php:262
+#: element/tabs.php:305 element/text.php:126 element/text_list.php:119
+#: element/text_list.php:142 element/text_list.php:230
+#: element/text_list.php:258 element/text_list.php:296
+#: options/builder-array.php:622 options/builder-array.php:651
+#: options/builder-array.php:911 options/builder-array.php:948
+#: options/builder-array.php:985 options/builder-array.php:1001
+#: options/builder-options-column.php:250
+#: options/builder-options-section.php:79
+#: options/builder-options-section.php:303
+#: element/mini/button_typography.php:30 element/mini/details_typography.php:29
+#: element/mini/details_typography.php:72
+#: element/mini/percent_typography.php:26 element/mini/text_typography.php:34
+#: element/mini/text_typography.php:76 element/mini/title_typography.php:34
+#: element/mini/title_typography.php:76
+msgid "Unit"
+msgstr ""
+
+#: element/accordion.php:119 element/button.php:245 element/count_to.php:122
+#: element/divider.php:89 element/divider_vertical.php:84
+#: element/heading.php:64 element/icon.php:43 element/icon_text.php:137
+#: element/icon_text_2.php:146 element/icon_text_3.php:133
+#: element/image.php:112 element/image_gallery.php:99
+#: element/image_gallery_carousel.php:211 element/image_gallery_slider.php:315
+#: element/image_text.php:186 element/image_text_2.php:195
+#: element/multi_icon_text.php:204 element/multi_icon_text_2.php:206
+#: element/multi_icon_text_3.php:194 element/multi_image_text.php:258
+#: element/multi_image_text_2.php:270 element/notification_box.php:59
+#: element/pie_chart.php:121 element/progress_bar.php:147
+#: element/shortcodes.php:29 element/tabs.php:58 element/text.php:50
+#: element/text_block.php:26 element/text_list.php:153 element/video.php:85
+#: element/widgets.php:25 options/builder-options-column.php:25
+#: options/builder-options-section.php:88
+msgid "Padding"
+msgstr ""
+
+#: element/accordion.php:127 element/button.php:183 element/count_to.php:134
+#: element/divider.php:104 element/divider_vertical.php:94
+#: element/heading.php:74 element/icon.php:53 element/icon_text.php:149
+#: element/icon_text_2.php:157 element/icon_text_3.php:144
+#: element/image.php:122 element/image_gallery.php:112
+#: element/image_gallery_carousel.php:222 element/image_gallery_slider.php:326
+#: element/image_text.php:198 element/image_text_2.php:205
+#: element/multi_icon_text.php:215 element/multi_icon_text_2.php:218
+#: element/multi_icon_text_3.php:205 element/multi_image_text.php:268
+#: element/multi_image_text_2.php:282 element/notification_box.php:70
+#: element/pie_chart.php:132 element/progress_bar.php:159 element/tabs.php:68
+#: element/text.php:63 element/text_block.php:40 element/text_list.php:162
+#: element/video.php:96 options/builder-options-column.php:34
+msgid "CSS Animation"
+msgstr ""
+
+#: element/accordion.php:129 element/button.php:185 element/button.php:259
+#: element/count_to.php:136 element/divider.php:106
+#: element/divider_vertical.php:96 element/heading.php:76 element/icon.php:55
+#: element/icon_text.php:151 element/icon_text_2.php:159
+#: element/icon_text_3.php:146 element/image.php:124
+#: element/image_gallery.php:114 element/image_gallery_carousel.php:224
+#: element/image_gallery_slider.php:328 element/image_text.php:200
+#: element/image_text_2.php:207 element/multi_icon_text.php:217
+#: element/multi_icon_text_2.php:220 element/multi_icon_text_3.php:207
+#: element/multi_image_text.php:270 element/multi_image_text_2.php:284
+#: element/notification_box.php:72 element/pie_chart.php:134
+#: element/progress_bar.php:161 element/tabs.php:70 element/text.php:65
+#: element/text_block.php:42 element/text_list.php:164 element/video.php:98
+#: options/builder-options-column.php:36
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: element/accordion.php:136 element/button.php:128 element/tabs.php:78
+#: options/builder-options-column.php:300
+#: options/builder-options-column.php:302
+#: options/builder-options-column.php:311
+#: options/builder-options-column.php:321
+#: options/builder-options-section.php:405
+#: options/builder-options-section.php:407
+#: options/builder-options-section.php:416
+#: options/builder-options-section.php:426
+msgid "Border"
+msgstr ""
+
+#: element/accordion.php:140 element/accordion.php:171
+#: element/accordion.php:197 element/accordion.php:220
+#: element/accordion.php:254 element/accordion.php:277
+#: element/accordion.php:284 element/accordion.php:307 element/html.php:32
+#: element/html.php:40 element/tabs.php:80 element/tabs.php:111
+#: element/tabs.php:134 element/tabs.php:159 element/tabs.php:185
+#: element/text_block.php:145 element/widgets.php:43 element/widgets.php:53
+msgid "Design"
+msgstr ""
+
+#: element/accordion.php:155 element/count_to.php:232 element/divider.php:34
+#: element/divider_vertical.php:34 element/progress_bar.php:39
+#: element/tabs.php:95 options/builder-array.php:668
+#: options/builder-array.php:701 options/builder-array.php:735
+#: options/builder-array.php:1115 element/mini/details.php:66
+#: element/mini/multi_boxed_item.php:134
+msgid "Style"
+msgstr ""
+
+#: element/accordion.php:169 element/button.php:280 element/icon.php:158
+#: element/notification_box.php:126 element/tabs.php:109
+#: element/text_block.php:125 options/builder-options-column.php:319
+#: options/builder-options-section.php:424 element/mini/boxed.php:58
+#: element/mini/multi_boxed_item.php:59
+msgid "Border Radius"
+msgstr ""
+
+#: element/accordion.php:195 element/tabs.php:132
+msgid "Heading Color"
+msgstr ""
+
+#: element/accordion.php:202 element/accordion.php:231
+#: element/accordion.php:258 element/accordion.php:288
+#: element/accordion.php:311 element/image_gallery_carousel.php:127
+#: element/image_gallery_slider.php:175 element/tabs.php:143
+#: element/tabs.php:168 element/tabs.php:194
+#: options/builder-options-column.php:49 options/builder-options-column.php:68
+#: options/builder-options-column.php:102
+#: options/builder-options-column.php:149
+#: options/builder-options-column.php:157
+#: options/builder-options-column.php:181
+#: options/builder-options-column.php:262
+#: options/builder-options-column.php:277
+#: options/builder-options-column.php:289
+#: options/builder-options-section.php:102
+#: options/builder-options-section.php:121
+#: options/builder-options-section.php:155
+#: options/builder-options-section.php:202
+#: options/builder-options-section.php:210
+#: options/builder-options-section.php:234
+#: options/builder-options-section.php:315
+#: options/builder-options-section.php:330
+#: options/builder-options-section.php:342
+#: options/builder-options-section.php:363
+#: options/builder-options-section.php:371
+#: options/builder-options-section.php:385
+#: options/builder-options-section.php:393
+msgid "Background"
+msgstr ""
+
+#: element/accordion.php:207 element/accordion.php:264
+#: element/accordion.php:294 element/button.php:66 element/heading.php:20
+#: element/tabs.php:148 element/tabs.php:173 element/tabs.php:199
+#: element/text.php:7 element/text_list.php:45 element/text_list.php:186
+#: element/text_list.php:196 element/text_list.php:204
+#: element/text_list.php:213
+msgid "Text"
+msgstr ""
+
+#: element/accordion.php:218 element/button.php:113 element/button.php:161
+#: element/icon.php:120 element/notification_box.php:210
+#: element/text_list.php:69 element/mini/icon.php:61
+msgid "Icon Color"
+msgstr ""
+
+#: element/accordion.php:236 element/accordion.php:317 element/button.php:77
+#: element/count_to.php:19 element/count_to.php:247 element/icon.php:6
+#: element/icon.php:21 element/icon.php:65 element/icon.php:81
+#: element/icon.php:113 element/icon.php:122 element/icon.php:139
+#: element/icon.php:153 element/icon.php:164 element/icon.php:173
+#: element/icon.php:179 element/icon.php:188 element/icon.php:199
+#: element/icon.php:215 element/icon.php:229 element/icon.php:236
+#: element/icon_text.php:19 element/icon_text.php:189 element/icon_text.php:198
+#: element/icon_text.php:245 element/icon_text_2.php:19
+#: element/icon_text_2.php:215 element/icon_text_3.php:17
+#: element/icon_text_3.php:180 element/icon_text_3.php:189
+#: element/icon_text_3.php:232 element/multi_icon_text.php:261
+#: element/multi_icon_text.php:270 element/multi_icon_text.php:317
+#: element/multi_icon_text_2.php:285 element/multi_icon_text_3.php:246
+#: element/multi_icon_text_3.php:255 element/multi_icon_text_3.php:298
+#: element/notification_box.php:21 element/notification_box.php:140
+#: element/notification_box.php:149 element/notification_box.php:158
+#: element/notification_box.php:174 element/notification_box.php:205
+#: element/notification_box.php:212 element/notification_box.php:228
+#: element/notification_box.php:242 element/notification_box.php:253
+#: element/notification_box.php:262 element/notification_box.php:297
+#: element/text_list.php:174 element/mini/icon.php:9 element/mini/icon.php:25
+#: element/mini/icon.php:56 element/mini/icon.php:63 element/mini/icon.php:79
+#: element/mini/icon.php:93 element/mini/icon.php:104 element/mini/icon.php:113
+#: element/mini/icon.php:119 element/mini/icon.php:133
+#: element/mini/icon.php:140 element/mini/icon.php:156
+#: element/mini/icon.php:170 element/mini/icon.php:177
+msgid "Icon"
+msgstr ""
+
+#: element/accordion.php:252 element/notification_box.php:290
+#: element/tabs.php:183
+msgid "Content Color"
+msgstr ""
+
+#: element/accordion.php:275 element/image_gallery_slider.php:103
+msgid "Active Color"
+msgstr ""
+
+#: element/accordion.php:282 element/tabs.php:157
+msgid "Active Heading Color"
+msgstr ""
+
+#: element/accordion.php:305
+msgid "Active icon Color"
+msgstr ""
+
+#: element/accordion.php:330 element/accordion.php:337
+#: element/accordion.php:360 element/accordion.php:374
+#: element/accordion.php:388 element/accordion.php:404
+#: element/accordion.php:410 element/accordion.php:436
+#: element/accordion.php:451 element/accordion.php:473 element/button.php:296
+#: element/button.php:306 element/button.php:333 element/button.php:353
+#: element/button.php:367 element/count_to.php:249 element/count_to.php:257
+#: element/count_to.php:278 element/count_to.php:285 element/count_to.php:309
+#: element/count_to.php:325 element/icon.php:244 element/icon_text.php:247
+#: element/icon_text.php:255 element/icon_text_2.php:217
+#: element/icon_text_2.php:225 element/icon_text_3.php:234
+#: element/icon_text_3.php:242 element/image.php:193 element/image.php:204
+#: element/image.php:231 element/image.php:251 element/image.php:276
+#: element/image.php:293 element/multi_icon_text.php:319
+#: element/multi_icon_text.php:327 element/multi_icon_text_2.php:287
+#: element/multi_icon_text_2.php:295 element/multi_icon_text_3.php:300
+#: element/multi_icon_text_3.php:308 element/notification_box.php:299
+#: element/notification_box.php:307 element/pie_chart.php:298
+#: element/pie_chart.php:305 element/pie_chart.php:329
+#: element/pie_chart.php:345 element/progress_bar.php:286
+#: element/progress_bar.php:292 element/progress_bar.php:301
+#: element/progress_bar.php:325 element/progress_bar.php:342
+#: element/progress_bar.php:356 element/progress_bar.php:374
+#: element/progress_bar.php:381 element/progress_bar.php:405
+#: element/progress_bar.php:422 element/tabs.php:213 element/tabs.php:236
+#: element/tabs.php:252 element/tabs.php:275 element/tabs.php:293
+#: element/text_list.php:220 element/text_list.php:244
+#: element/text_list.php:270 element/text_list.php:286
+#: element/text_list.php:308 element/text_list.php:322
+#: options/builder-array.php:1117 element/mini/button_typography.php:9
+#: element/mini/button_typography.php:18 element/mini/button_typography.php:42
+#: element/mini/button_typography.php:60 element/mini/button_typography.php:74
+#: element/mini/button_typography.php:88 element/mini/details_typography.php:9
+#: element/mini/details_typography.php:18
+#: element/mini/details_typography.php:42
+#: element/mini/details_typography.php:62
+#: element/mini/details_typography.php:83
+#: element/mini/details_typography.php:98 element/mini/percent_typography.php:6
+#: element/mini/percent_typography.php:15
+#: element/mini/percent_typography.php:39
+#: element/mini/percent_typography.php:58
+#: element/mini/percent_typography.php:72
+#: element/mini/percent_typography.php:86 element/mini/text_typography.php:6
+#: element/mini/text_typography.php:15 element/mini/text_typography.php:23
+#: element/mini/text_typography.php:47 element/mini/text_typography.php:66
+#: element/mini/text_typography.php:88 element/mini/text_typography.php:102
+#: element/mini/text_typography.php:116 element/mini/title_typography.php:6
+#: element/mini/title_typography.php:15 element/mini/title_typography.php:23
+#: element/mini/title_typography.php:47 element/mini/title_typography.php:66
+#: element/mini/title_typography.php:88 element/mini/title_typography.php:102
+#: element/mini/title_typography.php:116
+msgid "Typography"
+msgstr ""
+
+#: element/accordion.php:335 element/progress_bar.php:299 element/tabs.php:211
+#: element/mini/title_typography.php:21
+msgid "Title Font Size"
+msgstr ""
+
+#: element/accordion.php:358 element/progress_bar.php:323 element/tabs.php:234
+#: element/mini/title_typography.php:45
+msgid "Title Font Weight"
+msgstr ""
+
+#: element/accordion.php:363 element/accordion.php:439 element/icon.php:93
+#: element/image_gallery_carousel.php:84 element/image_gallery_carousel.php:95
+#: element/image_gallery_carousel.php:105 element/image_gallery_slider.php:132
+#: element/image_gallery_slider.php:143 element/image_gallery_slider.php:153
+#: element/image_text.php:236 element/multi_image_text.php:314
+#: element/notification_box.php:186 element/pie_chart.php:187
+#: element/tabs.php:239 element/text_list.php:274 options/builder-array.php:211
+#: options/builder-array.php:260 options/builder-array.php:273
+#: options/builder-array.php:310 options/builder-array.php:326
+#: options/builder-array.php:337 options/builder-array.php:356
+#: options/builder-array.php:362 options/builder-array.php:390
+#: options/builder-array.php:420 options/builder-array.php:559
+#: options/builder-array.php:812 options/builder-array.php:1051
+#: options/builder-array.php:1137 options/builder-options-column.php:160
+#: options/builder-options-column.php:265
+#: options/builder-options-column.php:292
+#: options/builder-options-section.php:213
+#: options/builder-options-section.php:318
+#: options/builder-options-section.php:345
+#: element/mini/button_typography.php:46 element/mini/details_typography.php:46
+#: element/mini/icon.php:13 element/mini/icon.php:37
+#: element/mini/text_typography.php:51
+msgid "Default"
+msgstr ""
+
+#: element/accordion.php:364 element/accordion.php:440 element/button.php:337
+#: element/count_to.php:313 element/image.php:235 element/pie_chart.php:333
+#: element/progress_bar.php:329 element/progress_bar.php:409
+#: element/tabs.php:240 element/tabs.php:280 element/text_list.php:275
+#: options/builder-array.php:248 options/builder-array.php:1052
+#: element/mini/button_typography.php:47 element/mini/details_typography.php:47
+#: element/mini/image.php:116 element/mini/percent_typography.php:43
+#: element/mini/text_typography.php:52 element/mini/title_typography.php:52
+msgid "Light"
+msgstr ""
+
+#: element/accordion.php:365 element/accordion.php:393
+#: element/accordion.php:441 element/accordion.php:478 element/button.php:338
+#: element/button.php:372 element/count_to.php:314 element/count_to.php:330
+#: element/image.php:236 element/image.php:298 element/pie_chart.php:334
+#: element/pie_chart.php:350 element/progress_bar.php:330
+#: element/progress_bar.php:361 element/progress_bar.php:410
+#: element/progress_bar.php:427 element/tabs.php:241 element/tabs.php:281
+#: element/text_list.php:276 element/text_list.php:327
+#: options/builder-array.php:357 options/builder-array.php:363
+#: options/builder-array.php:1053 element/mini/button_typography.php:48
+#: element/mini/button_typography.php:79 element/mini/details_typography.php:48
+#: element/mini/details_typography.php:88
+#: element/mini/percent_typography.php:44 element/mini/text_typography.php:53
+#: element/mini/title_typography.php:53 element/mini/title_typography.php:107
+msgid "Normal"
+msgstr ""
+
+#: element/accordion.php:366 element/accordion.php:443 element/button.php:340
+#: element/count_to.php:315 element/image.php:237 element/pie_chart.php:335
+#: element/progress_bar.php:332 element/progress_bar.php:412
+#: element/tabs.php:242 element/tabs.php:283 element/text_list.php:278
+#: options/builder-array.php:358 options/builder-array.php:1054
+#: element/mini/button_typography.php:50 element/mini/details_typography.php:50
+#: element/mini/percent_typography.php:46 element/mini/text_typography.php:55
+#: element/mini/title_typography.php:55
+msgid "Bold"
+msgstr ""
+
+#: element/accordion.php:367 element/accordion.php:444 element/button.php:341
+#: element/count_to.php:316 element/image.php:238 element/pie_chart.php:336
+#: element/progress_bar.php:333 element/progress_bar.php:413
+#: element/tabs.php:243 element/tabs.php:284 element/text_list.php:279
+#: options/builder-array.php:1055 element/mini/button_typography.php:51
+#: element/mini/details_typography.php:51
+#: element/mini/percent_typography.php:47 element/mini/text_typography.php:56
+#: element/mini/title_typography.php:56
+msgid "Extra-Bold"
+msgstr ""
+
+#: element/accordion.php:372 element/progress_bar.php:340
+#: element/mini/title_typography.php:86
+msgid "Title Text Transform"
+msgstr ""
+
+#: element/accordion.php:378 element/accordion.php:392
+#: element/accordion.php:477 element/button.php:357 element/button.php:371
+#: element/count_to.php:153 element/count_to.php:329 element/heading.php:92
+#: element/icon.php:69 element/icon_text.php:168 element/icon_text_2.php:176
+#: element/icon_text_3.php:163 element/image.php:51 element/image.php:79
+#: element/image.php:280 element/image.php:297 element/image_gallery.php:34
+#: element/image_gallery.php:55 element/image_gallery_carousel.php:35
+#: element/image_gallery_carousel.php:55 element/image_gallery_slider.php:34
+#: element/image_gallery_slider.php:54 element/image_text.php:55
+#: element/image_text.php:108 element/image_text.php:216
+#: element/image_text_2.php:54 element/image_text_2.php:106
+#: element/image_text_2.php:223 element/multi_icon_text.php:234
+#: element/multi_icon_text_2.php:237 element/multi_icon_text_3.php:224
+#: element/multi_image_text.php:116 element/multi_image_text.php:140
+#: element/multi_image_text.php:289 element/multi_image_text_2.php:114
+#: element/multi_image_text_2.php:139 element/multi_image_text_2.php:300
+#: element/notification_box.php:162 element/pie_chart.php:151
+#: element/pie_chart.php:349 element/progress_bar.php:346
+#: element/progress_bar.php:360 element/progress_bar.php:426
+#: element/text.php:84 element/text_block.php:58 element/text_list.php:312
+#: element/text_list.php:326 options/builder-array.php:247
+#: options/builder-array.php:381 options/builder-array.php:466
+#: options/builder-array.php:1064 options/builder-options-column.php:53
+#: options/builder-options-section.php:106 options/sao_googlefonts.php:6
+#: options/sao_googlefonts.php:21 element/mini/button_typography.php:64
+#: element/mini/button_typography.php:78 element/mini/details_typography.php:87
+#: element/mini/image.php:61 element/mini/percent_typography.php:62
+#: element/mini/text_typography.php:92 element/mini/title_typography.php:92
+#: element/mini/title_typography.php:106
+msgid "None"
+msgstr ""
+
+#: element/accordion.php:379 element/button.php:358 element/image.php:281
+#: element/progress_bar.php:347 element/text_list.php:313
+#: options/builder-array.php:1065 element/mini/button_typography.php:65
+#: element/mini/percent_typography.php:63 element/mini/text_typography.php:93
+#: element/mini/title_typography.php:93
+msgid "Uppercase"
+msgstr ""
+
+#: element/accordion.php:380 element/button.php:359 element/image.php:282
+#: element/progress_bar.php:348 element/text_list.php:314
+#: options/builder-array.php:1066 element/mini/button_typography.php:66
+#: element/mini/percent_typography.php:64 element/mini/text_typography.php:94
+#: element/mini/title_typography.php:94
+msgid "Lowercase"
+msgstr ""
+
+#: element/accordion.php:381 element/button.php:360 element/image.php:283
+#: element/progress_bar.php:349 element/text_list.php:315
+#: options/builder-array.php:1067 element/mini/button_typography.php:67
+#: element/mini/percent_typography.php:65 element/mini/text_typography.php:95
+#: element/mini/title_typography.php:95
+msgid "Capitalize"
+msgstr ""
+
+#: element/accordion.php:386 element/progress_bar.php:354
+#: element/mini/title_typography.php:100
+msgid "Title Font Style"
+msgstr ""
+
+#: element/accordion.php:394 element/accordion.php:479 element/button.php:373
+#: element/count_to.php:331 element/image.php:299 element/pie_chart.php:351
+#: element/progress_bar.php:362 element/progress_bar.php:428
+#: element/text_list.php:328 element/mini/button_typography.php:80
+#: element/mini/details_typography.php:89 element/mini/title_typography.php:108
+msgid "italic"
+msgstr ""
+
+#: element/accordion.php:395 element/accordion.php:480 element/button.php:374
+#: element/count_to.php:332 element/image.php:300 element/pie_chart.php:352
+#: element/progress_bar.php:363 element/progress_bar.php:429
+#: element/text_list.php:329 element/mini/button_typography.php:81
+#: element/mini/details_typography.php:90 element/mini/title_typography.php:109
+msgid "oblique"
+msgstr ""
+
+#: element/accordion.php:408 element/tabs.php:250
+msgid "Content Font Size"
+msgstr ""
+
+#: element/accordion.php:434 element/tabs.php:273
+msgid "Content Font Weight"
+msgstr ""
+
+#: element/accordion.php:442 element/button.php:339
+#: element/image_gallery_carousel.php:107 element/image_gallery_slider.php:155
+#: element/progress_bar.php:331 element/progress_bar.php:411
+#: element/tabs.php:282 element/text_list.php:277 options/builder-array.php:123
+#: options/builder-array.php:141 options/builder-array.php:516
+#: element/mini/button_typography.php:49 element/mini/details_typography.php:49
+#: element/mini/percent_typography.php:45 element/mini/text_typography.php:54
+#: element/mini/title_typography.php:54
+msgid "Medium"
+msgstr ""
+
+#: element/accordion.php:449
+msgid "Content Line Height"
+msgstr ""
+
+#: element/accordion.php:471
+msgid "Content Font Style"
+msgstr ""
+
+#: element/accordion.php:485 element/button.php:379 element/count_to.php:341
+#: element/divider.php:114 element/divider_vertical.php:104
+#: element/heading.php:136 element/icon.php:269 element/icon_text.php:279
+#: element/icon_text_2.php:248 element/icon_text_3.php:265
+#: element/image.php:306 element/image_gallery.php:221
+#: element/image_gallery_carousel.php:280 element/image_gallery_slider.php:401
+#: element/image_text.php:326 element/image_text_2.php:310
+#: element/multi_icon_text.php:351 element/multi_icon_text_2.php:318
+#: element/multi_icon_text_3.php:331 element/multi_image_text.php:404
+#: element/multi_image_text_2.php:393 element/notification_box.php:328
+#: element/pie_chart.php:364 element/progress_bar.php:436 element/text.php:145
+#: element/text_block.php:156 element/text_list.php:335 element/video.php:106
+msgid "Element ID"
+msgstr ""
+
+#: element/accordion.php:487 element/accordion.php:496 element/button.php:381
+#: element/button.php:390 element/count_to.php:343 element/count_to.php:352
+#: element/divider.php:116 element/divider.php:125
+#: element/divider_vertical.php:106 element/divider_vertical.php:115
+#: element/heading.php:138 element/heading.php:147 element/icon.php:271
+#: element/icon.php:280 element/icon_text.php:281 element/icon_text.php:290
+#: element/icon_text_2.php:250 element/icon_text_2.php:259
+#: element/icon_text_3.php:267 element/icon_text_3.php:276
+#: element/image.php:308 element/image.php:317 element/image_gallery.php:223
+#: element/image_gallery.php:232 element/image_gallery_carousel.php:282
+#: element/image_gallery_carousel.php:291 element/image_gallery_slider.php:403
+#: element/image_gallery_slider.php:412 element/image_text.php:328
+#: element/image_text.php:337 element/image_text_2.php:312
+#: element/image_text_2.php:321 element/multi_icon_text.php:353
+#: element/multi_icon_text.php:362 element/multi_icon_text_2.php:320
+#: element/multi_icon_text_2.php:329 element/multi_icon_text_3.php:333
+#: element/multi_icon_text_3.php:342 element/multi_image_text.php:406
+#: element/multi_image_text.php:415 element/multi_image_text_2.php:395
+#: element/multi_image_text_2.php:404 element/notification_box.php:330
+#: element/notification_box.php:339 element/pie_chart.php:366
+#: element/pie_chart.php:375 element/progress_bar.php:438
+#: element/progress_bar.php:447 element/text.php:147 element/text.php:156
+#: element/text_block.php:158 element/text_block.php:167
+#: element/text_list.php:337 element/text_list.php:346 element/video.php:108
+#: element/video.php:117 options/builder-options-column.php:376
+#: options/builder-options-column.php:385
+#: options/builder-options-section.php:436
+#: options/builder-options-section.php:445
+msgid "Attribute"
+msgstr ""
+
+#: element/accordion.php:488 element/button.php:382 element/count_to.php:344
+#: element/divider.php:117 element/divider_vertical.php:107
+#: element/heading.php:139 element/icon.php:272 element/icon_text.php:282
+#: element/icon_text_2.php:251 element/icon_text_3.php:268
+#: element/image.php:309 element/image_gallery.php:224
+#: element/image_gallery_carousel.php:283 element/image_gallery_slider.php:404
+#: element/image_text.php:329 element/image_text_2.php:313
+#: element/multi_icon_text.php:354 element/multi_icon_text_2.php:321
+#: element/multi_icon_text_3.php:334 element/multi_image_text.php:407
+#: element/multi_image_text_2.php:396 element/notification_box.php:331
+#: element/pie_chart.php:367 element/progress_bar.php:439 element/text.php:148
+#: element/text_block.php:159 element/text_list.php:338 element/video.php:109
+#: options/builder-options-column.php:377
+msgid "Enter Column ID ,"
+msgstr ""
+
+#: element/accordion.php:488 element/button.php:382 element/count_to.php:344
+#: element/divider.php:117 element/divider_vertical.php:107
+#: element/heading.php:139 element/icon.php:272 element/icon_text.php:282
+#: element/icon_text_2.php:251 element/icon_text_3.php:268
+#: element/image.php:309 element/image_gallery.php:224
+#: element/image_gallery_carousel.php:283 element/image_gallery_slider.php:404
+#: element/image_text.php:329 element/image_text_2.php:313
+#: element/multi_icon_text.php:354 element/multi_icon_text_2.php:321
+#: element/multi_icon_text_3.php:334 element/multi_image_text.php:407
+#: element/multi_image_text_2.php:396 element/notification_box.php:331
+#: element/pie_chart.php:367 element/progress_bar.php:439 element/text.php:148
+#: element/text_block.php:159 element/text_list.php:338 element/video.php:109
+#: options/builder-options-column.php:377
+#: options/builder-options-section.php:437
+msgid "Learn more"
+msgstr ""
+
+#: element/accordion.php:494 element/button.php:388 element/count_to.php:350
+#: element/divider.php:123 element/divider_vertical.php:113
+#: element/heading.php:145 element/icon.php:278 element/icon_text.php:288
+#: element/icon_text_2.php:257 element/icon_text_3.php:274
+#: element/image.php:315 element/image_gallery.php:230
+#: element/image_gallery_carousel.php:289 element/image_gallery_slider.php:410
+#: element/image_text.php:335 element/image_text_2.php:319
+#: element/multi_icon_text.php:360 element/multi_icon_text_2.php:327
+#: element/multi_icon_text_3.php:340 element/multi_image_text.php:413
+#: element/multi_image_text_2.php:402 element/notification_box.php:337
+#: element/pie_chart.php:373 element/progress_bar.php:445 element/text.php:154
+#: element/text_block.php:165 element/text_list.php:344 element/video.php:115
+msgid "Element Custom Class"
+msgstr ""
+
+#: element/accordion.php:497 element/button.php:391 element/count_to.php:353
+#: element/divider.php:126 element/divider_vertical.php:116
+#: element/heading.php:148 element/icon.php:281 element/icon_text.php:291
+#: element/icon_text_2.php:260 element/icon_text_3.php:277
+#: element/image.php:318 element/image_gallery.php:233
+#: element/image_gallery_carousel.php:292 element/image_gallery_slider.php:413
+#: element/image_text.php:338 element/image_text_2.php:322
+#: element/multi_icon_text.php:363 element/multi_icon_text_2.php:330
+#: element/multi_icon_text_3.php:343 element/multi_image_text.php:416
+#: element/multi_image_text_2.php:405 element/notification_box.php:340
+#: element/pie_chart.php:376 element/progress_bar.php:448 element/text.php:157
+#: element/text_block.php:168 element/text_list.php:347 element/video.php:118
+#: options/builder-options-column.php:386
+#: options/builder-options-section.php:446
+msgid "Enter Class ,"
+msgstr ""
+
+#: element/button.php:6 element/button.php:59 element/button.php:268
+#: element/button.php:282 element/mini/button.php:18 element/mini/button.php:28
+#: element/mini/button.php:42 element/mini/button.php:50
+#: element/mini/button.php:60 element/mini/button.php:69
+#: element/mini/button.php:77 element/mini/button.php:90
+#: element/mini/button.php:97 element/mini/button.php:106
+#: element/mini/button.php:115 element/mini/button.php:123
+#: element/mini/button.php:132 element/mini/button.php:138
+msgid "Button"
+msgstr ""
+
+#: element/button.php:20
+msgid "Button 1"
+msgstr ""
+
+#: element/button.php:37
+msgid "Button 2"
+msgstr ""
+
+#: element/button.php:61
+msgid "Add Button"
+msgstr ""
+
+#: element/button.php:71 element/heading.php:47 element/icon_text.php:48
+#: element/icon_text_2.php:48 element/icon_text_3.php:46 element/image.php:57
+#: element/image_text.php:84 element/image_text_2.php:83
+#: element/multi_icon_text.php:71 element/multi_icon_text_2.php:69
+#: element/multi_icon_text_3.php:69 element/multi_image_text.php:93
+#: element/multi_image_text_2.php:91 element/text.php:32
+#: element/text_list.php:57
+msgid "Link"
+msgstr ""
+
+#: element/button.php:84 element/heading.php:53 element/icon_text.php:55
+#: element/icon_text_2.php:55 element/icon_text_3.php:53 element/image.php:64
+#: element/image_gallery.php:40 element/image_gallery_carousel.php:41
+#: element/image_gallery_slider.php:40 element/image_text.php:92
+#: element/image_text_2.php:91 element/multi_icon_text.php:83
+#: element/multi_icon_text_2.php:80 element/multi_icon_text_3.php:80
+#: element/multi_image_text.php:124 element/multi_image_text_2.php:122
+#: element/text.php:39 element/text_list.php:63
+msgid "Open in new window"
+msgstr ""
+
+#: element/button.php:91 element/button.php:97 element/button.php:134
+#: element/mini/button.php:15
+msgid "Style Button"
+msgstr ""
+
+#: element/button.php:104 element/html.php:38 element/text_block.php:143
+#: element/text_list.php:202 element/widgets.php:51
+msgid "Text Color"
+msgstr ""
+
+#: element/button.php:109 element/button.php:157
+msgid "Main Text Color"
+msgstr ""
+
+#: element/button.php:122 options/builder-options-column.php:100
+#: options/builder-options-section.php:153
+msgid "Background Color"
+msgstr ""
+
+#: element/button.php:140 element/button.php:176
+msgid "Style Button in Hover"
+msgstr ""
+
+#: element/button.php:146 element/icon.php:185
+msgid "on Hover Effects"
+msgstr ""
+
+#: element/button.php:152 element/text_list.php:211
+msgid "Hover Text Color"
+msgstr ""
+
+#: element/button.php:170
+msgid "Hover Background Color"
+msgstr ""
+
+#: element/button.php:206 element/count_to.php:112 element/divider.php:79
+#: element/divider_vertical.php:74 element/icon.php:31
+#: element/icon_text_2.php:136 element/image.php:100
+#: element/image_gallery.php:85 element/image_text_2.php:114
+#: element/multi_icon_text_2.php:196 element/multi_image_text_2.php:189
+#: element/pie_chart.php:111 element/video.php:73
+msgid "Alignment"
+msgstr ""
+
+#: element/button.php:217
+msgid "Gutter"
+msgstr ""
+
+#: element/button.php:225 options/builder-options-section.php:47
+msgid "Amount of space between Column,Default \"0\" "
+msgstr ""
+
+#: element/button.php:229 options/builder-options-section.php:51
+msgid "Between"
+msgstr ""
+
+#: element/button.php:257
+msgid "All CSS Animation"
+msgstr ""
+
+#: element/button.php:266 element/mini/button.php:25
+msgid "Button Padding"
+msgstr ""
+
+#: element/button.php:294
+msgid "Font Family"
+msgstr ""
+
+#: element/button.php:304 options/builder-array.php:1042
+msgid "Font Size"
+msgstr ""
+
+#: element/button.php:331 options/builder-array.php:1047
+msgid "Font Weight"
+msgstr ""
+
+#: element/button.php:350 element/text_list.php:306
+#: element/mini/text_typography.php:86
+msgid "Text Transform"
+msgstr ""
+
+#: element/button.php:365
+msgid "Font Style"
+msgstr ""
+
+#: element/count_to.php:6
+msgid "Count To"
+msgstr ""
+
+#: element/count_to.php:28
+msgid "Number"
+msgstr ""
+
+#: element/count_to.php:29
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport"
+msgstr ""
+
+#: element/count_to.php:37
+msgid "End Number"
+msgstr ""
+
+#: element/count_to.php:38
+msgid "eample \"K\""
+msgstr ""
+
+#: element/count_to.php:48 element/heading.php:22 element/icon_text.php:26
+#: element/icon_text_2.php:26 element/icon_text_3.php:24
+#: element/image_text.php:61 element/image_text_2.php:60
+#: element/multi_icon_text.php:21 element/multi_icon_text.php:27
+#: element/multi_icon_text.php:32 element/multi_icon_text_2.php:19
+#: element/multi_icon_text_2.php:25 element/multi_icon_text_2.php:30
+#: element/multi_icon_text_3.php:19 element/multi_icon_text_3.php:25
+#: element/multi_icon_text_3.php:30 element/multi_image_text.php:22
+#: element/multi_image_text.php:27 element/multi_image_text.php:31
+#: element/multi_image_text_2.php:20 element/multi_image_text_2.php:25
+#: element/multi_image_text_2.php:29 element/pie_chart.php:37
+#: element/text.php:18
+msgid "Lorem ipsum dolor sit amet"
+msgstr ""
+
+#: element/count_to.php:54
+msgid "Duration Number"
+msgstr ""
+
+#: element/count_to.php:62 element/icon_text.php:64 element/icon_text_2.php:64
+#: element/multi_icon_text.php:131 element/multi_icon_text_2.php:124
+msgid "Space Between Icon And Details"
+msgstr ""
+
+#: element/count_to.php:87
+msgid "Space Between Number And Title"
+msgstr ""
+
+#: element/count_to.php:116 element/divider.php:83
+#: element/divider_vertical.php:78 element/heading.php:112 element/icon.php:35
+#: element/icon_text_2.php:140 element/image.php:104
+#: element/image_gallery.php:92 element/image_text_2.php:118
+#: element/multi_icon_text_2.php:200 element/multi_image_text_2.php:193
+#: element/pie_chart.php:115 element/text.php:105 element/video.php:77
+msgid "Default \"Center\""
+msgstr ""
+
+#: element/count_to.php:147 element/count_to.php:149 element/heading.php:86
+#: element/heading.php:88 element/icon_text.php:162 element/icon_text.php:164
+#: element/icon_text_2.php:170 element/icon_text_2.php:172
+#: element/icon_text_3.php:157 element/icon_text_3.php:159
+#: element/image_text.php:210 element/image_text.php:212
+#: element/image_text_2.php:217 element/image_text_2.php:219
+#: element/multi_icon_text.php:228 element/multi_icon_text.php:230
+#: element/multi_icon_text_2.php:231 element/multi_icon_text_2.php:233
+#: element/multi_icon_text_3.php:218 element/multi_icon_text_3.php:220
+#: element/multi_image_text.php:283 element/multi_image_text.php:285
+#: element/multi_image_text_2.php:294 element/multi_image_text_2.php:296
+#: element/notification_box.php:85 element/notification_box.php:99
+#: element/notification_box.php:110 element/notification_box.php:119
+#: element/notification_box.php:128 element/pie_chart.php:145
+#: element/pie_chart.php:147 element/text.php:78 element/text.php:80
+#: element/text_block.php:54 element/text_block.php:71
+#: element/text_block.php:85 element/text_block.php:94
+#: element/text_block.php:107 element/text_block.php:117
+#: element/text_block.php:127 element/text_block.php:138
+#: element/mini/boxed.php:7 element/mini/boxed.php:21 element/mini/boxed.php:30
+#: element/mini/boxed.php:42 element/mini/boxed.php:51
+#: element/mini/boxed.php:60 element/mini/boxed.php:70
+#: element/mini/boxed.php:78 element/mini/boxed.php:86
+#: element/mini/boxed.php:93 element/mini/boxed.php:102
+#: element/mini/boxed.php:109 element/mini/multi_boxed_item.php:7
+#: element/mini/multi_boxed_item.php:22 element/mini/multi_boxed_item.php:31
+#: element/mini/multi_boxed_item.php:43 element/mini/multi_boxed_item.php:52
+#: element/mini/multi_boxed_item.php:61 element/mini/multi_boxed_item.php:71
+#: element/mini/multi_boxed_item.php:81 element/mini/multi_boxed_item.php:89
+#: element/mini/multi_boxed_item.php:96 element/mini/multi_boxed_item.php:105
+#: element/mini/multi_boxed_item.php:112 element/mini/multi_boxed_item.php:121
+msgid "Box Layout"
+msgstr ""
+
+#: element/count_to.php:154 element/heading.php:93 element/icon_text.php:169
+#: element/icon_text_2.php:177 element/icon_text_3.php:164
+#: element/image_text.php:217 element/image_text_2.php:224
+#: element/pie_chart.php:152 element/text.php:85 element/text_block.php:59
+msgid "Boxed"
+msgstr ""
+
+#: element/count_to.php:155 element/icon_text.php:170
+#: element/icon_text_2.php:178 element/pie_chart.php:153
+msgid "Boxed 2"
+msgstr ""
+
+#: element/count_to.php:178
+msgid "Number Color"
+msgstr ""
+
+#: element/count_to.php:180 element/count_to.php:187 element/count_to.php:195
+#: element/heading.php:110 element/heading.php:121 element/heading.php:128
+#: element/icon_text.php:213 element/icon_text.php:223
+#: element/icon_text_3.php:203 element/icon_text_3.php:214
+#: element/image_text.php:302 element/image_text.php:312
+#: element/multi_icon_text.php:285 element/multi_icon_text.php:295
+#: element/multi_icon_text_3.php:269 element/multi_icon_text_3.php:280
+#: element/multi_image_text.php:380 element/multi_image_text.php:390
+#: element/progress_bar.php:270 element/progress_bar.php:276
+#: element/text.php:103 element/text.php:115 element/mini/details.php:5
+#: element/mini/details.php:13 element/mini/details.php:21
+#: element/mini/details.php:29 element/mini/details.php:83
+#: element/mini/details.php:90 element/mini/details.php:98
+msgid "Details"
+msgstr ""
+
+#: element/count_to.php:185 element/heading.php:119 element/progress_bar.php:72
+#: element/progress_bar.php:268 element/mini/details.php:11
+msgid "Title Color"
+msgstr ""
+
+#: element/count_to.php:193
+msgid "Number Line Bottom"
+msgstr ""
+
+#: element/count_to.php:199 element/divider.php:49 element/image.php:130
+#: element/image_gallery.php:142 element/mini/details.php:33
+msgid "Width"
+msgstr ""
+
+#: element/count_to.php:203 options/builder-array.php:403
+#: element/mini/details.php:37
+msgid "Hide"
+msgstr ""
+
+#: element/count_to.php:254 element/icon.php:242 element/icon_text.php:252
+#: element/icon_text_2.php:222 element/icon_text_3.php:239
+#: element/multi_icon_text.php:324 element/multi_icon_text_2.php:292
+#: element/multi_icon_text_3.php:305 element/notification_box.php:304
+#: element/text_list.php:218
+msgid "Icon Size"
+msgstr ""
+
+#: element/count_to.php:276
+msgid "Number Typography"
+msgstr ""
+
+#: element/count_to.php:283
+msgid "Number Font Size"
+msgstr ""
+
+#: element/count_to.php:307
+msgid "Number Font Weight"
+msgstr ""
+
+#: element/count_to.php:323
+msgid "Number Font Style"
+msgstr ""
+
+#: element/divider.php:6
+msgid "Divider / Line"
+msgstr ""
+
+#: element/divider.php:20 element/divider_vertical.php:21
+msgid "Divider"
+msgstr ""
+
+#: element/divider.php:91 element/divider_vertical.php:86
+#: options/builder-options-column.php:27 options/builder-options-section.php:91
+msgid "Padding around the entire row,Default \"0\""
+msgstr ""
+
+#: element/divider_vertical.php:6
+msgid "Vertical Divider / Line"
+msgstr ""
+
+#: element/divider_vertical.php:48 options/builder-array.php:759
+#: options/builder-options-column.php:127
+#: options/builder-options-section.php:180
+msgid "Orientation"
+msgstr ""
+
+#: element/divider_vertical.php:52 options/builder-array.php:763
+#: options/builder-options-column.php:134
+#: options/builder-options-section.php:187
+msgid "horizontal  →"
+msgstr ""
+
+#: element/divider_vertical.php:53 options/builder-array.php:764
+#: options/builder-options-column.php:135
+#: options/builder-options-section.php:188
+msgid "vertical  ↓"
+msgstr ""
+
+#: element/divider_vertical.php:54 options/builder-array.php:765
+#: options/builder-options-column.php:136
+#: options/builder-options-section.php:189
+msgid "diagonal  ↘"
+msgstr ""
+
+#: element/divider_vertical.php:55 options/builder-array.php:766
+#: options/builder-options-column.php:137
+#: options/builder-options-section.php:190
+msgid "diagonal  ↗"
+msgstr ""
+
+#: element/divider_vertical.php:56 options/builder-array.php:767
+#: options/builder-options-column.php:138
+#: options/builder-options-section.php:191
+msgid "radial  ○"
+msgstr ""
+
+#: element/divider_vertical.php:65 element/image.php:152
+#: element/image_gallery.php:172 element/image_gallery_slider.php:338
+#: element/progress_bar.php:171 element/space.php:23
+msgid "Height"
+msgstr ""
+
+#: element/heading.php:6
+msgid "Heading"
+msgstr ""
+
+#: element/heading.php:28
+msgid "Element tag"
+msgstr ""
+
+#: element/heading.php:108 element/icon_text.php:211
+#: element/icon_text_3.php:201 element/image_text.php:300
+#: element/multi_icon_text.php:283 element/multi_icon_text_3.php:267
+#: element/multi_image_text.php:378 element/text.php:101
+msgid "Details Alignment"
+msgstr ""
+
+#: element/heading.php:126 element/mini/details.php:88
+msgid "Hover Title Color"
+msgstr ""
+
+#: element/html.php:6
+msgid "Html"
+msgstr ""
+
+#: element/html.php:21
+msgid "Code"
+msgstr ""
+
+#: element/html.php:23
+msgid "input html Code"
+msgstr ""
+
+#: element/html.php:30 element/widgets.php:41
+msgid "link Color"
+msgstr ""
+
+#: element/icon.php:63 element/notification_box.php:156 element/mini/icon.php:7
+msgid "Icon Layout"
+msgstr ""
+
+#: element/icon.php:70 element/notification_box.php:163
+#: element/mini/icon.php:14
+msgid "Boxed Rounded"
+msgstr ""
+
+#: element/icon.php:71 element/notification_box.php:164
+#: element/mini/icon.php:15
+msgid "Boxed Square"
+msgstr ""
+
+#: element/icon.php:72 element/notification_box.php:165
+#: element/mini/icon.php:16
+msgid "Boxed Diamond"
+msgstr ""
+
+#: element/icon.php:73 element/notification_box.php:166
+#: element/mini/icon.php:17
+msgid "Boxed Hexagon"
+msgstr ""
+
+#: element/icon.php:79 element/notification_box.php:172
+#: element/mini/icon.php:23
+msgid "Icon Boxed Size"
+msgstr ""
+
+#: element/icon.php:111 element/icon.php:171 element/icon.php:234
+#: element/notification_box.php:203 element/notification_box.php:260
+#: element/mini/icon.php:54 element/mini/icon.php:111
+msgid "Icon Style"
+msgstr ""
+
+#: element/icon.php:129 element/notification_box.php:218
+#: element/mini/icon.php:69
+msgid "Icon Background"
+msgstr ""
+
+#: element/icon.php:132 element/icon.php:208 element/notification_box.php:221
+#: element/pie_chart.php:249 element/mini/icon.php:72 element/mini/icon.php:149
+msgid "You can see the background by changing the opacity color"
+msgstr ""
+
+#: element/icon.php:144 element/notification_box.php:233
+#: element/text_list.php:82 element/mini/icon.php:84
+msgid "Icon Border"
+msgstr ""
+
+#: element/icon.php:177
+msgid "Icon Hover Style"
+msgstr ""
+
+#: element/icon.php:196 element/mini/icon.php:138
+msgid "Hover Icon Color"
+msgstr ""
+
+#: element/icon.php:205 element/mini/icon.php:146
+msgid "Hover Icon Background "
+msgstr ""
+
+#: element/icon.php:220 element/mini/icon.php:161
+msgid "Hover Icon Border"
+msgstr ""
+
+#: element/icon_text.php:6
+msgid "Icon & Text"
+msgstr ""
+
+#: element/icon_text.php:32 element/icon_text_2.php:32
+#: element/icon_text_3.php:30 element/image_text.php:67
+#: element/image_text_2.php:66 element/multi_icon_text.php:59
+#: element/multi_icon_text_2.php:57 element/multi_icon_text_3.php:57
+#: element/multi_image_text.php:81 element/multi_image_text_2.php:79
+#: element/pie_chart.php:43 element/text.php:24
+msgid "The Details"
+msgstr ""
+
+#: element/icon_text.php:34 element/icon_text_2.php:34
+#: element/icon_text_3.php:32 element/image_text.php:69
+#: element/image_text_2.php:68 element/pie_chart.php:45 element/text.php:26
+msgid ""
+"sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim "
+"ad minim veniam, quis nostrud"
+msgstr ""
+
+#: element/icon_text.php:41 element/icon_text_2.php:41
+#: element/icon_text_3.php:39 element/image_text.php:76
+#: element/image_text_2.php:75 element/multi_icon_text.php:64
+#: element/multi_icon_text_2.php:62 element/multi_icon_text_3.php:62
+#: element/multi_image_text.php:86 element/multi_image_text_2.php:84
+msgid "Button Text"
+msgstr ""
+
+#: element/icon_text.php:43 element/icon_text_2.php:43
+#: element/icon_text_3.php:41 element/image_text.php:78
+#: element/image_text_2.php:77 element/multi_icon_text.php:66
+#: element/multi_icon_text_2.php:64 element/multi_icon_text_3.php:64
+#: element/multi_image_text.php:88 element/multi_image_text_2.php:86
+msgid "input text to show button"
+msgstr ""
+
+#: element/icon_text.php:92 element/icon_text_2.php:89
+#: element/icon_text_3.php:88 element/image_text.php:139
+#: element/image_text_2.php:148 element/multi_icon_text.php:159
+#: element/multi_icon_text_2.php:149 element/multi_icon_text_3.php:149
+#: element/multi_image_text.php:211 element/multi_image_text_2.php:223
+#: element/pie_chart.php:85 element/text.php:113
+msgid "Space Between Title And Details"
+msgstr ""
+
+#: element/icon_text.php:114 element/icon_text_2.php:113
+#: element/icon_text_3.php:110 element/image_text.php:162
+#: element/image_text_2.php:171 element/multi_icon_text.php:181
+#: element/multi_icon_text_2.php:173 element/multi_icon_text_3.php:171
+#: element/multi_image_text.php:234 element/multi_image_text_2.php:246
+msgid "Button Margin Top"
+msgstr ""
+
+#: element/icon_text.php:196 element/icon_text_3.php:187
+#: element/multi_icon_text.php:268 element/multi_icon_text_3.php:253
+#: element/notification_box.php:147 element/text_list.php:172
+msgid "Icon Vertical align in middle"
+msgstr ""
+
+#: element/icon_text.php:221 element/image_text.php:310
+#: element/multi_icon_text.php:293 element/multi_image_text.php:388
+msgid "Details Vertical align in middle"
+msgstr ""
+
+#: element/icon_text_2.php:7
+msgid "Icon & Text 2"
+msgstr ""
+
+#: element/icon_text_2.php:179
+msgid "Boxed 3"
+msgstr ""
+
+#: element/icon_text_2.php:180
+msgid "Boxed 4"
+msgstr ""
+
+#: element/icon_text_3.php:6
+msgid "Icon & Text 3"
+msgstr ""
+
+#: element/icon_text_3.php:63 element/multi_icon_text_3.php:124
+msgid "Space Between Icon And Title"
+msgstr ""
+
+#: element/icon_text_3.php:212 element/multi_icon_text_3.php:278
+msgid "Title Vertical align in middle"
+msgstr ""
+
+#: element/image.php:6 element/image.php:132 element/image.php:154
+#: element/image.php:177 element/image_gallery.php:123
+#: element/image_gallery.php:149 element/image_gallery.php:174
+#: element/image_gallery.php:203 element/image_gallery.php:211
+#: element/image_gallery_carousel.php:240
+#: element/image_gallery_carousel.php:261
+#: element/image_gallery_carousel.php:272 element/image_gallery_slider.php:341
+#: element/image_gallery_slider.php:353 element/image_gallery_slider.php:362
+#: element/image_text.php:232 element/image_text.php:254
+#: element/image_text.php:265 element/image_text.php:276
+#: element/image_text.php:285 element/image_text_2.php:239
+#: element/image_text_2.php:262 element/image_text_2.php:287
+#: element/multi_image_text.php:310 element/multi_image_text.php:332
+#: element/multi_image_text.php:343 element/multi_image_text.php:354
+#: element/multi_image_text.php:363 element/multi_image_text_2.php:322
+#: element/multi_image_text_2.php:345 element/multi_image_text_2.php:370
+#: element/mini/image.php:8 element/mini/image.php:14 element/mini/image.php:23
+#: element/mini/image.php:30 element/mini/image.php:38
+#: element/mini/image.php:44 element/mini/image.php:58
+#: element/mini/image.php:84 element/mini/image.php:93
+#: element/mini/image.php:101 element/mini/image.php:108
+#: element/mini/image.php:125 element/mini/image.php:135
+#: element/mini/image.php:141
+msgid "Image"
+msgstr ""
+
+#: element/image.php:17 element/image_text.php:19 element/image_text_2.php:17
+#: element/multi_image_text.php:39 element/multi_image_text_2.php:37
+msgid "Image source"
+msgstr ""
+
+#: element/image.php:22 element/image_text.php:24 element/image_text_2.php:22
+#: element/multi_image_text.php:44 element/multi_image_text_2.php:42
+msgid "Media Library"
+msgstr ""
+
+#: element/image.php:23 element/image_text.php:25 element/image_text_2.php:23
+#: element/multi_image_text.php:45 element/multi_image_text_2.php:43
+msgid "External link"
+msgstr ""
+
+#: element/image.php:29 element/image_gallery.php:19
+#: element/image_gallery_carousel.php:18 element/image_gallery_slider.php:18
+#: element/image_text.php:31 element/image_text_2.php:29
+#: element/multi_image_text.php:65 element/multi_image_text_2.php:63
+msgid "Upload Image"
+msgstr ""
+
+#: element/image.php:35 element/image_text.php:37 element/image_text_2.php:36
+#: element/multi_image_text.php:73 element/multi_image_text_2.php:71
+msgid "External link Image"
+msgstr ""
+
+#: element/image.php:42 element/image_gallery.php:26
+#: element/image_gallery_carousel.php:27 element/image_gallery_slider.php:26
+msgid "On click Action"
+msgstr ""
+
+#: element/image.php:47
+msgid "Open custom link"
+msgstr ""
+
+#: element/image.php:48 element/image_gallery.php:31
+#: element/image_gallery_carousel.php:32 element/image_gallery_slider.php:31
+#: element/image_text.php:52 element/image_text_2.php:51
+#: element/multi_image_text.php:113 element/multi_image_text_2.php:111
+msgid "Link To Full Image"
+msgstr ""
+
+#: element/image.php:49 element/image_gallery.php:32
+#: element/image_gallery_carousel.php:33 element/image_gallery_slider.php:32
+#: element/image_text.php:53 element/image_text_2.php:52
+#: element/multi_image_text.php:114 element/multi_image_text_2.php:112
+msgid "Open PrettyPhoto"
+msgstr ""
+
+#: element/image.php:50 element/image_gallery.php:33
+#: element/image_gallery_carousel.php:34 element/image_gallery_slider.php:33
+#: element/image_text.php:54 element/image_text_2.php:53
+#: element/multi_image_text.php:115 element/multi_image_text_2.php:113
+msgid "Zoom"
+msgstr ""
+
+#: element/image.php:75 element/image_gallery.php:51
+#: element/image_gallery_carousel.php:51 element/image_gallery_slider.php:50
+#: element/image_text.php:104 element/image_text_2.php:102
+#: element/multi_image_text.php:136 element/multi_image_text_2.php:135
+msgid "on Hover Image"
+msgstr ""
+
+#: element/image.php:80 element/image_gallery.php:56
+#: element/image_gallery_carousel.php:56 element/image_gallery_slider.php:55
+#: element/image_text.php:109 element/image_text_2.php:107
+#: element/multi_image_text.php:141 element/multi_image_text_2.php:140
+msgid "Play Icon"
+msgstr ""
+
+#: element/image.php:81 element/image_gallery.php:57
+#: element/image_gallery_carousel.php:57 element/image_gallery_slider.php:56
+#: element/image_text.php:110 element/image_text_2.php:108
+#: element/multi_image_text.php:142 element/multi_image_text_2.php:141
+msgid "Zoom Icon"
+msgstr ""
+
+#: element/image.php:82 element/image.php:88
+msgid "Caption"
+msgstr ""
+
+#: element/image.php:175 element/image_gallery.php:201
+#: element/image_gallery_carousel.php:251 element/image_gallery_slider.php:349
+#: element/image_text.php:263 element/image_text_2.php:285
+#: element/multi_image_text.php:341 element/multi_image_text_2.php:368
+msgid "Crop"
+msgstr ""
+
+#: element/image.php:178 element/image_text.php:266
+#: element/image_text_2.php:288 element/multi_image_text.php:344
+#: element/multi_image_text_2.php:371
+msgid "note:you most input width and height"
+msgstr ""
+
+#: element/image.php:188
+msgid "Caption Font Family"
+msgstr ""
+
+#: element/image.php:199
+msgid "Caption Font Size"
+msgstr ""
+
+#: element/image.php:226
+msgid "Caption Font Weight"
+msgstr ""
+
+#: element/image.php:246
+msgid "Caption Line Height"
+msgstr ""
+
+#: element/image.php:271
+msgid "Caption Text Transform"
+msgstr ""
+
+#: element/image.php:288
+msgid "Caption Font Style"
+msgstr ""
+
+#: element/image_gallery.php:6
+msgid "Image Gallery"
+msgstr ""
+
+#: element/image_gallery.php:22 element/image_gallery_carousel.php:20
+#: element/image_gallery_slider.php:21
+msgid "You can hold the control button \"Ctrl\" for Multi select image"
+msgstr ""
+
+#: element/image_gallery.php:62 element/multi_icon_text.php:91
+#: element/multi_icon_text_2.php:89 element/multi_icon_text_3.php:90
+#: element/multi_image_text.php:148 element/multi_image_text_2.php:148
+#: framework/builder-column.php:107 framework/builder-section.php:72
+msgid "Column"
+msgstr ""
+
+#: element/image_gallery.php:73 element/image_gallery_carousel.php:198
+#: element/image_gallery_slider.php:298
+msgid "Space Between Image"
+msgstr ""
+
+#: element/image_gallery.php:79 element/image_gallery_carousel.php:204
+#: element/image_gallery_slider.php:308
+msgid "by \"pexel\""
+msgstr ""
+
+#: element/image_gallery.php:121 element/image_gallery_carousel.php:237
+#: element/image_text.php:252 element/multi_image_text.php:330
+msgid "Image Ratio"
+msgstr ""
+
+#: element/image_gallery.php:204
+msgid "note:you most input (width and height) or ratio image not auto"
+msgstr ""
+
+#: element/image_gallery.php:209 element/image_gallery_carousel.php:269
+#: element/image_gallery_slider.php:358
+msgid "Image Thumb"
+msgstr ""
+
+#: element/image_gallery_carousel.php:6
+msgid "Image Gallery Carousel"
+msgstr ""
+
+#: element/image_gallery_carousel.php:62 element/image_gallery_slider.php:110
+msgid "Arrows"
+msgstr ""
+
+#: element/image_gallery_carousel.php:64 element/image_gallery_carousel.php:76
+#: element/image_gallery_carousel.php:123
+#: element/image_gallery_carousel.php:149
+#: element/image_gallery_carousel.php:157
+#: element/image_gallery_carousel.php:166
+#: element/image_gallery_carousel.php:178 element/image_gallery_slider.php:65
+#: element/image_gallery_slider.php:76 element/image_gallery_slider.php:92
+#: element/image_gallery_slider.php:112 element/image_gallery_slider.php:124
+#: element/image_gallery_slider.php:171 element/image_gallery_slider.php:197
+#: element/image_gallery_slider.php:206 element/image_gallery_slider.php:216
+#: element/image_gallery_slider.php:225 element/image_gallery_slider.php:233
+#: element/image_gallery_slider.php:246 element/image_gallery_slider.php:253
+msgid "Slider"
+msgstr ""
+
+#: element/image_gallery_carousel.php:71 element/image_gallery_slider.php:119
+msgid "Arrow Layout"
+msgstr ""
+
+#: element/image_gallery_carousel.php:80 element/image_gallery_slider.php:128
+msgid "Arrow Laction"
+msgstr ""
+
+#: element/image_gallery_carousel.php:85 element/image_gallery_slider.php:133
+msgid "Location 1"
+msgstr ""
+
+#: element/image_gallery_carousel.php:86 element/image_gallery_slider.php:134
+msgid "Location 2"
+msgstr ""
+
+#: element/image_gallery_carousel.php:87 element/image_gallery_slider.php:135
+msgid "Location 3"
+msgstr ""
+
+#: element/image_gallery_carousel.php:96 element/image_gallery_slider.php:144
+msgid "On Hover"
+msgstr ""
+
+#: element/image_gallery_carousel.php:97 element/image_gallery_slider.php:145
+msgid "Fixed"
+msgstr ""
+
+#: element/image_gallery_carousel.php:106 element/image_gallery_slider.php:154
+#: options/builder-array.php:140 options/builder-array.php:515
+msgid "Small"
+msgstr ""
+
+#: element/image_gallery_carousel.php:108 element/image_gallery_slider.php:156
+#: options/builder-array.php:124 options/builder-array.php:142
+#: options/builder-array.php:517
+msgid "Large"
+msgstr ""
+
+#: element/image_gallery_carousel.php:118 element/image_gallery_slider.php:166
+msgid "Arrow Color"
+msgstr ""
+
+#: element/image_gallery_carousel.php:134 element/image_gallery_slider.php:182
+msgid "Arrow"
+msgstr ""
+
+#: element/image_gallery_carousel.php:144 element/image_gallery_slider.php:192
+msgid "Arrow Radius"
+msgstr ""
+
+#: element/image_gallery_carousel.php:151 element/image_gallery_slider.php:199
+msgid "by \"pexel\" example: \"15\""
+msgstr ""
+
+#: element/image_gallery_carousel.php:155 element/image_gallery_slider.php:223
+msgid "Auto Play"
+msgstr ""
+
+#: element/image_gallery_carousel.php:164
+msgid "Animation Speed ,Default \"5000\""
+msgstr ""
+
+#: element/image_gallery_carousel.php:175 element/image_gallery_slider.php:251
+msgid "Animation Pause Time"
+msgstr ""
+
+#: element/image_gallery_carousel.php:185
+msgid "Item"
+msgstr ""
+
+#: element/image_gallery_slider.php:6
+msgid "Image Gallery Slider"
+msgstr ""
+
+#: element/image_gallery_slider.php:62
+msgid "Pager"
+msgstr ""
+
+#: element/image_gallery_slider.php:74
+msgid "Position Pager"
+msgstr ""
+
+#: element/image_gallery_slider.php:80 options/builder-array.php:132
+#: options/builder-array.php:612 options/builder-array.php:631
+#: options/builder-array.php:693 options/builder-array.php:714
+#: options/builder-options-column.php:170
+#: options/builder-options-column.php:201
+#: options/builder-options-section.php:68
+#: options/builder-options-section.php:223
+#: options/builder-options-section.php:254
+msgid "Top"
+msgstr ""
+
+#: element/image_gallery_slider.php:81 options/builder-array.php:133
+#: options/builder-array.php:617 options/builder-array.php:641
+#: options/builder-array.php:695 options/builder-array.php:724
+#: options/builder-options-column.php:172
+#: options/builder-options-column.php:227
+#: options/builder-options-section.php:74
+#: options/builder-options-section.php:225
+#: options/builder-options-section.php:280
+msgid "Bottom"
+msgstr ""
+
+#: element/image_gallery_slider.php:87
+msgid "Pager Color"
+msgstr ""
+
+#: element/image_gallery_slider.php:97
+msgid "Color"
+msgstr ""
+
+#: element/image_gallery_slider.php:203
+msgid "Timer"
+msgstr ""
+
+#: element/image_gallery_slider.php:211
+msgid "Timer Color"
+msgstr ""
+
+#: element/image_gallery_slider.php:231
+msgid "Slider Effect"
+msgstr ""
+
+#: element/image_gallery_slider.php:237 options/builder-array.php:243
+msgid "Slide"
+msgstr ""
+
+#: element/image_gallery_slider.php:238 options/builder-array.php:244
+#: options/builder-array.php:467 options/builder-array.php:1138
+#: options/builder-array.php:1162 options/builder-array.php:1181
+msgid "Fade"
+msgstr ""
+
+#: element/image_gallery_slider.php:243
+msgid "Animation Speed ,Default \"2000\""
+msgstr ""
+
+#: element/image_gallery_slider.php:277
+msgid "Thumb Item"
+msgstr ""
+
+#: element/image_gallery_slider.php:373
+msgid "Thumb Ratio"
+msgstr ""
+
+#: element/image_gallery_slider.php:375 element/image_gallery_slider.php:393
+msgid "Thumb"
+msgstr ""
+
+#: element/image_gallery_slider.php:386
+msgid "Background over Thumb "
+msgstr ""
+
+#: element/image_text.php:6
+msgid "Image & Text"
+msgstr ""
+
+#: element/image_text.php:46 element/image_text_2.php:45
+#: element/multi_image_text.php:107 element/multi_image_text_2.php:105
+msgid "Image On click Action"
+msgstr ""
+
+#: element/image_text.php:51 element/image_text_2.php:50
+#: element/multi_image_text.php:112 element/multi_image_text_2.php:110
+msgid "Custom link"
+msgstr ""
+
+#: element/image_text.php:116 element/image_text_2.php:125
+#: element/multi_image_text.php:188 element/multi_image_text_2.php:200
+msgid "Space Between Image And Details"
+msgstr ""
+
+#: element/image_text.php:230 element/image_text_2.php:237
+#: element/multi_image_text.php:308 element/multi_image_text_2.php:320
+msgid "Image Width"
+msgstr ""
+
+#: element/image_text.php:272 element/multi_image_text.php:350
+msgid "Image Alignment"
+msgstr ""
+
+#: element/image_text.php:283 element/multi_image_text.php:361
+msgid "Image Vertical align in middle"
+msgstr ""
+
+#: element/image_text_2.php:6
+msgid "Image & Text 2"
+msgstr ""
+
+#: element/image_text_2.php:260 element/multi_image_text_2.php:343
+msgid "Image Height"
+msgstr ""
+
+#: element/multi_icon_text.php:6
+msgid "Multi Icon & Text"
+msgstr ""
+
+#: element/multi_icon_text.php:41 element/multi_icon_text_2.php:39
+#: element/multi_icon_text_3.php:39 element/multi_image_text.php:52
+#: element/multi_image_text_2.php:50
+msgid "Box"
+msgstr ""
+
+#: element/multi_icon_text.php:44 element/multi_icon_text_2.php:42
+#: element/multi_icon_text_3.php:42 element/multi_image_text.php:55
+#: element/multi_image_text_2.php:53
+msgid "Add Box"
+msgstr ""
+
+#: element/multi_icon_text.php:53 element/multi_icon_text_2.php:51
+#: element/multi_icon_text_3.php:51 element/text_list.php:50
+msgid "Custom Icon"
+msgstr ""
+
+#: element/multi_icon_text.php:106 element/multi_icon_text_2.php:99
+#: element/multi_icon_text_3.php:100 element/multi_image_text.php:163
+#: element/multi_image_text_2.php:163 element/progress_bar.php:125
+msgid "Space Between Item"
+msgstr ""
+
+#: element/multi_icon_text.php:235 element/multi_icon_text_2.php:238
+#: element/multi_icon_text_3.php:225 element/multi_image_text.php:290
+#: element/multi_image_text_2.php:301
+msgid "Boxed All"
+msgstr ""
+
+#: element/multi_icon_text.php:236 element/multi_icon_text_3.php:226
+#: element/multi_image_text.php:291 element/multi_image_text_2.php:302
+msgid "Boxed item"
+msgstr ""
+
+#: element/multi_icon_text.php:237
+msgid "Boxed item 2"
+msgstr ""
+
+#: element/multi_icon_text_2.php:7
+msgid "Multi Icon & Text 2"
+msgstr ""
+
+#: element/multi_icon_text_2.php:239
+msgid "Boxed Item"
+msgstr ""
+
+#: element/multi_icon_text_2.php:240
+msgid "Boxed Item 2"
+msgstr ""
+
+#: element/multi_icon_text_2.php:241
+msgid "Boxed Item 3"
+msgstr ""
+
+#: element/multi_icon_text_2.php:242
+msgid "Boxed Item 4"
+msgstr ""
+
+#: element/multi_icon_text_3.php:6
+msgid "Multi Icon & Text 3"
+msgstr ""
+
+#: element/multi_image_text.php:6
+msgid "Multi Image & Text"
+msgstr ""
+
+#: element/multi_image_text_2.php:6
+msgid "Multi Image & Text 2"
+msgstr ""
+
+#: element/notification_box.php:6
+msgid "Notfifcation Box"
+msgstr ""
+
+#: element/notification_box.php:35
+msgid "Space Between Icon And Content"
+msgstr ""
+
+#: element/notification_box.php:83 element/text_block.php:69
+#: element/mini/boxed.php:5 element/mini/multi_boxed_item.php:5
+msgid "Padding in Boxed"
+msgstr ""
+
+#: element/notification_box.php:97 element/text_block.php:92
+#: element/mini/boxed.php:28 element/mini/multi_boxed_item.php:29
+msgid "Boxed Background Color"
+msgstr ""
+
+#: element/notification_box.php:104 element/text_block.php:100
+#: element/mini/boxed.php:35 element/mini/multi_boxed_item.php:36
+msgid "Boxed Border"
+msgstr ""
+
+#: element/notification_box.php:117 element/text_block.php:115
+#: element/mini/boxed.php:49 element/mini/multi_boxed_item.php:50
+msgid "Boxed Shadow"
+msgstr ""
+
+#: element/notification_box.php:187
+msgid "10px"
+msgstr ""
+
+#: element/notification_box.php:188
+msgid "15px"
+msgstr ""
+
+#: element/notification_box.php:189
+msgid "20px"
+msgstr ""
+
+#: element/notification_box.php:190
+msgid "25px"
+msgstr ""
+
+#: element/notification_box.php:191
+msgid "30px"
+msgstr ""
+
+#: element/notification_box.php:192
+msgid "40px"
+msgstr ""
+
+#: element/notification_box.php:193 element/pie_chart.php:188
+msgid "50px"
+msgstr ""
+
+#: element/notification_box.php:194
+msgid "60px"
+msgstr ""
+
+#: element/notification_box.php:195
+msgid "70px"
+msgstr ""
+
+#: element/notification_box.php:196
+msgid "80px"
+msgstr ""
+
+#: element/notification_box.php:197
+msgid "90px"
+msgstr ""
+
+#: element/notification_box.php:247 element/mini/icon.php:98
+msgid "Icon Border Radius"
+msgstr ""
+
+#: element/notification_box.php:272
+msgid "Content Alignment"
+msgstr ""
+
+#: element/notification_box.php:283
+msgid "Content Vertical align in middle"
+msgstr ""
+
+#: element/pie_chart.php:6 element/pie_chart.php:54 element/pie_chart.php:176
+#: element/pie_chart.php:183 element/pie_chart.php:208
+#: element/pie_chart.php:218 element/pie_chart.php:236
+#: element/pie_chart.php:250 element/pie_chart.php:259
+#: element/pie_chart.php:270 element/pie_chart.php:279
+msgid "Pie Chart"
+msgstr ""
+
+#: element/pie_chart.php:20 element/progress_bar.php:65
+msgid "Percentage"
+msgstr ""
+
+#: element/pie_chart.php:24 element/progress_bar.php:67
+msgid "Enter the percentage ( example: 80 )"
+msgstr ""
+
+#: element/pie_chart.php:28
+msgid "End Percentage"
+msgstr ""
+
+#: element/pie_chart.php:29
+msgid "eample \"%\""
+msgstr ""
+
+#: element/pie_chart.php:51 element/progress_bar.php:117
+msgid "Duration"
+msgstr ""
+
+#: element/pie_chart.php:60
+msgid "Space Between Chart And Details"
+msgstr ""
+
+#: element/pie_chart.php:174 element/progress_bar.php:78
+#: element/progress_bar.php:274
+msgid "Percent Color"
+msgstr ""
+
+#: element/pie_chart.php:181
+msgid "Pie Chart Size"
+msgstr ""
+
+#: element/pie_chart.php:189
+msgid "75px"
+msgstr ""
+
+#: element/pie_chart.php:190
+msgid "100px"
+msgstr ""
+
+#: element/pie_chart.php:191
+msgid "125px"
+msgstr ""
+
+#: element/pie_chart.php:192
+msgid "150px"
+msgstr ""
+
+#: element/pie_chart.php:193
+msgid "175px"
+msgstr ""
+
+#: element/pie_chart.php:194
+msgid "200px"
+msgstr ""
+
+#: element/pie_chart.php:195
+msgid "225px"
+msgstr ""
+
+#: element/pie_chart.php:196
+msgid "250px"
+msgstr ""
+
+#: element/pie_chart.php:197
+msgid "275px"
+msgstr ""
+
+#: element/pie_chart.php:198
+msgid "300px"
+msgstr ""
+
+#: element/pie_chart.php:204
+msgid "Bar Size"
+msgstr ""
+
+#: element/pie_chart.php:210 element/progress_bar.php:175
+msgid "Enter the percentage ( example: 30 )"
+msgstr ""
+
+#: element/pie_chart.php:215
+msgid "Bar Color"
+msgstr ""
+
+#: element/pie_chart.php:221 element/progress_bar.php:90
+#: element/progress_bar.php:208 options/builder-array.php:749
+msgid "First Color"
+msgstr ""
+
+#: element/pie_chart.php:225 element/progress_bar.php:94
+#: element/progress_bar.php:212 options/builder-array.php:754
+msgid "Second Color"
+msgstr ""
+
+#: element/pie_chart.php:233
+msgid "Track Color"
+msgstr ""
+
+#: element/pie_chart.php:246
+msgid "Pie Chart Background"
+msgstr ""
+
+#: element/pie_chart.php:255
+msgid "Pie Chart Border"
+msgstr ""
+
+#: element/pie_chart.php:265
+msgid "Pie Chart Shadow OutLine"
+msgstr ""
+
+#: element/pie_chart.php:276
+msgid "Pie Chart Shadow inset"
+msgstr ""
+
+#: element/pie_chart.php:296 element/progress_bar.php:372
+msgid "Percent Typography"
+msgstr ""
+
+#: element/pie_chart.php:303 element/progress_bar.php:379
+#: element/mini/percent_typography.php:13
+msgid "Percent Font Size"
+msgstr ""
+
+#: element/pie_chart.php:327 element/progress_bar.php:403
+#: element/mini/percent_typography.php:37
+msgid "Percent Font Weight"
+msgstr ""
+
+#: element/pie_chart.php:343 element/progress_bar.php:420
+msgid "Percent Font Style"
+msgstr ""
+
+#: element/progress_bar.php:6 element/progress_bar.php:53
+#: element/progress_bar.php:173 element/progress_bar.php:180
+#: element/progress_bar.php:182 element/progress_bar.php:188
+#: element/progress_bar.php:194 element/progress_bar.php:205
+#: element/progress_bar.php:221 element/progress_bar.php:232
+#: element/progress_bar.php:240 element/progress_bar.php:248
+#: element/progress_bar.php:255
+msgid "Progress Bar"
+msgstr ""
+
+#: element/progress_bar.php:22
+msgid "Item 1"
+msgstr ""
+
+#: element/progress_bar.php:27
+msgid "Item 2"
+msgstr ""
+
+#: element/progress_bar.php:31
+msgid "Item 3"
+msgstr ""
+
+#: element/progress_bar.php:55
+msgid "Add Progress Bar"
+msgstr ""
+
+#: element/progress_bar.php:60
+msgid "Progress bar title"
+msgstr ""
+
+#: element/progress_bar.php:85 element/progress_bar.php:202
+msgid "Progress bar Color"
+msgstr ""
+
+#: element/progress_bar.php:104 element/progress_bar.php:238
+msgid "Progress bar Container color"
+msgstr ""
+
+#: element/progress_bar.php:109 element/progress_bar.php:245
+msgid "Progress bar Container Border"
+msgstr ""
+
+#: element/progress_bar.php:186
+msgid "Progress bar Stripes"
+msgstr ""
+
+#: element/progress_bar.php:192
+msgid "Progress bar Stripes Animete"
+msgstr ""
+
+#: element/progress_bar.php:219
+msgid "Progress bar Radius"
+msgstr ""
+
+#: element/progress_bar.php:222 element/progress_bar.php:256
+msgid "Enter the percentage ( example: 15 )"
+msgstr ""
+
+#: element/progress_bar.php:230
+msgid "Progress Bar Container"
+msgstr ""
+
+#: element/progress_bar.php:253
+msgid "Progress bar Container Radius"
+msgstr ""
+
+#: element/progress_bar.php:284 element/mini/title_typography.php:4
+msgid "Title Typography"
+msgstr ""
+
+#: element/progress_bar.php:290 element/mini/title_typography.php:13
+msgid "Title Font Family"
+msgstr ""
+
+#: element/shortcodes.php:6
+msgid "Shortcodes"
+msgstr ""
+
+#: element/shortcodes.php:22
+msgid "input ShortCode"
+msgstr ""
+
+#: element/shortcodes.php:31 element/text_block.php:28
+msgid "Padding around the entire ,Default \"0\""
+msgstr ""
+
+#: element/space.php:7
+msgid "Empty Space"
+msgstr ""
+
+#: element/tabs.php:7
+msgid "Tabs"
+msgstr ""
+
+#: element/tabs.php:20
+msgid "Tabs 1"
+msgstr ""
+
+#: element/tabs.php:25
+msgid "Tabs 2"
+msgstr ""
+
+#: element/tabs.php:29
+msgid "Tabs 3"
+msgstr ""
+
+#: element/tabs.php:37
+msgid "tabs"
+msgstr ""
+
+#: element/tabs.php:39
+msgid "Add tabs"
+msgstr ""
+
+#: element/tabs.php:291
+msgid "Content Font Line Height"
+msgstr ""
+
+#: element/text_block.php:6
+msgid "Text Editor"
+msgstr ""
+
+#: element/text_block.php:20
+msgid ""
+"<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo "
+"ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis "
+"parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, "
+"pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim</p>"
+msgstr ""
+
+#: element/text_block.php:83 element/text_block.php:134
+#: element/mini/boxed.php:19 element/mini/boxed.php:67
+#: element/mini/multi_boxed_item.php:20 element/mini/multi_boxed_item.php:68
+msgid "Boxed Style"
+msgstr ""
+
+#: element/text_list.php:6 element/text_list.php:38
+msgid "List"
+msgstr ""
+
+#: element/text_list.php:41
+msgid "Add List"
+msgstr ""
+
+#: element/text_list.php:75
+msgid "Icon Background Color"
+msgstr ""
+
+#: element/text_list.php:93
+msgid "Icon For all"
+msgstr ""
+
+#: element/text_list.php:106
+msgid "Space Between List"
+msgstr ""
+
+#: element/text_list.php:129
+msgid "Space Between Icon and Text"
+msgstr ""
+
+#: element/text_list.php:184
+msgid "Text Alignment"
+msgstr ""
+
+#: element/text_list.php:194
+msgid "Text Vertical align in middle"
+msgstr ""
+
+#: element/text_list.php:242 element/mini/text_typography.php:21
+msgid "Text Font Size"
+msgstr ""
+
+#: element/text_list.php:268 element/mini/text_typography.php:45
+msgid "Text Font Weight"
+msgstr ""
+
+#: element/text_list.php:284 element/mini/text_typography.php:64
+msgid "Text Line Height"
+msgstr ""
+
+#: element/text_list.php:320 element/mini/text_typography.php:100
+msgid "Text Font Style"
+msgstr ""
+
+#: element/video.php:6
+msgid "Video"
+msgstr ""
+
+#: element/video.php:16
+msgid "Mp4"
+msgstr ""
+
+#: element/video.php:17
+msgid "YouTube"
+msgstr ""
+
+#: element/video.php:19
+msgid "Aparat"
+msgstr ""
+
+#: element/video.php:23
+msgid "Video Type"
+msgstr ""
+
+#: element/video.php:32
+msgid "Video Url"
+msgstr ""
+
+#: element/video.php:40
+msgid "Video Width"
+msgstr ""
+
+#: element/video.php:62
+msgid "Video Ratio"
+msgstr ""
+
+#: element/widgets.php:6
+msgid "Widgets"
+msgstr ""
+
+#: element/widgets.php:17
+msgid "Choose Widget area"
+msgstr ""
+
+#: framework/builder-column.php:70
+msgid "Add New Element"
+msgstr ""
+
+#: framework/builder-column.php:71
+msgid "Element"
+msgstr ""
+
+#: framework/builder-column.php:125 framework/builder-column.php:184
+#: framework/builder-element.php:121 framework/builder-element.php:190
+#: framework/builder-element.php:241 framework/builder-element.php:292
+#: framework/builder-section.php:108 framework/builder-section.php:170
+msgid "General"
+msgstr ""
+
+#: framework/builder-column.php:146 framework/builder-element.php:144
+msgid "Options"
+msgstr ""
+
+#: framework/builder-column.php:205 framework/builder-element.php:216
+#: framework/builder-section.php:192 framework/builder-template.php:20
+msgid "Cancel"
+msgstr ""
+
+#: framework/builder-column.php:206 framework/builder-element.php:217
+#: framework/builder-section.php:193
+msgid "Update"
+msgstr ""
+
+#: framework/builder-column.php:234 framework/builder-section.php:71
+msgid "Add New Column"
+msgstr ""
+
+#: framework/builder-column.php:250 framework/builder-element.php:326
+#: framework/builder-template.php:66 framework/builder-template.php:83
+msgid "Add"
+msgstr ""
+
+#: framework/builder-element.php:258
+msgid "Add Element"
+msgstr ""
+
+#: framework/builder-options-functions.php:48
+msgid "Add Tab"
+msgstr ""
+
+#: framework/builder-options-functions.php:53
+msgid "Add Item"
+msgstr ""
+
+#: framework/builder-options-functions.php:172
+msgid "Select"
+msgstr ""
+
+#: framework/builder-options-functions.php:213
+#: framework/builder-options-functions.php:467
+#: framework/builder-options-functions.php:674
+#: framework/builder-options-functions.php:785
+msgid "Choose Icon"
+msgstr ""
+
+#: framework/builder-options-functions.php:223
+#: framework/builder-options-functions.php:704
+msgid "Upload"
+msgstr ""
+
+#: framework/builder-options-functions.php:264
+msgid "Add Image"
+msgstr ""
+
+#: framework/builder-options-functions.php:785
+msgid "Search icons"
+msgstr ""
+
+#: framework/builder-options-functions.php:836
+msgid "Set Icon"
+msgstr ""
+
+#: framework/builder-section.php:86 framework/builder-section.php:91
+msgid "Section"
+msgstr ""
+
+#: framework/builder-section.php:129
+msgid "Section Options"
+msgstr ""
+
+#: framework/builder-template.php:10 framework/builder-template.php:21
+msgid "Save"
+msgstr ""
+
+#: framework/builder-template.php:10 framework/builder-template.php:66
+msgid "Template"
+msgstr ""
+
+#: framework/builder-template.php:15
+msgid "Template Name"
+msgstr ""
+
+#: framework/builder.php:12
+msgid "Page Builder"
+msgstr ""
+
+#: framework/builder.php:37
+msgid "Switch to Sao Page Builder"
+msgstr ""
+
+#: framework/builder.php:38
+msgid "Switch to Default Editor"
+msgstr ""
+
+#: framework/builder.php:44
+msgid "Full Screen"
+msgstr ""
+
+#: framework/builder.php:45
+msgid "Close Full Screen"
+msgstr ""
+
+#: framework/builder.php:46 framework/builder.php:47
+msgid "FulL"
+msgstr ""
+
+#: framework/builder.php:46
+msgid "Save Full Template to the library"
+msgstr ""
+
+#: framework/builder.php:47
+msgid "Add Full Template From Library"
+msgstr ""
+
+#: framework/builder.php:61
+msgid "Add New Section"
+msgstr ""
+
+#: options/builder-array.php:26
+msgid "Full"
+msgstr ""
+
+#: options/builder-array.php:75
+msgid "Posts"
+msgstr ""
+
+#: options/builder-array.php:76
+msgid "Custom Slides"
+msgstr ""
+
+#: options/builder-array.php:90
+msgid "All Categories"
+msgstr ""
+
+#: options/builder-array.php:131 options/builder-array.php:692
+msgid "All Round"
+msgstr ""
+
+#: options/builder-array.php:134 options/builder-array.php:135
+msgid "Top Left & Bottom Right"
+msgstr ""
+
+#: options/builder-array.php:134 options/builder-array.php:135
+msgid "Top Right & Bottom Left"
+msgstr ""
+
+#: options/builder-array.php:168
+msgid "Recent Posts"
+msgstr ""
+
+#: options/builder-array.php:169
+msgid "Randam"
+msgstr ""
+
+#: options/builder-array.php:170
+msgid "Randam - 1 day ago"
+msgstr ""
+
+#: options/builder-array.php:171
+msgid "Randam - 1 week ago"
+msgstr ""
+
+#: options/builder-array.php:172
+msgid "Randam - 1 month ago"
+msgstr ""
+
+#: options/builder-array.php:173
+msgid "Randam - 1 year ago"
+msgstr ""
+
+#: options/builder-array.php:174
+msgid "Most Comments "
+msgstr ""
+
+#: options/builder-array.php:175
+msgid "Most Comments 1 day ago"
+msgstr ""
+
+#: options/builder-array.php:176
+msgid "Most Comments 1 week ago"
+msgstr ""
+
+#: options/builder-array.php:177
+msgid "Most Comments 1 month ago"
+msgstr ""
+
+#: options/builder-array.php:178
+msgid "Most Comments 1 year ago"
+msgstr ""
+
+#: options/builder-array.php:183
+msgid "Views"
+msgstr ""
+
+#: options/builder-array.php:184 options/builder-array.php:1027
+msgid "Date"
+msgstr ""
+
+#: options/builder-array.php:185 options/builder-array.php:1022
+msgid "Author"
+msgstr ""
+
+#: options/builder-array.php:189
+msgid "5:2"
+msgstr ""
+
+#: options/builder-array.php:190 options/builder-array.php:195
+#: options/builder-array.php:203 options/builder-array.php:212
+#: options/builder-array.php:220 options/builder-array.php:228
+#: options/builder-array.php:233
+msgid "16:9"
+msgstr ""
+
+#: options/builder-array.php:196 options/builder-array.php:204
+#: options/builder-array.php:213 options/builder-array.php:221
+#: options/builder-array.php:229 options/builder-array.php:234
+msgid "4:3"
+msgstr ""
+
+#: options/builder-array.php:205 options/builder-array.php:214
+#: options/builder-array.php:222 options/builder-array.php:235
+msgid "1:1"
+msgstr ""
+
+#: options/builder-array.php:215 options/builder-array.php:223
+#: options/builder-array.php:236
+msgid "3:5"
+msgstr ""
+
+#: options/builder-array.php:219 options/builder-array.php:421
+msgid "Auto"
+msgstr ""
+
+#: options/builder-array.php:249 element/mini/image.php:115
+msgid "Dark"
+msgstr ""
+
+#: options/builder-array.php:268
+msgid "Full Width"
+msgstr ""
+
+#: options/builder-array.php:285
+msgid "By Width and Height"
+msgstr ""
+
+#: options/builder-array.php:344 options/builder-array.php:346
+#: options/builder-array.php:350 options/builder-array.php:351
+#: options/builder-array.php:636 options/builder-array.php:646
+#: options/builder-array.php:694 options/builder-array.php:694
+#: options/builder-array.php:696 options/builder-array.php:696
+#: options/builder-array.php:719 options/builder-array.php:729
+#: options/builder-options-column.php:162
+#: options/builder-options-column.php:166
+#: options/builder-options-column.php:215
+#: options/builder-options-column.php:239
+#: options/builder-options-section.php:215
+#: options/builder-options-section.php:219
+#: options/builder-options-section.php:268
+#: options/builder-options-section.php:292
+msgid "Right"
+msgstr ""
+
+#: options/builder-array.php:344 options/builder-array.php:346
+#: options/builder-array.php:350 options/builder-array.php:351
+#: options/builder-array.php:636 options/builder-array.php:646
+#: options/builder-array.php:719 options/builder-array.php:729
+#: options/builder-options-column.php:162
+#: options/builder-options-column.php:166
+#: options/builder-options-column.php:215
+#: options/builder-options-column.php:239
+#: options/builder-options-section.php:215
+#: options/builder-options-section.php:219
+#: options/builder-options-section.php:268
+#: options/builder-options-section.php:292
+msgid "Left"
+msgstr ""
+
+#: options/builder-array.php:345 options/builder-options-column.php:161
+#: options/builder-options-section.php:214
+msgid "Center"
+msgstr ""
+
+#: options/builder-array.php:364
+msgid "Italic"
+msgstr ""
+
+#: options/builder-array.php:365
+msgid "Oblique"
+msgstr ""
+
+#: options/builder-array.php:373
+msgid "Solid"
+msgstr ""
+
+#: options/builder-array.php:374
+msgid "Dotted"
+msgstr ""
+
+#: options/builder-array.php:375
+msgid "Dashed"
+msgstr ""
+
+#: options/builder-array.php:376
+msgid "Double"
+msgstr ""
+
+#: options/builder-array.php:377
+msgid "Groove"
+msgstr ""
+
+#: options/builder-array.php:378
+msgid "Ridge"
+msgstr ""
+
+#: options/builder-array.php:379 options/builder-array.php:845
+#: options/builder-array.php:925
+msgid "Inset"
+msgstr ""
+
+#: options/builder-array.php:380
+msgid "Outset"
+msgstr ""
+
+#: options/builder-array.php:382
+msgid "hidden"
+msgstr ""
+
+#: options/builder-array.php:422
+msgid "Cover"
+msgstr ""
+
+#: options/builder-array.php:423
+msgid "Contain"
+msgstr ""
+
+#: options/builder-array.php:424
+msgid "Custom"
+msgstr ""
+
+#: options/builder-array.php:468
+msgid "Fade Up"
+msgstr ""
+
+#: options/builder-array.php:469
+msgid "Fade down"
+msgstr ""
+
+#: options/builder-array.php:470 options/builder-array.php:471
+msgid "Fade Right"
+msgstr ""
+
+#: options/builder-array.php:470 options/builder-array.php:471
+msgid "Fade Left"
+msgstr ""
+
+#: options/builder-array.php:472 options/builder-array.php:473
+msgid "Fade Up Left"
+msgstr ""
+
+#: options/builder-array.php:472 options/builder-array.php:473
+msgid "Fade Up Right"
+msgstr ""
+
+#: options/builder-array.php:474 options/builder-array.php:475
+msgid "Fade Down Left"
+msgstr ""
+
+#: options/builder-array.php:474 options/builder-array.php:475
+msgid "Fade Down Right"
+msgstr ""
+
+#: options/builder-array.php:476
+msgid "Flip Up"
+msgstr ""
+
+#: options/builder-array.php:477
+msgid "Flip Down"
+msgstr ""
+
+#: options/builder-array.php:478 options/builder-array.php:479
+msgid "Flip Right"
+msgstr ""
+
+#: options/builder-array.php:478 options/builder-array.php:479
+msgid "Flip Left"
+msgstr ""
+
+#: options/builder-array.php:480 options/builder-array.php:1139
+#: options/builder-array.php:1163 options/builder-array.php:1182
+msgid "Slide Up"
+msgstr ""
+
+#: options/builder-array.php:481 options/builder-array.php:1140
+#: options/builder-array.php:1164 options/builder-array.php:1183
+msgid "Slide Down"
+msgstr ""
+
+#: options/builder-array.php:482 options/builder-array.php:483
+#: options/builder-array.php:1141 options/builder-array.php:1142
+#: options/builder-array.php:1165 options/builder-array.php:1166
+#: options/builder-array.php:1184 options/builder-array.php:1185
+msgid "Slide Right"
+msgstr ""
+
+#: options/builder-array.php:482 options/builder-array.php:483
+#: options/builder-array.php:1141 options/builder-array.php:1142
+#: options/builder-array.php:1165 options/builder-array.php:1166
+#: options/builder-array.php:1184 options/builder-array.php:1185
+msgid "Slide Left"
+msgstr ""
+
+#: options/builder-array.php:484
+msgid "Zoom In"
+msgstr ""
+
+#: options/builder-array.php:485
+msgid "Zoom In Up"
+msgstr ""
+
+#: options/builder-array.php:486
+msgid "Zoom In Down"
+msgstr ""
+
+#: options/builder-array.php:487 options/builder-array.php:488
+msgid "Zoom In Right"
+msgstr ""
+
+#: options/builder-array.php:487 options/builder-array.php:488
+msgid "Zoom In Left"
+msgstr ""
+
+#: options/builder-array.php:489
+msgid "Zoom Out"
+msgstr ""
+
+#: options/builder-array.php:490
+msgid "Zoom Out Up"
+msgstr ""
+
+#: options/builder-array.php:491
+msgid "Zoom Out Down"
+msgstr ""
+
+#: options/builder-array.php:492 options/builder-array.php:493
+msgid "Zoom Out Right"
+msgstr ""
+
+#: options/builder-array.php:492 options/builder-array.php:493
+msgid "Zoom Out Left"
+msgstr ""
+
+#: options/builder-array.php:499
+msgid "Black Square"
+msgstr ""
+
+#: options/builder-array.php:500
+msgid "Black Gray Square"
+msgstr ""
+
+#: options/builder-array.php:501
+msgid "Black Glass Square"
+msgstr ""
+
+#: options/builder-array.php:502
+msgid "Light Square"
+msgstr ""
+
+#: options/builder-array.php:503
+msgid "Light Gray Square"
+msgstr ""
+
+#: options/builder-array.php:504
+msgid "Light Glass Square"
+msgstr ""
+
+#: options/builder-array.php:505
+msgid "Black Circle"
+msgstr ""
+
+#: options/builder-array.php:506
+msgid "Black Gray Circle"
+msgstr ""
+
+#: options/builder-array.php:507
+msgid "Black Glass Circle"
+msgstr ""
+
+#: options/builder-array.php:508
+msgid "Light Circle"
+msgstr ""
+
+#: options/builder-array.php:509
+msgid "Light Gray Circle"
+msgstr ""
+
+#: options/builder-array.php:510
+msgid "Light Glass Circle"
+msgstr ""
+
+#: options/builder-array.php:586
+msgid "Style 2:Top Border inset"
+msgstr ""
+
+#: options/builder-array.php:587
+msgid "Style 3:Bottom Border inset"
+msgstr ""
+
+#: options/builder-array.php:588 options/builder-array.php:589
+msgid "Style 5:Right Border inset"
+msgstr ""
+
+#: options/builder-array.php:588 options/builder-array.php:589
+msgid "Style 4:Left Border inset"
+msgstr ""
+
+#: options/builder-array.php:590
+msgid "Style 6:Icon Background color"
+msgstr ""
+
+#: options/builder-array.php:591
+msgid "Style 7:none boxed"
+msgstr ""
+
+#: options/builder-array.php:697
+msgid "Top And Bottom"
+msgstr ""
+
+#: options/builder-array.php:775
+msgid "Backgroud Style"
+msgstr ""
+
+#: options/builder-array.php:787
+msgid "Style 9"
+msgstr ""
+
+#: options/builder-array.php:788
+msgid "Style 10"
+msgstr ""
+
+#: options/builder-array.php:789
+msgid "Style 11"
+msgstr ""
+
+#: options/builder-array.php:790
+msgid "Style 12"
+msgstr ""
+
+#: options/builder-array.php:791
+msgid "Style 13"
+msgstr ""
+
+#: options/builder-array.php:792
+msgid "Style 14"
+msgstr ""
+
+#: options/builder-array.php:793
+msgid "Style 15"
+msgstr ""
+
+#: options/builder-array.php:794
+msgid "Style 16"
+msgstr ""
+
+#: options/builder-array.php:795
+msgid "Style 17"
+msgstr ""
+
+#: options/builder-array.php:796
+msgid "Style 18"
+msgstr ""
+
+#: options/builder-array.php:797
+msgid "Style 19"
+msgstr ""
+
+#: options/builder-array.php:798
+msgid "Style 20"
+msgstr ""
+
+#: options/builder-array.php:803
+msgid "Backgroud Color"
+msgstr ""
+
+#: options/builder-array.php:808
+msgid "Backgroud Height"
+msgstr ""
+
+#: options/builder-array.php:826 options/builder-array.php:853
+#: options/builder-array.php:873 options/builder-array.php:901
+#: options/builder-array.php:942
+msgid "Blur"
+msgstr ""
+
+#: options/builder-array.php:832 options/builder-array.php:859
+#: options/builder-array.php:879 options/builder-array.php:906
+msgid "Spread"
+msgstr ""
+
+#: options/builder-array.php:844 options/builder-array.php:924
+msgid "Outline"
+msgstr ""
+
+#: options/builder-array.php:891 options/builder-array.php:932
+msgid "Horizontal"
+msgstr ""
+
+#: options/builder-array.php:896 options/builder-array.php:937
+msgid "Vertical"
+msgstr ""
+
+#: options/builder-array.php:965 options/builder-array.php:970
+msgid "Top Right"
+msgstr ""
+
+#: options/builder-array.php:965 options/builder-array.php:970
+msgid "Top Left"
+msgstr ""
+
+#: options/builder-array.php:975 options/builder-array.php:980
+msgid "Bottom Left"
+msgstr ""
+
+#: options/builder-array.php:975 options/builder-array.php:980
+msgid "Bottom Right"
+msgstr ""
+
+#: options/builder-array.php:1017
+msgid "Category"
+msgstr ""
+
+#: options/builder-array.php:1060
+msgid "Transform"
+msgstr ""
+
+#: options/builder-array.php:1079 options/builder-array.php:1089
+msgid "Pexel"
+msgstr ""
+
+#: options/builder-array.php:1143 options/builder-array.php:1167
+#: options/builder-array.php:1186
+msgid "Flip Vert"
+msgstr ""
+
+#: options/builder-array.php:1144 options/builder-array.php:1168
+#: options/builder-array.php:1187
+msgid "Flip Horiz"
+msgstr ""
+
+#: options/builder-array.php:1145 options/builder-array.php:1169
+#: options/builder-array.php:1188
+msgid "Flip Diag 1"
+msgstr ""
+
+#: options/builder-array.php:1146 options/builder-array.php:1170
+#: options/builder-array.php:1189
+msgid "Flip Diag 2"
+msgstr ""
+
+#: options/builder-array.php:1147 options/builder-array.php:1171
+#: options/builder-array.php:1190
+msgid "Zoom in"
+msgstr ""
+
+#: options/builder-array.php:1148 options/builder-array.php:1172
+#: options/builder-array.php:1191
+msgid "Zoom out"
+msgstr ""
+
+#: options/builder-array.php:1149
+msgid "Layla"
+msgstr ""
+
+#: options/builder-array.php:1150
+msgid "Oscar"
+msgstr ""
+
+#: options/builder-array.php:1151
+msgid "Bubba"
+msgstr ""
+
+#: options/builder-array.php:1152
+msgid "Chico"
+msgstr ""
+
+#: options/builder-array.php:1153
+msgid "Goliath"
+msgstr ""
+
+#: options/builder-array.php:1154
+msgid "Selena"
+msgstr ""
+
+#: options/builder-array.php:1155
+msgid "Ming"
+msgstr ""
+
+#: options/builder-options-column.php:47
+#: options/builder-options-section.php:100
+msgid "Background Parallax"
+msgstr ""
+
+#: options/builder-options-column.php:54
+#: options/builder-options-section.php:107
+msgid "Parallax"
+msgstr ""
+
+#: options/builder-options-column.php:55
+#: options/builder-options-section.php:108
+msgid "Parallax in Top"
+msgstr ""
+
+#: options/builder-options-column.php:56
+#: options/builder-options-section.php:109
+msgid "Parallax in Bottom"
+msgstr ""
+
+#: options/builder-options-column.php:57 options/builder-options-column.php:58
+#: options/builder-options-section.php:110
+#: options/builder-options-section.php:111
+msgid "Parallax in Right"
+msgstr ""
+
+#: options/builder-options-column.php:57 options/builder-options-column.php:58
+#: options/builder-options-section.php:110
+#: options/builder-options-section.php:111
+msgid "Parallax in Left"
+msgstr ""
+
+#: options/builder-options-column.php:66
+#: options/builder-options-section.php:119
+msgid "Background Color Style"
+msgstr ""
+
+#: options/builder-options-column.php:71
+#: options/builder-options-section.php:124
+msgid "Gradient"
+msgstr ""
+
+#: options/builder-options-column.php:72
+#: options/builder-options-section.php:125
+msgid "Formal Invitation"
+msgstr ""
+
+#: options/builder-options-column.php:73
+#: options/builder-options-section.php:126
+msgid "Texture"
+msgstr ""
+
+#: options/builder-options-column.php:74
+#: options/builder-options-section.php:127
+msgid "Hexagons"
+msgstr ""
+
+#: options/builder-options-column.php:75
+#: options/builder-options-section.php:128
+msgid "Charlie Brown"
+msgstr ""
+
+#: options/builder-options-column.php:76
+#: options/builder-options-section.php:129
+msgid "Overlapping Hexagons"
+msgstr ""
+
+#: options/builder-options-column.php:77
+#: options/builder-options-section.php:130
+msgid "Tiny Checkers"
+msgstr ""
+
+#: options/builder-options-column.php:78
+#: options/builder-options-section.php:131
+msgid "Bubbles"
+msgstr ""
+
+#: options/builder-options-column.php:79
+#: options/builder-options-section.php:132
+msgid "Wiggle"
+msgstr ""
+
+#: options/builder-options-column.php:80
+#: options/builder-options-section.php:133
+msgid "Diagonal Stripes"
+msgstr ""
+
+#: options/builder-options-column.php:81
+#: options/builder-options-section.php:134
+msgid "Rain"
+msgstr ""
+
+#: options/builder-options-column.php:82
+#: options/builder-options-section.php:135
+msgid "Stripes"
+msgstr ""
+
+#: options/builder-options-column.php:83
+#: options/builder-options-section.php:136
+msgid "Bank Note"
+msgstr ""
+
+#: options/builder-options-column.php:84
+#: options/builder-options-section.php:137
+msgid "Diagonal Lines"
+msgstr ""
+
+#: options/builder-options-column.php:85
+#: options/builder-options-section.php:138
+msgid "Polka Dots"
+msgstr ""
+
+#: options/builder-options-column.php:86
+#: options/builder-options-section.php:139
+msgid "Overlapping Diamonds"
+msgstr ""
+
+#: options/builder-options-column.php:87
+#: options/builder-options-section.php:140
+msgid "Wavey Fingerprint"
+msgstr ""
+
+#: options/builder-options-column.php:88
+#: options/builder-options-section.php:141
+msgid "Endless Constellation"
+msgstr ""
+
+#: options/builder-options-column.php:89
+#: options/builder-options-section.php:142
+msgid "Zig Zag"
+msgstr ""
+
+#: options/builder-options-column.php:90
+#: options/builder-options-section.php:143
+msgid "Repeating Chevrons"
+msgstr ""
+
+#: options/builder-options-column.php:91
+#: options/builder-options-section.php:144
+msgid "Sun Tornado"
+msgstr ""
+
+#: options/builder-options-column.php:92
+#: options/builder-options-section.php:145
+msgid "Dalmatian Spots"
+msgstr ""
+
+#: options/builder-options-column.php:106
+#: options/builder-options-section.php:159
+msgid "First"
+msgstr ""
+
+#: options/builder-options-column.php:111
+#: options/builder-options-section.php:164
+msgid "Second"
+msgstr ""
+
+#: options/builder-options-column.php:116
+#: options/builder-options-section.php:169
+msgid "Third"
+msgstr ""
+
+#: options/builder-options-column.php:147
+#: options/builder-options-section.php:200
+msgid "Background Image"
+msgstr ""
+
+#: options/builder-options-column.php:155
+#: options/builder-options-section.php:208
+msgid "Background Image Position"
+msgstr ""
+
+#: options/builder-options-column.php:163
+#: options/builder-options-column.php:167
+#: options/builder-options-section.php:216
+#: options/builder-options-section.php:220
+msgid "Right Top"
+msgstr ""
+
+#: options/builder-options-column.php:163
+#: options/builder-options-column.php:167
+#: options/builder-options-section.php:216
+#: options/builder-options-section.php:220
+msgid "Left Top"
+msgstr ""
+
+#: options/builder-options-column.php:164
+#: options/builder-options-column.php:168
+#: options/builder-options-section.php:217
+#: options/builder-options-section.php:221
+msgid "Right Bottom"
+msgstr ""
+
+#: options/builder-options-column.php:164
+#: options/builder-options-column.php:168
+#: options/builder-options-section.php:217
+#: options/builder-options-section.php:221
+msgid "Left Bottom"
+msgstr ""
+
+#: options/builder-options-column.php:165
+#: options/builder-options-column.php:169
+#: options/builder-options-section.php:218
+#: options/builder-options-section.php:222
+msgid "Right Center"
+msgstr ""
+
+#: options/builder-options-column.php:165
+#: options/builder-options-column.php:169
+#: options/builder-options-section.php:218
+#: options/builder-options-section.php:222
+msgid "Left Center"
+msgstr ""
+
+#: options/builder-options-column.php:171
+#: options/builder-options-section.php:224
+msgid "Top Center"
+msgstr ""
+
+#: options/builder-options-column.php:173
+#: options/builder-options-section.php:226
+msgid "Bottom Center"
+msgstr ""
+
+#: options/builder-options-column.php:179
+#: options/builder-options-section.php:232
+msgid "Background Location"
+msgstr ""
+
+#: options/builder-options-column.php:260
+#: options/builder-options-section.php:313
+msgid "Background Image Repeat"
+msgstr ""
+
+#: options/builder-options-column.php:266
+#: options/builder-options-section.php:319
+msgid "No Repeat"
+msgstr ""
+
+#: options/builder-options-column.php:267
+#: options/builder-options-section.php:320
+msgid "Repeat"
+msgstr ""
+
+#: options/builder-options-column.php:268
+#: options/builder-options-section.php:321
+msgid "Repeat X"
+msgstr ""
+
+#: options/builder-options-column.php:269
+#: options/builder-options-section.php:322
+msgid "Repeat Y"
+msgstr ""
+
+#: options/builder-options-column.php:275
+#: options/builder-options-section.php:328
+msgid "Background Image Size"
+msgstr ""
+
+#: options/builder-options-column.php:287
+#: options/builder-options-section.php:340
+msgid "Background Image Depth"
+msgstr ""
+
+#: options/builder-options-column.php:293
+#: options/builder-options-section.php:346
+msgid "Before the Background Color"
+msgstr ""
+
+#: options/builder-options-column.php:294
+#: options/builder-options-section.php:347
+msgid "after The background Color"
+msgstr ""
+
+#: options/builder-options-column.php:309
+#: options/builder-options-section.php:414
+msgid "Box Shadow"
+msgstr ""
+
+#: options/builder-options-column.php:329
+msgid "Hide Column in Main Resolution"
+msgstr ""
+
+#: options/builder-options-column.php:331
+msgid "You can Hide Column Resolution min 1199px"
+msgstr ""
+
+#: options/builder-options-column.php:332
+#: options/builder-options-column.php:340
+#: options/builder-options-column.php:349
+#: options/builder-options-column.php:358
+#: options/builder-options-column.php:367
+msgid "Responsive"
+msgstr ""
+
+#: options/builder-options-column.php:337
+msgid "Column in Desktop"
+msgstr ""
+
+#: options/builder-options-column.php:339
+msgid ""
+"You can select Column in Desktop Devices,Resolution max 1199px and min 992px"
+msgstr ""
+
+#: options/builder-options-column.php:346
+msgid "Column in Tablet"
+msgstr ""
+
+#: options/builder-options-column.php:348
+msgid ""
+"You can select Column in Tabel Devices,Resolution max 991px and min 768px"
+msgstr ""
+
+#: options/builder-options-column.php:355
+msgid "Column in Fablet"
+msgstr ""
+
+#: options/builder-options-column.php:357
+msgid ""
+"You can select Column in Phablet Devices ,Resolution max 767px and min 501px"
+msgstr ""
+
+#: options/builder-options-column.php:364
+msgid "Column in Phone"
+msgstr ""
+
+#: options/builder-options-column.php:366
+msgid "You can select Column in Phone Devices,Resolution max 500px"
+msgstr ""
+
+#: options/builder-options-column.php:374
+msgid "Column ID"
+msgstr ""
+
+#: options/builder-options-column.php:383
+msgid "Column Custom Class"
+msgstr ""
+
+#: options/builder-options-section.php:21
+msgid "Width Row"
+msgstr ""
+
+#: options/builder-options-section.php:29
+msgid "Boxed Layout"
+msgstr ""
+
+#: options/builder-options-section.php:36
+msgid "Sticky Columns"
+msgstr ""
+
+#: options/builder-options-section.php:39
+msgid ""
+"Sticky Columns is a floating box that stuck to the browsers top when you "
+"scroll "
+msgstr ""
+
+#: options/builder-options-section.php:44
+msgid "Between Column"
+msgstr ""
+
+#: options/builder-options-section.php:61
+msgid "Margin"
+msgstr ""
+
+#: options/builder-options-section.php:64
+msgid "Space the row,Default \"0\""
+msgstr ""
+
+#: options/builder-options-section.php:361
+msgid "Background in Top"
+msgstr ""
+
+#: options/builder-options-section.php:369
+msgid "Background Style in Top  "
+msgstr ""
+
+#: options/builder-options-section.php:383
+msgid "Background in Bottom"
+msgstr ""
+
+#: options/builder-options-section.php:391
+msgid "Background Style"
+msgstr ""
+
+#: options/builder-options-section.php:434
+msgid "Section ID"
+msgstr ""
+
+#: options/builder-options-section.php:437
+msgid "Enter section ID ,"
+msgstr ""
+
+#: options/builder-options-section.php:443
+msgid "Section Custom Class"
+msgstr ""
+
+#: options/fa-icon.php:14
+msgid "Web Application Icons"
+msgstr ""
+
+#: options/fa-icon.php:467
+msgid "Accessibility Icons"
+msgstr ""
+
+#: options/fa-icon.php:506
+msgid "Transportation Icons"
+msgstr ""
+
+#: options/fa-icon.php:527
+msgid "Gender Icons"
+msgstr ""
+
+#: options/fa-icon.php:543
+msgid "File Type Icons"
+msgstr ""
+
+#: options/fa-icon.php:563
+msgid "Spinner Icons"
+msgstr ""
+
+#: options/fa-icon.php:570
+msgid "Form Control Icons"
+msgstr ""
+
+#: options/fa-icon.php:583
+msgid "Payment Icons"
+msgstr ""
+
+#: options/fa-icon.php:597
+msgid "Chart Icons"
+msgstr ""
+
+#: options/fa-icon.php:604
+msgid "Currency Icons"
+msgstr ""
+
+#: options/fa-icon.php:633
+msgid "Text Editor Icons"
+msgstr ""
+
+#: options/fa-icon.php:684
+msgid "Directional Icons"
+msgstr ""
+
+#: options/fa-icon.php:739
+msgid "Video Player Icons"
+msgstr ""
+
+#: options/fa-icon.php:762
+msgid "Brand Icons"
+msgstr ""
+
+#: options/fa-icon.php:953
+msgid "Medical Icons"
+msgstr ""
+
+#: element/mini/boxed.php:76 element/mini/boxed.php:107
+#: element/mini/multi_boxed_item.php:79 element/mini/multi_boxed_item.php:110
+msgid "on Hover Boxed Style"
+msgstr ""
+
+#: element/mini/boxed.php:84 element/mini/multi_boxed_item.php:87
+msgid "Hover Boxed Background Color"
+msgstr ""
+
+#: element/mini/boxed.php:91 element/mini/multi_boxed_item.php:94
+msgid "Hover Boxed Border"
+msgstr ""
+
+#: element/mini/boxed.php:100 element/mini/multi_boxed_item.php:103
+msgid "Hover Boxed Shadow"
+msgstr ""
+
+#: element/mini/button.php:40 element/mini/button.php:88
+msgid "Button Style"
+msgstr ""
+
+#: element/mini/button.php:46
+msgid "Button Text Color"
+msgstr ""
+
+#: element/mini/button.php:55
+msgid "Button Background Color"
+msgstr ""
+
+#: element/mini/button.php:65
+msgid "Button Border"
+msgstr ""
+
+#: element/mini/button.php:74
+msgid "Button Border Radius"
+msgstr ""
+
+#: element/mini/button.php:95 element/mini/button.php:136
+msgid "On Hover Style"
+msgstr ""
+
+#: element/mini/button.php:102
+msgid "Hover Button Effects"
+msgstr ""
+
+#: element/mini/button.php:112
+msgid "Hover Button Text Color"
+msgstr ""
+
+#: element/mini/button.php:119
+msgid "Hover Button Background Color"
+msgstr ""
+
+#: element/mini/button.php:128
+msgid "Hover Button Border"
+msgstr ""
+
+#: element/mini/button_typography.php:7 element/mini/button_typography.php:86
+msgid "Button Typography"
+msgstr ""
+
+#: element/mini/button_typography.php:16
+msgid "Button Font Size"
+msgstr ""
+
+#: element/mini/button_typography.php:40
+msgid "Button Font Weight"
+msgstr ""
+
+#: element/mini/button_typography.php:57
+msgid "Button Text Transform"
+msgstr ""
+
+#: element/mini/button_typography.php:72
+msgid "Button Font Style"
+msgstr ""
+
+#: element/mini/details.php:3
+msgid "Details Style"
+msgstr ""
+
+#: element/mini/details.php:19
+msgid "Details Color"
+msgstr ""
+
+#: element/mini/details.php:27
+msgid "Title Line Bottom"
+msgstr ""
+
+#: element/mini/details.php:81
+msgid "Hover Details Style"
+msgstr ""
+
+#: element/mini/details.php:96
+msgid "Hover Details Color"
+msgstr ""
+
+#: element/mini/details_typography.php:7
+msgid "Details Typography"
+msgstr ""
+
+#: element/mini/details_typography.php:16
+msgid "Details Font Size"
+msgstr ""
+
+#: element/mini/details_typography.php:40
+msgid "Details Font Weight"
+msgstr ""
+
+#: element/mini/details_typography.php:60
+msgid "Details Line Height"
+msgstr ""
+
+#: element/mini/details_typography.php:81
+msgid "Details Font Style"
+msgstr ""
+
+#: element/mini/icon.php:117 element/mini/icon.php:175
+msgid "on Hover"
+msgstr ""
+
+#: element/mini/icon.php:124
+msgid "Hover Icon Effects"
+msgstr ""
+
+#: element/mini/image.php:6 element/mini/image.php:36
+msgid "Image Style"
+msgstr ""
+
+#: element/mini/image.php:12
+msgid "Image Border"
+msgstr ""
+
+#: element/mini/image.php:21
+msgid "Image Box Shadow"
+msgstr ""
+
+#: element/mini/image.php:28
+msgid "Image Border Radius"
+msgstr ""
+
+#: element/mini/image.php:42 element/mini/image.php:99
+msgid "On Hover Image Style"
+msgstr ""
+
+#: element/mini/image.php:49
+msgid "Hover Image effect"
+msgstr ""
+
+#: element/mini/image.php:62
+msgid "Reduce Opacity"
+msgstr ""
+
+#: element/mini/image.php:63
+msgid "Remove Opacity"
+msgstr ""
+
+#: element/mini/image.php:64
+msgid "Add Color"
+msgstr ""
+
+#: element/mini/image.php:65
+msgid "Remove Color"
+msgstr ""
+
+#: element/mini/image.php:66
+msgid "Grow"
+msgstr ""
+
+#: element/mini/image.php:67
+msgid "Shrink"
+msgstr ""
+
+#: element/mini/image.php:68
+msgid "Side Pan"
+msgstr ""
+
+#: element/mini/image.php:69
+msgid "Vertical Pan"
+msgstr ""
+
+#: element/mini/image.php:70
+msgid "Rotate"
+msgstr ""
+
+#: element/mini/image.php:71
+msgid "Add Blur"
+msgstr ""
+
+#: element/mini/image.php:72
+msgid "Remove Blur"
+msgstr ""
+
+#: element/mini/image.php:73
+msgid "Add Brighten"
+msgstr ""
+
+#: element/mini/image.php:74
+msgid "Remove Brighten"
+msgstr ""
+
+#: element/mini/image.php:75
+msgid "Add Darkness"
+msgstr ""
+
+#: element/mini/image.php:76
+msgid "Remove Darkness"
+msgstr ""
+
+#: element/mini/image.php:82
+msgid "Hover Image Border"
+msgstr ""
+
+#: element/mini/image.php:91
+msgid "Hover Image Box Shadow"
+msgstr ""
+
+#: element/mini/image.php:106
+msgid "on Hover Style Icon"
+msgstr ""
+
+#: element/mini/image.php:123
+msgid "Image Hover Background Effect"
+msgstr ""
+
+#: element/mini/image.php:133
+msgid "Image Hover Background Color"
+msgstr ""
+
+#: element/mini/image.php:139
+msgid "Image Hover Caption Color"
+msgstr ""
+
+#: element/mini/multi_boxed_item.php:119
+msgid "Border Between item"
+msgstr ""
+
+#: element/mini/percent_typography.php:56
+msgid "Percent Text Transform"
+msgstr ""
+
+#: element/mini/percent_typography.php:70
+msgid "percent Font Style"
+msgstr ""
+
+#: element/mini/text_typography.php:4
+msgid "Text Typography"
+msgstr ""
+
+#: element/mini/text_typography.php:13
+msgid "Text Font Family"
+msgstr ""
+
+#: element/mini/title_typography.php:64
+msgid "Title Line Height"
+msgstr ""
+
+#. Name of the plugin
+msgid "Saoshyant Page Builder"
+msgstr ""
+
+#. Description of the plugin
+msgid "Drag and drop page builder for WordPress"
+msgstr ""
+
+#. Author of the plugin
+msgid "Saoshyant.1994"
+msgstr ""
